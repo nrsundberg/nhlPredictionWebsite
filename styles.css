@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box;
+}
+:root {
+    --dark-grey: #8D8E8E;
+    --mint-green: #85FF9E;
+    --header-font: bold 24px Segoe UI;
+    --black: black;
+}
+body {
+    margin: 0 0;
+}
+header {
+    align-items: center;
+    border-bottom: solid var(--dark-grey);
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 60px;
+}
+.header-link {
+    color: var(--black);
+    font: var(--header-font);
+    text-decoration: none;
+    margin: 10px;
+}
+.login-button {
+    background-color: var(--mint-green);
+    border-radius: 10px;
+}
+.page-area {
+    display: grid;
+    margin: 5% 5%;
+    grid-template-columns: 1fr 1fr;
+}
+.left-half {
+    grid-column: 1;
+}
+.right-half {
+    grid-column: 2;
+}
+.section-title {
+    font: var(--header-font);
+    margin-bottom: 0;
+}
+.to-fill-area {
+    background-color: var(--dark-grey);
+    border-radius: 10px;
+    height: 100px;
+    width: 40vw;
+    margin-top: 0;
+}
+.games-area-columns {   
+    display: grid;
+    grid-template-columns: 2fr 1fr 1.5fr 1fr 1fr;
+    grid-template-areas: "today win req current from";
+    font: var(--header-font);
+}
+.today {grid-area: today;}
+.win{grid-area: win;}
+.req{grid-area: req;}
+.current{grid-area: current;}
+.from{grid-area: from;}
+.page-area-game {
+    display: grid;
+    margin: 5% 5%;
+}
+.full-games-area {
+    background-color: var(--dark-grey);
+    border-radius: 10px;
+    height: 400px;
+    width: 90vw;
+    margin-top: 0;
+}
+.page-area-lineups {
+    display: grid;
+    margin: 5% 5%;
+}
+.full-team-area {
+    background-color: var(--dark-grey);
+    border-radius: 10px;
+    height: 400px;
+    width: 90vw;
+    margin-top: 0;
+}
+.teams-area-columns {   
+    display: grid;
+    grid-template-columns: 1fr 1.5fr 1.5fr 1.5fr;
+    grid-template-areas: "team players gf ga";
+    font: var(--header-font);
+}
+.team{grid-area: team;}
+.players{grid-area: players;}
+.gf{grid-area: gf;}
+.ga{grid-area: ga;}
