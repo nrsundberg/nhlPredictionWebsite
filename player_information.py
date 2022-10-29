@@ -4,7 +4,7 @@ import pandas
 import csv
 import time
 team_id_list = []
-with open("C:/Users/Noah/Documents/GitHub/NHL/team_id.txt", 'r') as file:
+with open("flatFiles/team_id.txt", 'r') as file:
     csvreader = csv.reader(file)
     header = next(csvreader)
     for row in csvreader:
@@ -75,7 +75,7 @@ team_dataframe.to_csv('team.txt', index=False)
 import pandas
 import csv
 player_list_all = []
-with open("C:/Users/Noah/Documents/GitHub/NHL/player.txt", 'r') as file:
+with open("flatFiles/player.txt", 'r') as file:
     csvreader = csv.reader(file)
     header = next(csvreader)
     for row in csvreader:
