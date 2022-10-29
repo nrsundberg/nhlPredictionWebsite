@@ -93,3 +93,19 @@ header {
 .players{grid-area: players;}
 .gf{grid-area: gf;}
 .ga{grid-area: ga;}
+.bet-section {
+    background-color: var(--dark-grey);
+    border-radius: 10px;
+    height: 200px;
+    width: 90vw;
+    margin-top: 0;
+}
+.page-area-bets {
+    display: grid;
+    margin: 5% 5%;
+}
+.bet-performance {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 300px;
+}

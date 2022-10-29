@@ -1,0 +1,1313 @@
+game_id,home_team_alias,home_team,away_team_alias,away_team,date,time_zone
+7a3ddea5-6cb4-43ee-bd78-a3e5799d2021,NSH,Nashville Predators,SJ,San Jose Sharks,2022-10-07T18:00:00Z,Europe/Vienna
+952920a3-9cd4-4ca9-a839-29b8700805c7,SJ,San Jose Sharks,NSH,Nashville Predators,2022-10-08T18:00:00Z,Europe/Vienna
+d4e6e4d6-4f54-417a-aad0-d31ef1f8e59a,NYR,New York Rangers,TB,Tampa Bay Lightning,2022-10-11T23:30:00Z,US/Eastern
+74862d16-c58e-48cd-9ac9-8bba7c38e5ce,LA,Los Angeles Kings,VGK,Vegas Golden Knights,2022-10-12T02:00:00Z,US/Pacific
+0e98c1ac-2b1b-4ed1-ab70-62c5c8cdee59,CAR,Carolina Hurricanes,CBJ,Columbus Blue Jackets,2022-10-12T23:00:00Z,US/Eastern
+5fdf470b-8cb9-4748-bae5-60fcd29de3b4,MTL,Montreal Canadiens,TOR,Toronto Maple Leafs,2022-10-12T23:00:00Z,US/Eastern
+c0a72838-2d41-4bd3-81cf-034a6a6fdafd,WSH,Washington Capitals,BOS,Boston Bruins,2022-10-12T23:00:00Z,US/Eastern
+55d3e1ad-649c-47dd-acbf-0e62fab5168e,COL,Colorado Avalanche,CHI,Chicago Blackhawks,2022-10-13T01:30:00Z,US/Mountain
+a2fb9757-da5a-4d9b-856b-2523a8396755,EDM,Edmonton Oilers,VAN,Vancouver Canucks,2022-10-13T02:00:00Z,US/Mountain
+f2c5a482-0b61-4a83-b43a-3eaed4e12fc2,ANA,Anaheim Ducks,SEA,Seattle Kraken,2022-10-13T02:00:00Z,US/Pacific
+10ceff40-6507-404b-b0f1-a5f8abfba753,PIT,Pittsburgh Penguins,ARI,Arizona Coyotes,2022-10-13T23:00:00Z,US/Eastern
+a0d69bc8-a02b-45f2-a3c1-1a3c7d7c08f5,PHI,Philadelphia Flyers,NJ,New Jersey Devils,2022-10-13T23:00:00Z,US/Eastern
+f0211208-c817-4a22-94ea-a17d30f3b328,BUF,Buffalo Sabres,OTT,Ottawa Senators,2022-10-13T23:00:00Z,US/Eastern
+61c57231-ea2f-46a0-be17-a335f3aba7e4,TOR,Toronto Maple Leafs,WSH,Washington Capitals,2022-10-13T23:30:00Z,US/Eastern
+7808426d-fca4-4be0-82ff-2079db73ca87,NYI,New York Islanders,FLA,Florida Panthers,2022-10-13T23:30:00Z,US/Eastern
+ca0128f4-ead0-4947-8346-024ce4838c28,MIN,Minnesota Wild,NYR,New York Rangers,2022-10-14T00:00:00Z,US/Central
+f6a6434c-1460-4187-81c2-39b73b12a6cb,NSH,Nashville Predators,DAL,Dallas Stars,2022-10-14T00:30:00Z,US/Central
+b273d3f6-3c2a-47d1-8fde-9455fc952404,CGY,Calgary Flames,COL,Colorado Avalanche,2022-10-14T01:30:00Z,US/Mountain
+5b75c8a2-d2d3-4444-91ad-46f164ca92a2,VGK,Vegas Golden Knights,CHI,Chicago Blackhawks,2022-10-14T02:00:00Z,US/Pacific
+c9af2bad-40d7-4d2c-a39a-5ba41d930be1,LA,Los Angeles Kings,SEA,Seattle Kraken,2022-10-14T02:30:00Z,US/Pacific
+a07f02df-30dd-4c83-b550-55946fd87876,CBJ,Columbus Blue Jackets,TB,Tampa Bay Lightning,2022-10-14T23:00:00Z,US/Eastern
+ac9b1271-3848-46eb-8e04-576167f632f2,DET,Detroit Red Wings,MTL,Montreal Canadiens,2022-10-14T23:00:00Z,US/Eastern
+1c9575ce-499a-4802-a1f7-632067fc9f4f,WPG,Winnipeg Jets,NYR,New York Rangers,2022-10-15T00:00:00Z,US/Central
+284af95a-4fb6-4790-b26b-6deccb26ee89,SJ,San Jose Sharks,CAR,Carolina Hurricanes,2022-10-15T02:30:00Z,US/Pacific
+acab8a09-d0ac-4020-9edd-02c6bc416425,BUF,Buffalo Sabres,FLA,Florida Panthers,2022-10-15T17:00:00Z,US/Eastern
+e4991af0-006e-43dc-b3a5-a457d58ae6c1,PHI,Philadelphia Flyers,VAN,Vancouver Canucks,2022-10-15T20:00:00Z,US/Eastern
+15bf2a2d-98e2-4f4a-8be7-e8c43944a9d5,PIT,Pittsburgh Penguins,TB,Tampa Bay Lightning,2022-10-15T23:00:00Z,US/Eastern
+5ec49616-62bf-4e22-b437-54021dde6515,NJ,New Jersey Devils,DET,Detroit Red Wings,2022-10-15T23:00:00Z,US/Eastern
+b2d588bd-7419-4940-aab8-6fb7c7ac7311,WSH,Washington Capitals,MTL,Montreal Canadiens,2022-10-15T23:00:00Z,US/Eastern
+c6046c55-1f9b-43bc-a0f9-d507c7245e00,BOS,Boston Bruins,ARI,Arizona Coyotes,2022-10-15T23:00:00Z,US/Eastern
+ff01f668-74c1-4f00-9c6c-ac567228a0fb,TOR,Toronto Maple Leafs,OTT,Ottawa Senators,2022-10-15T23:00:00Z,US/Eastern
+52d71f08-a54d-40bd-8234-960c58253f9a,NYI,New York Islanders,ANA,Anaheim Ducks,2022-10-15T23:30:00Z,US/Eastern
+0d2a7780-d067-41e1-92d8-d55a6f2e9f8b,STL,St. Louis Blues,CBJ,Columbus Blue Jackets,2022-10-16T00:00:00Z,US/Central
+4de2f525-ac3b-40be-a4c7-a3d7e6b5cc53,MIN,Minnesota Wild,LA,Los Angeles Kings,2022-10-16T00:00:00Z,US/Central
+c7525093-c974-41e8-960d-1119d055c81b,DAL,Dallas Stars,NSH,Nashville Predators,2022-10-16T00:00:00Z,US/Central
+c02e62c3-65e7-403b-8264-2c6a4f3bbb4c,SEA,Seattle Kraken,VGK,Vegas Golden Knights,2022-10-16T02:00:00Z,US/Pacific
+c2265766-3c9b-494c-87f3-bd8a240caebb,SJ,San Jose Sharks,CHI,Chicago Blackhawks,2022-10-16T02:00:00Z,US/Pacific
+fe8a3ea9-5152-4d1f-b976-76f0cef263ba,EDM,Edmonton Oilers,CGY,Calgary Flames,2022-10-16T02:00:00Z,US/Mountain
+2fe94836-6903-4f39-b818-54068e718e17,WSH,Washington Capitals,VAN,Vancouver Canucks,2022-10-17T23:00:00Z,US/Eastern
+6640e2b1-58e8-415a-8f01-fa1e5835f551,BOS,Boston Bruins,FLA,Florida Panthers,2022-10-17T23:00:00Z,US/Eastern
+8091a806-60a4-456a-8d68-2045006618c4,NYR,New York Rangers,ANA,Anaheim Ducks,2022-10-17T23:00:00Z,US/Eastern
+b883060f-3260-4f23-9315-b0c50421a168,MTL,Montreal Canadiens,PIT,Pittsburgh Penguins,2022-10-17T23:00:00Z,US/Eastern
+d81c6c30-acfd-408f-8f9b-fae168dff41d,TOR,Toronto Maple Leafs,ARI,Arizona Coyotes,2022-10-17T23:00:00Z,US/Eastern
+fe4ff4e5-34f2-4ac7-90d3-10c3acf550d8,DET,Detroit Red Wings,LA,Los Angeles Kings,2022-10-17T23:00:00Z,US/Eastern
+a1898d87-f12a-4f3c-9a0c-d2ceccc9d4a5,MIN,Minnesota Wild,COL,Colorado Avalanche,2022-10-18T00:00:00Z,US/Central
+f1d2f493-f89d-458d-b17c-c1640c68dd96,DAL,Dallas Stars,WPG,Winnipeg Jets,2022-10-18T00:30:00Z,US/Central
+b8ef969a-2731-49ce-b7bb-4e436e524555,SEA,Seattle Kraken,CAR,Carolina Hurricanes,2022-10-18T02:00:00Z,US/Pacific
+166f93aa-1d7c-45af-a196-650548e5c053,NJ,New Jersey Devils,ANA,Anaheim Ducks,2022-10-18T23:00:00Z,US/Eastern
+7b9ebe4d-45d0-4d22-9f8c-ce9ce5c58340,CBJ,Columbus Blue Jackets,VAN,Vancouver Canucks,2022-10-18T23:00:00Z,US/Eastern
+b4af4250-3a64-443e-bc37-e6e40d266ea1,OTT,Ottawa Senators,BOS,Boston Bruins,2022-10-18T23:00:00Z,US/Eastern
+e91e62cc-508a-4e17-8dfc-bb95901a89a8,TB,Tampa Bay Lightning,PHI,Philadelphia Flyers,2022-10-18T23:00:00Z,US/Eastern
+b2ee5522-40b5-4a81-a942-ef645620997c,NYI,New York Islanders,SJ,San Jose Sharks,2022-10-18T23:30:00Z,US/Eastern
+a21eb7fb-93b2-46c2-bc64-2fffb1dc6973,CGY,Calgary Flames,VGK,Vegas Golden Knights,2022-10-19T01:00:00Z,US/Mountain
+ce3a7f30-6e12-47ee-9ad2-bc228a845b19,EDM,Edmonton Oilers,BUF,Buffalo Sabres,2022-10-19T01:00:00Z,US/Mountain
+0a525367-2e09-4c04-bc4c-7aecd9ee995b,NSH,Nashville Predators,LA,Los Angeles Kings,2022-10-19T01:30:00Z,US/Central
+047ef062-8675-4e34-a291-c3c1a39d5c85,FLA,Florida Panthers,PHI,Philadelphia Flyers,2022-10-19T23:30:00Z,US/Eastern
+f6614595-9b14-4ae0-81ed-339e7b41f92a,COL,Colorado Avalanche,WPG,Winnipeg Jets,2022-10-20T00:00:00Z,US/Mountain
+ac7ee7ff-3127-4114-82d9-2b3f79643bfa,SEA,Seattle Kraken,STL,St. Louis Blues,2022-10-20T02:00:00Z,US/Pacific
+0c5442d5-0cc8-4d83-949d-157f2e59a788,CBJ,Columbus Blue Jackets,NSH,Nashville Predators,2022-10-20T23:00:00Z,US/Eastern
+2f62d261-91b3-4d6f-8695-5676e9c65d04,OTT,Ottawa Senators,WSH,Washington Capitals,2022-10-20T23:00:00Z,US/Eastern
+3cf162de-00f6-483e-9475-3b953c85d841,MTL,Montreal Canadiens,ARI,Arizona Coyotes,2022-10-20T23:00:00Z,US/Eastern
+88f2532a-8068-45f6-beda-8b70a3d7909a,NYR,New York Rangers,SJ,San Jose Sharks,2022-10-20T23:00:00Z,US/Eastern
+af0dff48-4a64-48d0-92c0-3d94e11fc3b9,TOR,Toronto Maple Leafs,DAL,Dallas Stars,2022-10-20T23:00:00Z,US/Eastern
+dc40a7d0-3db8-4e86-981d-7fd5f6a0b257,BOS,Boston Bruins,ANA,Anaheim Ducks,2022-10-20T23:00:00Z,US/Eastern
+fe406267-cca3-4f0d-b9f8-3b9e87a16648,PIT,Pittsburgh Penguins,LA,Los Angeles Kings,2022-10-20T23:00:00Z,US/Eastern
+04a9053d-4ab1-49e7-ad10-30045731c2b7,NYI,New York Islanders,NJ,New Jersey Devils,2022-10-20T23:30:00Z,US/Eastern
+32ea460e-822e-4b2a-ba15-0582bad7d45b,MIN,Minnesota Wild,VAN,Vancouver Canucks,2022-10-21T00:00:00Z,US/Central
+4354f797-6883-4caf-ad36-65eba7a3a1f5,EDM,Edmonton Oilers,CAR,Carolina Hurricanes,2022-10-21T01:00:00Z,US/Mountain
+f408aa83-1eaa-46bf-801c-d062c93a3512,CGY,Calgary Flames,BUF,Buffalo Sabres,2022-10-21T01:30:00Z,US/Mountain
+0fd734aa-d3a5-49cf-9ec7-f1f87fdcab5a,VGK,Vegas Golden Knights,WPG,Winnipeg Jets,2022-10-21T02:00:00Z,US/Pacific
+3c99594e-b48b-43d3-b8ec-2a070d5f43bb,FLA,Florida Panthers,TB,Tampa Bay Lightning,2022-10-21T23:30:00Z,US/Eastern
+5d19bd2f-2883-40f6-a508-a3be10163962,CHI,Chicago Blackhawks,DET,Detroit Red Wings,2022-10-22T00:30:00Z,US/Central
+d5c5ca1d-e89f-414c-b121-c1a95cbfa0a5,COL,Colorado Avalanche,SEA,Seattle Kraken,2022-10-22T01:00:00Z,US/Mountain
+5d6bfc4a-5239-4464-a7ac-a081393bebde,NJ,New Jersey Devils,SJ,San Jose Sharks,2022-10-22T17:00:00Z,US/Eastern
+76bbd414-9881-431b-9548-d2313e498667,BOS,Boston Bruins,MIN,Minnesota Wild,2022-10-22T17:00:00Z,US/Eastern
+e26e092f-c32f-4556-bf57-3d712a8c465e,EDM,Edmonton Oilers,STL,St. Louis Blues,2022-10-22T20:00:00Z,US/Mountain
+e7e3341a-b312-4728-a243-a5ee005be285,OTT,Ottawa Senators,ARI,Arizona Coyotes,2022-10-22T20:00:00Z,US/Eastern
+07488e2a-0a21-4d6e-af09-3f006f1239cd,CBJ,Columbus Blue Jackets,PIT,Pittsburgh Penguins,2022-10-22T23:00:00Z,US/Eastern
+30f22437-adf6-4483-8aa2-82ff0bfd4afc,TB,Tampa Bay Lightning,NYI,New York Islanders,2022-10-22T23:00:00Z,US/Eastern
+459100cf-d933-48f4-a1ce-ce051c639322,MTL,Montreal Canadiens,DAL,Dallas Stars,2022-10-22T23:00:00Z,US/Eastern
+e501e4e8-b6de-4f04-accc-1cf0657f4f8f,WPG,Winnipeg Jets,TOR,Toronto Maple Leafs,2022-10-22T23:00:00Z,US/Central
+f90222e0-e6fd-4d1b-adc7-92836c7fa66c,WSH,Washington Capitals,LA,Los Angeles Kings,2022-10-22T23:00:00Z,US/Eastern
+c6ec8181-83ab-4123-b129-b3cebed5dc8f,NSH,Nashville Predators,PHI,Philadelphia Flyers,2022-10-23T00:00:00Z,US/Central
+166acb3e-22fb-4115-af73-77fd86ae4b65,VGK,Vegas Golden Knights,COL,Colorado Avalanche,2022-10-23T02:00:00Z,US/Pacific
+7e0c4e8e-d638-4913-9638-0924591aa152,CGY,Calgary Flames,CAR,Carolina Hurricanes,2022-10-23T02:00:00Z,US/Mountain
+fcb27fdd-2f2a-496a-9784-ab8b9318e58f,VAN,Vancouver Canucks,BUF,Buffalo Sabres,2022-10-23T02:00:00Z,US/Pacific
+b5418b36-b219-4515-8a15-2a75f620bb5b,CHI,Chicago Blackhawks,SEA,Seattle Kraken,2022-10-23T18:00:00Z,US/Central
+64a79b11-93c1-4e84-a5f9-066f707c458f,NYR,New York Rangers,CBJ,Columbus Blue Jackets,2022-10-23T21:00:00Z,US/Eastern
+676bf793-b23e-4c3e-8584-39e988817194,DET,Detroit Red Wings,ANA,Anaheim Ducks,2022-10-23T21:00:00Z,US/Eastern
+f7b384fe-ee47-4bd6-9af2-20646f7fd5ac,FLA,Florida Panthers,NYI,New York Islanders,2022-10-23T21:00:00Z,US/Eastern
+7346d562-edd3-4967-bfae-84d961c47877,PHI,Philadelphia Flyers,SJ,San Jose Sharks,2022-10-23T23:00:00Z,US/Eastern
+efbe7752-a339-4c49-9590-5f7e12e0022e,NJ,New Jersey Devils,WSH,Washington Capitals,2022-10-24T23:00:00Z,US/Eastern
+fe918095-e66f-4315-8028-3af9ca194078,OTT,Ottawa Senators,DAL,Dallas Stars,2022-10-24T23:00:00Z,US/Eastern
+5f8373f5-5d50-48e5-8550-40398273c486,EDM,Edmonton Oilers,PIT,Pittsburgh Penguins,2022-10-25T00:00:00Z,US/Mountain
+cabe6c1a-cfbf-4919-9ce2-be3d17698bec,WPG,Winnipeg Jets,STL,St. Louis Blues,2022-10-25T00:00:00Z,US/Central
+54612e8a-daee-4ede-b4c6-f7f8ade11a0a,VGK,Vegas Golden Knights,TOR,Toronto Maple Leafs,2022-10-25T02:00:00Z,US/Pacific
+49c6e32e-53b4-4825-b6c4-56519c9ec6e1,VAN,Vancouver Canucks,CAR,Carolina Hurricanes,2022-10-25T02:30:00Z,US/Pacific
+5c1bd62b-bb59-4b9c-addf-1b39880d32a8,DET,Detroit Red Wings,NJ,New Jersey Devils,2022-10-25T23:00:00Z,US/Eastern
+d236d62a-9238-474e-9988-a2d5859a2f3d,CBJ,Columbus Blue Jackets,ARI,Arizona Coyotes,2022-10-25T23:00:00Z,US/Eastern
+fa7990aa-d439-488d-83a5-566e5ec3d4ec,BOS,Boston Bruins,DAL,Dallas Stars,2022-10-25T23:00:00Z,US/Eastern
+ff4c3166-4aaa-4afc-8365-6a2245f76132,MTL,Montreal Canadiens,MIN,Minnesota Wild,2022-10-25T23:00:00Z,US/Eastern
+7a124e2f-6369-44bb-aec1-8e883247856b,NYR,New York Rangers,COL,Colorado Avalanche,2022-10-26T00:00:00Z,US/Eastern
+5b6b49e6-45cf-42c7-9078-b5f8ff7f1e9d,CHI,Chicago Blackhawks,FLA,Florida Panthers,2022-10-26T00:30:00Z,US/Central
+9b7a0994-02b4-45c9-8df6-78e9ce571756,CGY,Calgary Flames,PIT,Pittsburgh Penguins,2022-10-26T01:00:00Z,US/Mountain
+4d9d7772-10bc-4a0c-b5d9-886b5d659d96,SEA,Seattle Kraken,BUF,Buffalo Sabres,2022-10-26T02:00:00Z,US/Pacific
+07185cde-b046-4a5b-ad19-45c57572d847,LA,Los Angeles Kings,TB,Tampa Bay Lightning,2022-10-26T02:30:00Z,US/Pacific
+66e4fd4d-7399-449f-bda2-47d4649db3a9,SJ,San Jose Sharks,VGK,Vegas Golden Knights,2022-10-26T02:30:00Z,US/Pacific
+50dda4f0-1b07-4b6a-9d65-f2f77680484e,NYI,New York Islanders,NYR,New York Rangers,2022-10-26T23:30:00Z,US/Eastern
+bc496377-b872-48d0-8e3a-086eada4343d,STL,St. Louis Blues,EDM,Edmonton Oilers,2022-10-27T00:00:00Z,US/Central
+373364d9-c6a7-4c89-981b-1f1814965f1b,ANA,Anaheim Ducks,TB,Tampa Bay Lightning,2022-10-27T02:00:00Z,US/Pacific
+320269a8-26f6-4037-901b-e3cd8509aaf0,BUF,Buffalo Sabres,MTL,Montreal Canadiens,2022-10-27T23:00:00Z,US/Eastern
+35794e9f-1e15-4f4e-9e81-ab4203a65062,PHI,Philadelphia Flyers,FLA,Florida Panthers,2022-10-27T23:00:00Z,US/Eastern
+b4086acf-0ae4-4561-a818-a0b405c53b9a,OTT,Ottawa Senators,MIN,Minnesota Wild,2022-10-27T23:00:00Z,US/Eastern
+d7434651-dd51-49e4-9491-c59288fd4094,BOS,Boston Bruins,DET,Detroit Red Wings,2022-10-27T23:00:00Z,US/Eastern
+f6d8340a-0973-4bf6-9a40-d3c869ba9e33,NSH,Nashville Predators,STL,St. Louis Blues,2022-10-28T00:00:00Z,US/Central
+06fc4032-ebb9-4618-890c-dff93c80212a,DAL,Dallas Stars,WSH,Washington Capitals,2022-10-28T00:30:00Z,US/Central
+e638a29e-da46-402f-8963-2ae5141b596c,CHI,Chicago Blackhawks,EDM,Edmonton Oilers,2022-10-28T00:30:00Z,US/Central
+1b400683-d276-408c-be20-1913e9e62e09,SEA,Seattle Kraken,VAN,Vancouver Canucks,2022-10-28T02:00:00Z,US/Pacific
+3b369243-bb84-4a5b-9795-76ef343bd908,LA,Los Angeles Kings,WPG,Winnipeg Jets,2022-10-28T02:30:00Z,US/Pacific
+58d237be-912d-47b8-91d3-121fe62123ca,SJ,San Jose Sharks,TOR,Toronto Maple Leafs,2022-10-28T02:30:00Z,US/Pacific
+11d5394b-c123-46bd-bf4b-528fb75390a0,VGK,Vegas Golden Knights,ANA,Anaheim Ducks,2022-10-28T22:00:00Z,US/Pacific
+54bd5ed0-4245-484f-8ee9-bad2242df6a9,CBJ,Columbus Blue Jackets,BOS,Boston Bruins,2022-10-28T23:00:00Z,US/Eastern
+619677b6-9b62-4a55-9c8e-4ba8f4897e86,NJ,New Jersey Devils,COL,Colorado Avalanche,2022-10-28T23:00:00Z,US/Eastern
+9ddf0d6c-f275-47fc-9e54-2d4a5e538a61,CAR,Carolina Hurricanes,NYI,New York Islanders,2022-10-28T23:00:00Z,US/Eastern
+5d89bc94-affc-4274-8705-b05d269eed07,VAN,Vancouver Canucks,PIT,Pittsburgh Penguins,2022-10-29T02:00:00Z,US/Pacific
+efda9129-5d93-4b1f-a2ed-05f9c80b4c97,ARI,Arizona Coyotes,WPG,Winnipeg Jets,2022-10-29T02:30:00Z,US/Mountain
+709f3968-cfe2-414e-bd41-e29959a734b3,DAL,Dallas Stars,NYR,New York Rangers,2022-10-29T18:00:00Z,US/Central
+04159f40-9551-473a-b272-69b47463b24f,FLA,Florida Panthers,OTT,Ottawa Senators,2022-10-29T20:00:00Z,US/Eastern
+f465c737-82cd-4d5c-8469-fc52eba06b09,SJ,San Jose Sharks,TB,Tampa Bay Lightning,2022-10-29T20:30:00Z,US/Pacific
+160ad1a6-c2f3-4b93-9830-6b47bab407fe,BUF,Buffalo Sabres,CHI,Chicago Blackhawks,2022-10-29T23:00:00Z,US/Eastern
+3efd6f9c-4356-41dc-bb2b-b68a54e85e79,LA,Los Angeles Kings,TOR,Toronto Maple Leafs,2022-10-29T23:00:00Z,US/Pacific
+63cc1d87-edbc-4c92-8c35-97a33865b650,PHI,Philadelphia Flyers,CAR,Carolina Hurricanes,2022-10-29T23:00:00Z,US/Eastern
+948f50a5-7e3d-4651-9eba-78649320472f,DET,Detroit Red Wings,MIN,Minnesota Wild,2022-10-29T23:00:00Z,US/Eastern
+fff19df5-e912-4a5d-865e-93bb4ef3767d,STL,St. Louis Blues,MTL,Montreal Canadiens,2022-10-29T23:00:00Z,US/Central
+27f718dc-c284-43b1-b21f-c0437177008c,NYI,New York Islanders,COL,Colorado Avalanche,2022-10-29T23:30:00Z,US/Eastern
+bb14132b-ac6f-4579-99bd-dc418d772c38,NSH,Nashville Predators,WSH,Washington Capitals,2022-10-30T00:00:00Z,US/Central
+05913050-855b-4390-955d-e3372aa68060,SEA,Seattle Kraken,PIT,Pittsburgh Penguins,2022-10-30T02:00:00Z,US/Pacific
+da5563cd-7b1c-47ef-8f38-10c96da5eb2b,CGY,Calgary Flames,EDM,Edmonton Oilers,2022-10-30T02:00:00Z,US/Mountain
+ceb141eb-6d29-4e16-960b-2800c5ae06e9,NJ,New Jersey Devils,CBJ,Columbus Blue Jackets,2022-10-30T18:00:00Z,US/Eastern
+f2bf2334-09a6-4e52-9454-4ef936602948,CHI,Chicago Blackhawks,MIN,Minnesota Wild,2022-10-30T23:00:00Z,US/Central
+74429578-b88b-4ce5-be2a-67409d745585,ANA,Anaheim Ducks,TOR,Toronto Maple Leafs,2022-10-31T00:00:00Z,US/Pacific
+96acd3f0-0849-45b2-a765-671b41cbe32a,VGK,Vegas Golden Knights,WPG,Winnipeg Jets,2022-10-31T00:00:00Z,US/Pacific
+9c3f5c15-2774-46f1-903a-9ec6938e88fd,ARI,Arizona Coyotes,NYR,New York Rangers,2022-10-31T00:00:00Z,US/Mountain
+917425a4-1e42-49de-9f53-ad5fff662395,BUF,Buffalo Sabres,DET,Detroit Red Wings,2022-10-31T23:00:00Z,US/Eastern
+b1a2343b-e26d-44a3-a287-e4f1318e4606,CAR,Carolina Hurricanes,WSH,Washington Capitals,2022-10-31T23:00:00Z,US/Eastern
+5f4cc6ac-f4c4-4bbb-8114-505e8a599567,STL,St. Louis Blues,LA,Los Angeles Kings,2022-11-01T00:00:00Z,US/Central
+27c038ba-dee0-421a-a7d0-16e14d1cda07,WSH,Washington Capitals,VGK,Vegas Golden Knights,2022-11-01T23:00:00Z,US/Eastern
+bbcd7db5-4987-4ac7-a255-f00abb454773,TB,Tampa Bay Lightning,OTT,Ottawa Senators,2022-11-01T23:00:00Z,US/Eastern
+ffccf616-a9da-4c5f-8c99-aa7b793e759b,NYR,New York Rangers,PHI,Philadelphia Flyers,2022-11-01T23:00:00Z,US/Eastern
+775fc945-dd57-4494-9de0-c98bbdda87c6,MIN,Minnesota Wild,MTL,Montreal Canadiens,2022-11-02T00:00:00Z,US/Central
+860a5af2-44ee-4679-8457-0d7d8f2f86db,PIT,Pittsburgh Penguins,BOS,Boston Bruins,2022-11-02T00:00:00Z,US/Eastern
+2a2e3173-f156-4082-a939-9e2a09836b63,DAL,Dallas Stars,LA,Los Angeles Kings,2022-11-02T00:30:00Z,US/Central
+c64ae18d-e44b-4f96-a3dd-7a8f2cd59139,CHI,Chicago Blackhawks,NYI,New York Islanders,2022-11-02T00:30:00Z,US/Central
+18465ba2-232d-4782-9ae3-924f98f13895,EDM,Edmonton Oilers,NSH,Nashville Predators,2022-11-02T01:00:00Z,US/Mountain
+3ab26f47-141a-4287-8898-97bd10c594c1,CGY,Calgary Flames,SEA,Seattle Kraken,2022-11-02T01:00:00Z,US/Mountain
+24578e8a-9317-473c-9aa8-fc5fbb8be931,ARI,Arizona Coyotes,FLA,Florida Panthers,2022-11-02T02:00:00Z,US/Mountain
+b59dd20f-4b46-493e-85ee-d659de597239,VAN,Vancouver Canucks,NJ,New Jersey Devils,2022-11-02T02:00:00Z,US/Pacific
+36ae93da-ecd7-4e8a-a0fb-d214819cf223,SJ,San Jose Sharks,ANA,Anaheim Ducks,2022-11-02T02:30:00Z,US/Pacific
+a4f49593-e06d-4edb-a5c9-712e82621c37,TOR,Toronto Maple Leafs,PHI,Philadelphia Flyers,2022-11-02T23:00:00Z,US/Eastern
+f904c0d8-0b60-4d43-bed7-b2ae726007ed,BUF,Buffalo Sabres,PIT,Pittsburgh Penguins,2022-11-02T23:30:00Z,US/Eastern
+523e1d61-7a65-48f5-a67b-63dcc549b6ee,TB,Tampa Bay Lightning,CAR,Carolina Hurricanes,2022-11-03T23:00:00Z,US/Eastern
+8ee834cd-3910-4e5d-a9e2-b70b3fc73d5d,DET,Detroit Red Wings,WSH,Washington Capitals,2022-11-03T23:00:00Z,US/Eastern
+cb6011b3-aed3-4128-81d5-b4bdf8906f62,OTT,Ottawa Senators,VGK,Vegas Golden Knights,2022-11-03T23:00:00Z,US/Eastern
+c4d0cfa2-c2a5-47d3-aefd-60d14fc55030,NYR,New York Rangers,BOS,Boston Bruins,2022-11-03T23:30:00Z,US/Eastern
+13ddb2e6-bbda-40bd-bf7f-9ea8cc8f317e,STL,St. Louis Blues,NYI,New York Islanders,2022-11-04T00:00:00Z,US/Central
+41adb86f-a0ed-4c14-b105-1e2b29fb409d,WPG,Winnipeg Jets,MTL,Montreal Canadiens,2022-11-04T00:00:00Z,US/Central
+dabc8397-77ab-4b58-96d2-6b5493cad368,MIN,Minnesota Wild,SEA,Seattle Kraken,2022-11-04T00:00:00Z,US/Central
+8d92e60e-cc7e-4d03-93e9-b86ab2e15169,CHI,Chicago Blackhawks,LA,Los Angeles Kings,2022-11-04T00:30:00Z,US/Central
+4c8d5c85-add0-4019-8336-4f4342840a2c,EDM,Edmonton Oilers,NJ,New Jersey Devils,2022-11-04T01:00:00Z,US/Mountain
+fb856218-ed5b-4ea1-a100-003b17d640f4,CGY,Calgary Flames,NSH,Nashville Predators,2022-11-04T01:00:00Z,US/Mountain
+2eae89ad-645e-4f86-b2af-82000fadb980,ARI,Arizona Coyotes,DAL,Dallas Stars,2022-11-04T02:00:00Z,US/Mountain
+f7068eb9-231e-4cb9-a494-484d04a9a584,VAN,Vancouver Canucks,ANA,Anaheim Ducks,2022-11-04T02:00:00Z,US/Pacific
+b6caac51-42db-4cb5-b6cc-e19018b3d9e4,SJ,San Jose Sharks,FLA,Florida Panthers,2022-11-04T02:30:00Z,US/Pacific
+9feba7ba-2e0a-407d-aaa9-24c799b85bed,COL,Colorado Avalanche,CBJ,Columbus Blue Jackets,2022-11-04T17:00:00Z,Europe/Sofia
+92a18877-65c7-403c-b2ea-f07fec63d464,CAR,Carolina Hurricanes,BUF,Buffalo Sabres,2022-11-04T23:00:00Z,US/Eastern
+91e18204-13c0-4b59-9259-462b4713bdda,DET,Detroit Red Wings,NYI,New York Islanders,2022-11-05T17:00:00Z,US/Eastern
+cdbfcaff-c356-4268-a030-d3ab2417219c,CBJ,Columbus Blue Jackets,COL,Colorado Avalanche,2022-11-05T17:00:00Z,Europe/Sofia
+dd44a6d2-23c8-4916-a50c-baf60d45ae39,WPG,Winnipeg Jets,CHI,Chicago Blackhawks,2022-11-05T19:00:00Z,US/Central
+aa8630e7-cef8-4266-ae4e-779db0719ff9,EDM,Edmonton Oilers,DAL,Dallas Stars,2022-11-05T20:00:00Z,US/Mountain
+1e87f9c8-5873-43d6-b33e-d1bef28810ec,WSH,Washington Capitals,ARI,Arizona Coyotes,2022-11-05T23:00:00Z,US/Eastern
+3d004966-6fee-4f0b-a8e5-c8694b299321,PIT,Pittsburgh Penguins,SEA,Seattle Kraken,2022-11-05T23:00:00Z,US/Eastern
+4adc0234-94c4-4693-889a-0623b126a9fa,TOR,Toronto Maple Leafs,BOS,Boston Bruins,2022-11-05T23:00:00Z,US/Eastern
+92a8a475-215e-490c-85c2-9bf405485bd6,TB,Tampa Bay Lightning,BUF,Buffalo Sabres,2022-11-05T23:00:00Z,US/Eastern
+dfdb2516-9175-4a08-8513-2bfc783cfc89,MTL,Montreal Canadiens,VGK,Vegas Golden Knights,2022-11-05T23:00:00Z,US/Eastern
+f42f2719-546d-48d0-af25-adc05505367e,OTT,Ottawa Senators,PHI,Philadelphia Flyers,2022-11-05T23:00:00Z,US/Eastern
+6e83ee49-8d43-4b29-ba53-19d1e3f32df7,CGY,Calgary Flames,NJ,New Jersey Devils,2022-11-06T02:00:00Z,US/Mountain
+97debdc4-29ab-4573-aafe-75ad9f876cf9,VAN,Vancouver Canucks,NSH,Nashville Predators,2022-11-06T02:00:00Z,US/Pacific
+8013228f-6d49-4b95-8234-8ac08aec1124,SJ,San Jose Sharks,ANA,Anaheim Ducks,2022-11-06T02:30:00Z,US/Pacific
+d21ad773-ccb2-416f-8a34-71ea46c2956d,LA,Los Angeles Kings,FLA,Florida Panthers,2022-11-06T02:30:00Z,US/Pacific
+b6127361-b789-4efd-9ddb-75316b7e1741,NYR,New York Rangers,DET,Detroit Red Wings,2022-11-06T22:00:00Z,US/Eastern
+ccc993fb-c87a-4f04-8dee-b4aaa9e44a98,CAR,Carolina Hurricanes,TOR,Toronto Maple Leafs,2022-11-06T22:00:00Z,US/Eastern
+ea990f50-effd-4e4d-8b44-76b52716bcc7,ANA,Anaheim Ducks,FLA,Florida Panthers,2022-11-07T02:00:00Z,US/Pacific
+33890ea6-feda-4ebc-acf4-fd765a35b4e1,NYI,New York Islanders,CGY,Calgary Flames,2022-11-08T00:00:00Z,US/Eastern
+a79fae0d-ef14-402f-9044-b7cd9861a66f,BOS,Boston Bruins,STL,St. Louis Blues,2022-11-08T00:00:00Z,US/Eastern
+22b371f0-cc5c-4668-8422-ecb023b19ca5,WSH,Washington Capitals,EDM,Edmonton Oilers,2022-11-08T01:00:00Z,US/Eastern
+3bd1459c-5b2d-46a9-9b6f-352759114874,OTT,Ottawa Senators,VAN,Vancouver Canucks,2022-11-09T00:00:00Z,US/Eastern
+422447a1-1644-45e4-839d-63303b7b8fa6,TOR,Toronto Maple Leafs,VGK,Vegas Golden Knights,2022-11-09T00:00:00Z,US/Eastern
+7a37eb1b-42af-49b6-a238-7e5a52a47ad6,NJ,New Jersey Devils,CGY,Calgary Flames,2022-11-09T00:00:00Z,US/Eastern
+966e2cfe-b697-4258-abb7-7ccf3c9b7d16,DET,Detroit Red Wings,MTL,Montreal Canadiens,2022-11-09T00:00:00Z,US/Eastern
+bba38115-b1ec-4470-a8d3-c90e6b94a603,NYR,New York Rangers,NYI,New York Islanders,2022-11-09T00:00:00Z,US/Eastern
+cb4d1416-b027-484f-aca7-b25cf0885455,BUF,Buffalo Sabres,ARI,Arizona Coyotes,2022-11-09T00:00:00Z,US/Eastern
+edb75730-259c-4719-9afa-6a824e14d632,PHI,Philadelphia Flyers,STL,St. Louis Blues,2022-11-09T00:00:00Z,US/Eastern
+5319e1ca-d2c4-400a-b818-9d09f800c57e,TB,Tampa Bay Lightning,EDM,Edmonton Oilers,2022-11-09T00:30:00Z,US/Eastern
+7340037d-56cf-4b5c-a59d-11d1eb88ffe6,WPG,Winnipeg Jets,DAL,Dallas Stars,2022-11-09T01:00:00Z,US/Central
+f8561205-4b07-46a2-9a87-d8545ec50c1c,SEA,Seattle Kraken,NSH,Nashville Predators,2022-11-09T03:00:00Z,US/Pacific
+f8bd3255-57b9-48a1-baec-cd5407fc238d,LA,Los Angeles Kings,MIN,Minnesota Wild,2022-11-09T03:30:00Z,US/Pacific
+daca7ec0-cf10-4355-8053-0aa80aa9071d,FLA,Florida Panthers,CAR,Carolina Hurricanes,2022-11-10T00:00:00Z,US/Eastern
+2518c195-643d-4ea6-aaba-402d98b434ea,MTL,Montreal Canadiens,VAN,Vancouver Canucks,2022-11-10T00:30:00Z,US/Eastern
+d8f0af58-81ab-4fdc-be45-565807746080,WSH,Washington Capitals,PIT,Pittsburgh Penguins,2022-11-10T00:30:00Z,US/Eastern
+17d1ee7d-2ef0-452b-9d26-f5a67e27f884,ANA,Anaheim Ducks,MIN,Minnesota Wild,2022-11-10T03:00:00Z,US/Pacific
+28e9400b-3d82-4dfd-834d-8b5e0e7fc53e,BOS,Boston Bruins,CGY,Calgary Flames,2022-11-11T00:00:00Z,US/Eastern
+32b600cf-2336-4cc5-963f-ef276e86d04f,CBJ,Columbus Blue Jackets,PHI,Philadelphia Flyers,2022-11-11T00:00:00Z,US/Eastern
+8e0af2ee-d6c9-43fc-9063-cd7632c36a64,CAR,Carolina Hurricanes,EDM,Edmonton Oilers,2022-11-11T00:00:00Z,US/Eastern
+b2dd3b6b-54b9-4963-bd26-d25a868e73b1,DET,Detroit Red Wings,NYR,New York Rangers,2022-11-11T00:00:00Z,US/Eastern
+dde96003-7fe7-4cb0-84d3-800e3ae81ac5,BUF,Buffalo Sabres,VGK,Vegas Golden Knights,2022-11-11T00:00:00Z,US/Eastern
+f0983dd6-893e-437e-a109-01926c14d3a7,NJ,New Jersey Devils,OTT,Ottawa Senators,2022-11-11T00:00:00Z,US/Eastern
+a6c12282-579e-47d6-a5bb-f945b81206e7,NYI,New York Islanders,ARI,Arizona Coyotes,2022-11-11T00:30:00Z,US/Eastern
+fbccecd3-b5a2-4f33-9177-ef1bfdb6ad33,STL,St. Louis Blues,SJ,San Jose Sharks,2022-11-11T01:00:00Z,US/Central
+4c37c51f-260e-4239-b8d1-081f1817511a,COL,Colorado Avalanche,NSH,Nashville Predators,2022-11-11T02:00:00Z,US/Mountain
+53dbd5e7-1d47-4cd8-bedc-dcd2878bdbf7,LA,Los Angeles Kings,CHI,Chicago Blackhawks,2022-11-11T03:30:00Z,US/Pacific
+628a48e7-5144-4d92-ae59-007522836373,TOR,Toronto Maple Leafs,PIT,Pittsburgh Penguins,2022-11-12T00:00:00Z,US/Eastern
+b62351e3-134d-445e-87dc-f5b75265e780,WSH,Washington Capitals,TB,Tampa Bay Lightning,2022-11-12T00:00:00Z,US/Eastern
+b3711ce4-5893-4fa2-bc05-513115826559,DAL,Dallas Stars,SJ,San Jose Sharks,2022-11-12T01:30:00Z,US/Central
+35fd0f1e-a5c0-41fd-b590-f51b4fec5d6f,SEA,Seattle Kraken,MIN,Minnesota Wild,2022-11-12T03:00:00Z,US/Pacific
+630997ff-1cc9-49f7-8143-8143a771cd45,PHI,Philadelphia Flyers,OTT,Ottawa Senators,2022-11-12T18:00:00Z,US/Eastern
+4a6d472f-bd72-41a6-b935-d11a241564a2,FLA,Florida Panthers,EDM,Edmonton Oilers,2022-11-12T21:00:00Z,US/Eastern
+102e9b00-c20d-40da-946b-a4a8a11c4254,NJ,New Jersey Devils,ARI,Arizona Coyotes,2022-11-13T00:00:00Z,US/Eastern
+476f78fe-265b-471c-8dba-d51d55f4eb39,TOR,Toronto Maple Leafs,VAN,Vancouver Canucks,2022-11-13T00:00:00Z,US/Eastern
+e9346e4a-e61e-4799-8b9f-c7715e76168f,BUF,Buffalo Sabres,BOS,Boston Bruins,2022-11-13T00:00:00Z,US/Eastern
+f3de9d97-5f5d-410a-b67a-e3e6fb931645,MTL,Montreal Canadiens,PIT,Pittsburgh Penguins,2022-11-13T00:00:00Z,US/Eastern
+4cb37427-1b7f-4587-85d0-2b39775ca419,NYI,New York Islanders,CBJ,Columbus Blue Jackets,2022-11-13T00:30:00Z,US/Eastern
+cc757fc0-7135-4465-93f5-d8d10f0d8a30,NSH,Nashville Predators,NYR,New York Rangers,2022-11-13T01:00:00Z,US/Central
+8a0dcd14-f80d-4817-9d35-2117cd8fdc74,COL,Colorado Avalanche,CAR,Carolina Hurricanes,2022-11-13T02:00:00Z,US/Mountain
+36f85828-71e3-4534-8170-ed4823879b5f,CGY,Calgary Flames,WPG,Winnipeg Jets,2022-11-13T03:00:00Z,US/Mountain
+c8cce513-e5c2-42dc-b0db-b36419244ce8,ANA,Anaheim Ducks,CHI,Chicago Blackhawks,2022-11-13T03:00:00Z,US/Pacific
+f0bdc1c9-8474-4bf1-957e-fec1a193f123,VGK,Vegas Golden Knights,STL,St. Louis Blues,2022-11-13T03:00:00Z,US/Pacific
+c6ba70e3-9f38-4f67-96f1-1cca597dd86c,LA,Los Angeles Kings,DET,Detroit Red Wings,2022-11-13T03:30:00Z,US/Pacific
+f76f4eff-61f8-4869-b40f-9b8494d05f5a,PHI,Philadelphia Flyers,DAL,Dallas Stars,2022-11-13T18:00:00Z,US/Eastern
+7275da9e-3c56-4dfd-8999-ef587ecbaea5,BOS,Boston Bruins,VAN,Vancouver Canucks,2022-11-13T23:00:00Z,US/Eastern
+c9174b09-e977-45f9-a613-13bc2f00b76a,MIN,Minnesota Wild,SJ,San Jose Sharks,2022-11-13T23:00:00Z,US/Central
+08f4434d-a85a-4223-bbc7-5d408e368b97,NYR,New York Rangers,ARI,Arizona Coyotes,2022-11-14T00:00:00Z,US/Eastern
+aec6a5dc-e4a4-446e-bb73-a7a5cea035b3,TB,Tampa Bay Lightning,WSH,Washington Capitals,2022-11-14T00:00:00Z,US/Eastern
+46ed66ec-9695-4e69-bb13-428dc432b81b,SEA,Seattle Kraken,WPG,Winnipeg Jets,2022-11-14T01:00:00Z,US/Pacific
+4690c2ef-7f9c-44f8-9908-004ce58052dc,OTT,Ottawa Senators,NYI,New York Islanders,2022-11-14T22:00:00Z,US/Eastern
+31123035-3596-440d-96c5-d96e837c7cbf,CHI,Chicago Blackhawks,CAR,Carolina Hurricanes,2022-11-15T01:30:00Z,US/Central
+880f0feb-7d4a-45bb-90b0-caf5ac79a27d,CGY,Calgary Flames,LA,Los Angeles Kings,2022-11-15T01:30:00Z,US/Mountain
+d8befd57-ae46-449b-9565-328326488e69,COL,Colorado Avalanche,STL,St. Louis Blues,2022-11-15T02:00:00Z,US/Mountain
+06c33989-3a47-432c-8f3a-706e067c0727,TB,Tampa Bay Lightning,DAL,Dallas Stars,2022-11-16T00:00:00Z,US/Eastern
+0c23181e-774e-4ef4-a868-8c6aca2d2243,MTL,Montreal Canadiens,NJ,New Jersey Devils,2022-11-16T00:00:00Z,US/Eastern
+47c51b8a-f3c6-4ab1-9933-d8a5cd6c1104,PIT,Pittsburgh Penguins,TOR,Toronto Maple Leafs,2022-11-16T00:00:00Z,US/Eastern
+614ed616-db11-474e-b7f1-cef5f9d344c1,BUF,Buffalo Sabres,VAN,Vancouver Canucks,2022-11-16T00:00:00Z,US/Eastern
+76bd2fb8-3cbb-4a25-87c6-266d023a368f,FLA,Florida Panthers,WSH,Washington Capitals,2022-11-16T00:00:00Z,US/Eastern
+cc1cac27-d6c2-42c2-8f55-4209b5e7b199,CBJ,Columbus Blue Jackets,PHI,Philadelphia Flyers,2022-11-16T00:30:00Z,US/Eastern
+9cd5997e-07f3-4925-bf29-ffb12633a039,NSH,Nashville Predators,MIN,Minnesota Wild,2022-11-16T01:00:00Z,US/Central
+60402df9-e818-4935-8026-223227b9313d,ANA,Anaheim Ducks,DET,Detroit Red Wings,2022-11-16T03:00:00Z,US/Pacific
+91694c42-2241-43f7-96f0-43d5a12e66d4,VGK,Vegas Golden Knights,SJ,San Jose Sharks,2022-11-16T03:00:00Z,US/Pacific
+f12964c1-7c7d-4ea9-a8bf-dce5ff4e0c5d,OTT,Ottawa Senators,BUF,Buffalo Sabres,2022-11-17T00:00:00Z,US/Eastern
+a8282a25-082f-44bc-89d3-563502aec19c,CHI,Chicago Blackhawks,STL,St. Louis Blues,2022-11-17T00:30:00Z,US/Central
+c2b5d973-a7bd-46a1-8e7c-a2a692bea739,EDM,Edmonton Oilers,LA,Los Angeles Kings,2022-11-17T03:00:00Z,US/Mountain
+12e0b740-7ce5-40e2-bab4-d37b62ea05fe,BOS,Boston Bruins,PHI,Philadelphia Flyers,2022-11-18T00:00:00Z,US/Eastern
+1f9f1094-4e91-4e9c-9037-85239385ae21,CBJ,Columbus Blue Jackets,MTL,Montreal Canadiens,2022-11-18T00:00:00Z,US/Eastern
+7580bfc4-2d46-417a-a495-bd424fc10e34,CAR,Carolina Hurricanes,COL,Colorado Avalanche,2022-11-18T00:00:00Z,US/Eastern
+7749e66b-4d28-423c-afac-83d8775ef006,FLA,Florida Panthers,DAL,Dallas Stars,2022-11-18T00:00:00Z,US/Eastern
+98ce1ccf-666f-4fcc-892d-041e454a1dbd,TB,Tampa Bay Lightning,CGY,Calgary Flames,2022-11-18T00:00:00Z,US/Eastern
+f5d85160-fe79-4cad-ac1f-2648110c7345,TOR,Toronto Maple Leafs,NJ,New Jersey Devils,2022-11-18T00:00:00Z,US/Eastern
+250e0989-62ac-4264-8192-8247d0f67206,NSH,Nashville Predators,NYI,New York Islanders,2022-11-18T01:00:00Z,US/Central
+a3afa713-6b09-4356-bf13-eeb49188feba,WPG,Winnipeg Jets,ANA,Anaheim Ducks,2022-11-18T01:00:00Z,US/Central
+abf97937-2c1f-4586-a75c-07f5bafd3c1c,STL,St. Louis Blues,WSH,Washington Capitals,2022-11-18T01:00:00Z,US/Central
+c3458453-374d-4bf4-b893-face9c1d02e1,MIN,Minnesota Wild,PIT,Pittsburgh Penguins,2022-11-18T01:00:00Z,US/Central
+4731f504-6efb-40e4-88fc-e5faf6543132,VGK,Vegas Golden Knights,ARI,Arizona Coyotes,2022-11-18T03:00:00Z,US/Pacific
+d9b6f1ca-77da-4db6-a06d-bafc45294a5b,SEA,Seattle Kraken,NYR,New York Rangers,2022-11-18T03:00:00Z,US/Pacific
+43579be2-748d-47f3-a6df-6d0200b1bbb5,SJ,San Jose Sharks,DET,Detroit Red Wings,2022-11-18T03:30:00Z,US/Pacific
+b7409d89-8deb-486f-b298-603d142ef4be,VAN,Vancouver Canucks,LA,Los Angeles Kings,2022-11-19T03:00:00Z,US/Pacific
+149bb3a5-4316-4f61-a385-d0c837b8ca5f,OTT,Ottawa Senators,NJ,New Jersey Devils,2022-11-19T18:00:00Z,US/Eastern
+24c06936-f281-49df-91e0-ed6daf2f946b,FLA,Florida Panthers,CGY,Calgary Flames,2022-11-19T21:00:00Z,US/Eastern
+7560bd63-a78d-4ad1-bacc-3f3a4fff72f9,WSH,Washington Capitals,COL,Colorado Avalanche,2022-11-20T00:00:00Z,US/Eastern
+87e46bc2-eb8c-4e0d-8eee-44869ea539d3,WPG,Winnipeg Jets,PIT,Pittsburgh Penguins,2022-11-20T00:00:00Z,US/Central
+cb6e10c6-7bfa-49e2-a35e-9a54b9c71e15,BOS,Boston Bruins,CHI,Chicago Blackhawks,2022-11-20T00:00:00Z,US/Eastern
+cbb27274-1bcf-44a2-9742-32ebbe6416f3,TOR,Toronto Maple Leafs,BUF,Buffalo Sabres,2022-11-20T00:00:00Z,US/Eastern
+cfa22c73-8cd8-4066-bf7f-db93e627c31b,CBJ,Columbus Blue Jackets,DET,Detroit Red Wings,2022-11-20T00:00:00Z,US/Eastern
+d561227b-4198-4f2b-91f7-52064102012f,MTL,Montreal Canadiens,PHI,Philadelphia Flyers,2022-11-20T00:00:00Z,US/Eastern
+70b604a5-90bf-49c7-a4db-c97bf33c04dd,DAL,Dallas Stars,NYI,New York Islanders,2022-11-20T01:00:00Z,US/Central
+9ef036f4-8ecf-41f0-9497-cc495a720630,NSH,Nashville Predators,TB,Tampa Bay Lightning,2022-11-20T01:00:00Z,US/Central
+a228ff10-8cf8-46b0-bf07-8b5d7202d20d,STL,St. Louis Blues,ANA,Anaheim Ducks,2022-11-20T01:00:00Z,US/Central
+f98688c2-a313-44f4-bc57-89d3996ab312,MIN,Minnesota Wild,CAR,Carolina Hurricanes,2022-11-20T01:00:00Z,US/Central
+7f65c610-88f4-474b-9857-b762ff632929,SEA,Seattle Kraken,LA,Los Angeles Kings,2022-11-20T03:00:00Z,US/Pacific
+854ca2e6-41fc-431f-9b0c-715d5e5930a8,EDM,Edmonton Oilers,VGK,Vegas Golden Knights,2022-11-20T03:00:00Z,US/Mountain
+458f9a3f-44d1-4ec3-a468-3297dea934f2,SJ,San Jose Sharks,NYR,New York Rangers,2022-11-20T03:30:00Z,US/Pacific
+443114da-25f9-413b-910f-757fd000067f,CBJ,Columbus Blue Jackets,FLA,Florida Panthers,2022-11-20T23:00:00Z,US/Eastern
+94e5ac56-5009-47dc-aadd-309c84a0d349,CHI,Chicago Blackhawks,PIT,Pittsburgh Penguins,2022-11-21T00:00:00Z,US/Central
+10b394a8-aebf-48e6-acf3-d73bf90931ec,TB,Tampa Bay Lightning,BOS,Boston Bruins,2022-11-22T00:00:00Z,US/Eastern
+1b68cbb0-823c-4d1a-aede-fd74982ab934,PHI,Philadelphia Flyers,CGY,Calgary Flames,2022-11-22T00:00:00Z,US/Eastern
+6ca2a725-3f2a-4096-b7ff-dd68314fb2cf,NJ,New Jersey Devils,EDM,Edmonton Oilers,2022-11-22T00:00:00Z,US/Eastern
+8bff65fd-35b5-4e2c-ba45-6961175d7934,WPG,Winnipeg Jets,CAR,Carolina Hurricanes,2022-11-22T00:30:00Z,US/Central
+8e83b5a9-6d9d-4c17-8985-8100e69e7d65,TOR,Toronto Maple Leafs,NYI,New York Islanders,2022-11-22T00:30:00Z,US/Eastern
+74221543-4aa0-437b-9838-a98167a7a6af,NSH,Nashville Predators,ARI,Arizona Coyotes,2022-11-22T01:00:00Z,US/Central
+8fee14e5-175d-4db8-968b-f26ab2e3e80f,STL,St. Louis Blues,ANA,Anaheim Ducks,2022-11-22T01:00:00Z,US/Central
+bfa70b53-017f-42b4-aa67-f8c252fbb8f1,DAL,Dallas Stars,COL,Colorado Avalanche,2022-11-22T01:30:00Z,US/Central
+8b4046b9-5591-4dae-aa83-7c36821f7e7f,SJ,San Jose Sharks,OTT,Ottawa Senators,2022-11-22T03:30:00Z,US/Pacific
+dec97573-22ae-4f37-aa3d-b72219f02cb0,VAN,Vancouver Canucks,VGK,Vegas Golden Knights,2022-11-22T03:30:00Z,US/Pacific
+946fff00-e62d-4327-8822-b4dff73da85e,MTL,Montreal Canadiens,BUF,Buffalo Sabres,2022-11-23T00:00:00Z,US/Eastern
+c6426a4c-c76d-482a-b0a1-b09c470e5c95,LA,Los Angeles Kings,NYR,New York Rangers,2022-11-23T03:30:00Z,US/Pacific
+1f3e02a4-a52b-4d77-a90f-e9e1e7165620,BUF,Buffalo Sabres,STL,St. Louis Blues,2022-11-24T00:00:00Z,US/Eastern
+369279cc-0db6-40de-b25d-1a29d74f428e,FLA,Florida Panthers,BOS,Boston Bruins,2022-11-24T00:00:00Z,US/Eastern
+58872310-70cc-4eb5-b3d2-1ca59f3d8b64,NJ,New Jersey Devils,TOR,Toronto Maple Leafs,2022-11-24T00:00:00Z,US/Eastern
+5bfd1a84-be00-4341-9e70-b9f553817db8,PIT,Pittsburgh Penguins,CGY,Calgary Flames,2022-11-24T00:00:00Z,US/Eastern
+84c95891-c951-4254-966b-f644d68cf38c,MIN,Minnesota Wild,WPG,Winnipeg Jets,2022-11-24T00:00:00Z,US/Central
+b600cf10-d24b-465c-81cc-c9d71bea59de,CAR,Carolina Hurricanes,ARI,Arizona Coyotes,2022-11-24T00:00:00Z,US/Eastern
+cd5a0d8a-ffe5-421a-b8fd-743f59cc1441,CBJ,Columbus Blue Jackets,MTL,Montreal Canadiens,2022-11-24T00:00:00Z,US/Eastern
+e3eca24b-d97f-4944-8164-199f33eecbd2,DET,Detroit Red Wings,NSH,Nashville Predators,2022-11-24T00:00:00Z,US/Eastern
+ad3e6b0f-6084-4daf-9678-3314111351ff,NYI,New York Islanders,EDM,Edmonton Oilers,2022-11-24T00:30:00Z,US/Eastern
+ebf56671-7355-459b-b8c1-3b3fb3eddeda,WSH,Washington Capitals,PHI,Philadelphia Flyers,2022-11-24T00:30:00Z,US/Eastern
+4fbf860a-3136-4833-bf52-df5cb35480c9,DAL,Dallas Stars,CHI,Chicago Blackhawks,2022-11-24T01:30:00Z,US/Central
+37259329-8d9f-4a81-a51e-c06eb22baa3f,COL,Colorado Avalanche,VAN,Vancouver Canucks,2022-11-24T03:00:00Z,US/Mountain
+a196ab28-2e29-4f50-9e1e-3c6bc598039a,ANA,Anaheim Ducks,NYR,New York Rangers,2022-11-24T03:00:00Z,US/Pacific
+c7ae506b-49dc-46a5-bb11-124317c5cb88,VGK,Vegas Golden Knights,OTT,Ottawa Senators,2022-11-24T03:00:00Z,US/Pacific
+daff258e-bd25-4b4f-a1a0-19eefbd9c610,SEA,Seattle Kraken,SJ,San Jose Sharks,2022-11-24T03:00:00Z,US/Pacific
+03367b7d-5f18-4e00-8469-cbd9ff7161fc,BOS,Boston Bruins,CAR,Carolina Hurricanes,2022-11-25T18:00:00Z,US/Eastern
+46624377-2c2d-4eb9-ad6f-063110b6c5c9,MIN,Minnesota Wild,TOR,Toronto Maple Leafs,2022-11-25T19:00:00Z,US/Central
+76eefa26-959c-4fdd-a2fd-84ae8168b179,WSH,Washington Capitals,CGY,Calgary Flames,2022-11-25T19:00:00Z,US/Eastern
+a27e7628-6dc8-43a5-ac45-8c322876f0e7,CHI,Chicago Blackhawks,MTL,Montreal Canadiens,2022-11-25T19:00:00Z,US/Central
+cf4474cb-4ac2-497c-abf8-d3012a247dad,NSH,Nashville Predators,COL,Colorado Avalanche,2022-11-25T19:00:00Z,US/Central
+e8fbe8f9-a702-4285-bb19-b557bdc24ccf,ANA,Anaheim Ducks,OTT,Ottawa Senators,2022-11-25T20:00:00Z,US/Pacific
+2df530d4-9d8f-4f9a-a5fd-d51121ee25de,PHI,Philadelphia Flyers,PIT,Pittsburgh Penguins,2022-11-25T22:30:00Z,US/Eastern
+2ac154b1-e649-4edb-8533-f609082542ca,BUF,Buffalo Sabres,NJ,New Jersey Devils,2022-11-26T01:00:00Z,US/Eastern
+62d9a5e2-0c88-4a9b-a374-e13c1e083a8e,TB,Tampa Bay Lightning,STL,St. Louis Blues,2022-11-26T01:00:00Z,US/Eastern
+9c9d7aaa-6173-402f-b8be-bce716d99757,DET,Detroit Red Wings,ARI,Arizona Coyotes,2022-11-26T01:00:00Z,US/Eastern
+9fc2a1fd-3b27-466a-a643-7815ad8bfc14,VGK,Vegas Golden Knights,SEA,Seattle Kraken,2022-11-26T01:00:00Z,US/Pacific
+ac0604bf-1e49-4428-85f4-9be7afcd832d,CBJ,Columbus Blue Jackets,NYI,New York Islanders,2022-11-26T01:00:00Z,US/Eastern
+c6cdc0e4-09e0-4f75-8f9f-d1c62e6bb4ca,DAL,Dallas Stars,WPG,Winnipeg Jets,2022-11-26T01:30:00Z,US/Central
+2c9eb8c5-ce0a-4d90-9424-6ce6f69327f7,SJ,San Jose Sharks,LA,Los Angeles Kings,2022-11-26T03:30:00Z,US/Pacific
+c49522ef-0714-4a02-a21c-9df2e911692f,NYR,New York Rangers,EDM,Edmonton Oilers,2022-11-26T18:00:00Z,US/Eastern
+b5d6f449-90ba-48fd-9b87-871453c37e12,CAR,Carolina Hurricanes,CGY,Calgary Flames,2022-11-26T21:00:00Z,US/Eastern
+04dab137-7660-494d-8008-355343b072cf,FLA,Florida Panthers,STL,St. Louis Blues,2022-11-26T23:30:00Z,US/Eastern
+9b5c3144-be60-4c2b-9eee-cc58fd5c751d,PIT,Pittsburgh Penguins,TOR,Toronto Maple Leafs,2022-11-27T00:00:00Z,US/Eastern
+e7965c92-141f-48ff-a9ac-2078932e506b,NJ,New Jersey Devils,WSH,Washington Capitals,2022-11-27T00:00:00Z,US/Eastern
+97a68f55-27fc-4118-8217-8915d71d4c0c,NYI,New York Islanders,PHI,Philadelphia Flyers,2022-11-27T00:30:00Z,US/Eastern
+382562e9-2539-4fa9-b7c5-495e43dcb19b,NSH,Nashville Predators,CBJ,Columbus Blue Jackets,2022-11-27T01:00:00Z,US/Central
+3eb5c1fc-a8bb-45c8-9005-4e6d5e8f38f7,COL,Colorado Avalanche,DAL,Dallas Stars,2022-11-27T02:00:00Z,US/Mountain
+040feef3-52c1-4b60-bb10-5ec157875543,VGK,Vegas Golden Knights,VAN,Vancouver Canucks,2022-11-27T03:00:00Z,US/Pacific
+41c2bd2a-68e1-4dbc-9980-5763bec4e1c8,MIN,Minnesota Wild,ARI,Arizona Coyotes,2022-11-27T19:00:00Z,US/Central
+df791e1f-7b30-4a31-b541-ee4bd0804c8c,CHI,Chicago Blackhawks,WPG,Winnipeg Jets,2022-11-28T00:00:00Z,US/Central
+085090af-b02f-408a-b55c-31306064d44b,SJ,San Jose Sharks,VAN,Vancouver Canucks,2022-11-28T01:00:00Z,US/Pacific
+08f31449-3c66-475a-bd78-40e4ed16490f,ANA,Anaheim Ducks,SEA,Seattle Kraken,2022-11-28T01:00:00Z,US/Pacific
+7194c6f5-fb36-45c2-b2c1-202d07ef5aeb,LA,Los Angeles Kings,OTT,Ottawa Senators,2022-11-28T03:30:00Z,US/Pacific
+219757db-ea33-45d0-b06a-e4114628c39a,DET,Detroit Red Wings,TOR,Toronto Maple Leafs,2022-11-29T00:00:00Z,US/Eastern
+64ae70d8-5f69-441d-9563-08ace251d2f1,CBJ,Columbus Blue Jackets,VGK,Vegas Golden Knights,2022-11-29T00:00:00Z,US/Eastern
+8315492a-a640-41cb-9b5c-e0f6261827d7,NYR,New York Rangers,NJ,New Jersey Devils,2022-11-29T00:00:00Z,US/Eastern
+f5f70ef1-8108-4a23-ba1e-147bd98d9ab8,BUF,Buffalo Sabres,TB,Tampa Bay Lightning,2022-11-29T00:00:00Z,US/Eastern
+05dd7fca-c437-4a00-bd44-b811e1d8b941,STL,St. Louis Blues,DAL,Dallas Stars,2022-11-29T01:00:00Z,US/Central
+1f722712-37d8-4c1a-a840-636255987c37,EDM,Edmonton Oilers,FLA,Florida Panthers,2022-11-29T02:30:00Z,US/Mountain
+8aaaf773-7386-4eea-93ad-9f899f1de3b5,BOS,Boston Bruins,TB,Tampa Bay Lightning,2022-11-30T00:00:00Z,US/Eastern
+d6aaa02c-b400-445e-8703-f3f1c80e968c,MTL,Montreal Canadiens,SJ,San Jose Sharks,2022-11-30T00:00:00Z,US/Eastern
+ed17addc-2bdf-4dac-ba82-3bb51d8fd2a5,PIT,Pittsburgh Penguins,CAR,Carolina Hurricanes,2022-11-30T00:00:00Z,US/Eastern
+d734c1d8-4f4b-4d7c-92a1-f021be9e9d26,PHI,Philadelphia Flyers,NYI,New York Islanders,2022-11-30T00:30:00Z,US/Eastern
+138e6e33-5d01-4b77-8fd4-8d7f5d30455e,WPG,Winnipeg Jets,COL,Colorado Avalanche,2022-11-30T01:00:00Z,US/Central
+1ee056d9-679f-44f4-8b85-bddf971a5278,NSH,Nashville Predators,ANA,Anaheim Ducks,2022-11-30T01:00:00Z,US/Central
+80545921-58f4-4783-9779-94515fa09063,CGY,Calgary Flames,FLA,Florida Panthers,2022-11-30T02:00:00Z,US/Mountain
+b86e801f-a92f-4dc7-9795-035ed9f963cb,VAN,Vancouver Canucks,WSH,Washington Capitals,2022-11-30T03:00:00Z,US/Pacific
+1811d802-c3bb-47a5-9b59-8e832304109e,LA,Los Angeles Kings,SEA,Seattle Kraken,2022-11-30T03:30:00Z,US/Pacific
+50815939-ed3b-4e42-a814-adf7363aa24f,OTT,Ottawa Senators,NYR,New York Rangers,2022-12-01T00:00:00Z,US/Eastern
+a240968c-b9e2-4b9a-8938-7ac88db1c195,TOR,Toronto Maple Leafs,SJ,San Jose Sharks,2022-12-01T00:00:00Z,US/Eastern
+a8639586-7612-41c4-b932-5570edd7e420,DET,Detroit Red Wings,BUF,Buffalo Sabres,2022-12-01T00:00:00Z,US/Eastern
+6d9ee5f7-146c-44e7-bda3-561000cc8954,CHI,Chicago Blackhawks,EDM,Edmonton Oilers,2022-12-01T02:30:00Z,US/Central
+426a2dcf-6259-430c-a058-a31dd2cd88a4,PHI,Philadelphia Flyers,TB,Tampa Bay Lightning,2022-12-02T00:00:00Z,US/Eastern
+8bf7878d-d947-4540-a103-88f97fcb3ad7,BUF,Buffalo Sabres,COL,Colorado Avalanche,2022-12-02T00:00:00Z,US/Eastern
+cd757ab5-9bfc-48ed-be3d-b4837510efb5,PIT,Pittsburgh Penguins,VGK,Vegas Golden Knights,2022-12-02T00:00:00Z,US/Eastern
+d5d15f32-4ebd-450c-9ab8-5a9e5de0bfce,NJ,New Jersey Devils,NSH,Nashville Predators,2022-12-02T00:00:00Z,US/Eastern
+da08a97a-ab57-4030-b305-1437a42ed9f8,MIN,Minnesota Wild,EDM,Edmonton Oilers,2022-12-02T01:00:00Z,US/Central
+f30a964d-cdb2-43e1-a26a-2859f71fc477,STL,St. Louis Blues,CAR,Carolina Hurricanes,2022-12-02T01:00:00Z,US/Central
+3c2a6d37-a77d-49f7-873a-feb20f8cb745,DAL,Dallas Stars,ANA,Anaheim Ducks,2022-12-02T01:30:00Z,US/Central
+a7130795-71a3-4796-b086-a2f190100b9c,CGY,Calgary Flames,MTL,Montreal Canadiens,2022-12-02T02:00:00Z,US/Mountain
+ddb9554e-586e-4deb-96d3-702947c871ae,SEA,Seattle Kraken,WSH,Washington Capitals,2022-12-02T03:00:00Z,US/Pacific
+f4400b4c-bb99-48bb-8761-450275212a80,VAN,Vancouver Canucks,FLA,Florida Panthers,2022-12-02T03:00:00Z,US/Pacific
+4c93b76a-5a01-42e3-be39-1407a4419892,LA,Los Angeles Kings,ARI,Arizona Coyotes,2022-12-02T03:30:00Z,US/Pacific
+ed9f1bf9-ade2-4b74-b514-c6031a77aa78,NYR,New York Rangers,OTT,Ottawa Senators,2022-12-03T00:00:00Z,US/Eastern
+839f95a5-fc7a-4086-9a57-30903e2b9250,NYI,New York Islanders,NSH,Nashville Predators,2022-12-03T00:30:00Z,US/Eastern
+57b06852-7909-4842-924a-95cfe38e7a52,WPG,Winnipeg Jets,CBJ,Columbus Blue Jackets,2022-12-03T01:00:00Z,US/Central
+260d41b2-062e-4321-8247-4ec36e3f891f,MIN,Minnesota Wild,ANA,Anaheim Ducks,2022-12-03T19:00:00Z,US/Central
+183988d2-c6ea-4d8b-834f-61b7ee04ea33,DET,Detroit Red Wings,VGK,Vegas Golden Knights,2022-12-04T00:00:00Z,US/Eastern
+42c15d30-1cac-492e-9e93-a5d570a47a94,PIT,Pittsburgh Penguins,STL,St. Louis Blues,2022-12-04T00:00:00Z,US/Eastern
+4e22510a-31c2-486a-b28d-f01c880c354e,TB,Tampa Bay Lightning,TOR,Toronto Maple Leafs,2022-12-04T00:00:00Z,US/Eastern
+7e2b0ae0-774e-49d9-9e79-56911f0e9155,BOS,Boston Bruins,COL,Colorado Avalanche,2022-12-04T00:00:00Z,US/Eastern
+a1eec2fd-d3ee-4ea7-b8be-d396d1ed7c8a,OTT,Ottawa Senators,SJ,San Jose Sharks,2022-12-04T00:00:00Z,US/Eastern
+dd1a8783-3d71-40de-b68f-4d09747e9208,PHI,Philadelphia Flyers,NJ,New Jersey Devils,2022-12-04T00:00:00Z,US/Eastern
+f63a9102-e761-4624-8878-db84aec40e90,EDM,Edmonton Oilers,MTL,Montreal Canadiens,2022-12-04T00:00:00Z,US/Mountain
+32bf4e32-8d8b-42e7-8c52-1e94ae92b6f5,NYR,New York Rangers,CHI,Chicago Blackhawks,2022-12-04T00:30:00Z,US/Eastern
+5dd23aaa-d0a3-4dfc-bfef-6fff4d06099b,SEA,Seattle Kraken,FLA,Florida Panthers,2022-12-04T03:00:00Z,US/Pacific
+a20b321a-6e84-4f01-9cda-1c7eab8c6899,VAN,Vancouver Canucks,ARI,Arizona Coyotes,2022-12-04T03:00:00Z,US/Pacific
+b6f2d8fe-e366-4f62-83e8-5997174478ed,CGY,Calgary Flames,WSH,Washington Capitals,2022-12-04T03:00:00Z,US/Mountain
+def8e41f-44d5-4350-b03c-5f0351572cbd,LA,Los Angeles Kings,CAR,Carolina Hurricanes,2022-12-04T03:30:00Z,US/Pacific
+10b9ce0f-fd31-4d1f-828b-4f20d628f14f,DAL,Dallas Stars,MIN,Minnesota Wild,2022-12-04T20:00:00Z,US/Central
+4d87b7c2-894b-4507-a8b7-6966a69c03c4,WPG,Winnipeg Jets,ANA,Anaheim Ducks,2022-12-04T20:00:00Z,US/Central
+e47f9734-60a5-45d4-9ba4-b91906efe817,CBJ,Columbus Blue Jackets,DET,Detroit Red Wings,2022-12-04T23:00:00Z,US/Eastern
+0c74eaf5-fba1-4210-b32f-febcf8662de2,BUF,Buffalo Sabres,SJ,San Jose Sharks,2022-12-05T00:00:00Z,US/Eastern
+cdbc2786-c7a4-40fe-b7e7-9e3c567ae83c,NYI,New York Islanders,CHI,Chicago Blackhawks,2022-12-05T00:30:00Z,US/Eastern
+2a69f19a-829f-481a-8459-6c984d7a0167,BOS,Boston Bruins,VGK,Vegas Golden Knights,2022-12-06T00:00:00Z,US/Eastern
+50bb2386-57be-486e-97ac-142ec67e9737,NYR,New York Rangers,STL,St. Louis Blues,2022-12-06T00:00:00Z,US/Eastern
+e2f493b6-82de-47a1-a82e-b58a9a3b346a,PHI,Philadelphia Flyers,COL,Colorado Avalanche,2022-12-06T00:00:00Z,US/Eastern
+670e42da-3f94-4eda-b92f-c4de181f7ae3,EDM,Edmonton Oilers,WSH,Washington Capitals,2022-12-06T01:30:00Z,US/Mountain
+9ee0ee91-21f9-43d8-9a86-456ee45b4bc5,CGY,Calgary Flames,ARI,Arizona Coyotes,2022-12-06T02:00:00Z,US/Mountain
+11d58fa9-c32b-40c0-86e2-b1ded25b4bf9,VAN,Vancouver Canucks,MTL,Montreal Canadiens,2022-12-06T03:30:00Z,US/Pacific
+1b8547e5-3114-46bf-9a74-f5138d82ab4b,PIT,Pittsburgh Penguins,CBJ,Columbus Blue Jackets,2022-12-07T00:00:00Z,US/Eastern
+1e93c9dd-52f6-4413-b4c2-fab04a767af0,NJ,New Jersey Devils,CHI,Chicago Blackhawks,2022-12-07T00:00:00Z,US/Eastern
+81d9dac0-6818-4bb3-b740-6bcfcba26033,OTT,Ottawa Senators,LA,Los Angeles Kings,2022-12-07T00:00:00Z,US/Eastern
+ce616ee7-56a8-476b-9653-a2bdafe680da,TB,Tampa Bay Lightning,DET,Detroit Red Wings,2022-12-07T00:00:00Z,US/Eastern
+bc2637e3-6456-412b-8b81-ada042fb37ff,NYI,New York Islanders,STL,St. Louis Blues,2022-12-07T00:30:00Z,US/Eastern
+ee1c88df-f956-47a7-a770-f035491fa90a,WPG,Winnipeg Jets,FLA,Florida Panthers,2022-12-07T01:00:00Z,US/Central
+fd6d43b0-5a9c-4115-9551-13caa4ff2665,DAL,Dallas Stars,TOR,Toronto Maple Leafs,2022-12-07T01:30:00Z,US/Central
+04939d25-7a54-4c9c-bc0f-e914aa18a2d2,ANA,Anaheim Ducks,CAR,Carolina Hurricanes,2022-12-07T03:00:00Z,US/Pacific
+6e5903dd-dd3c-4d12-b877-ab7c9e90dd42,SEA,Seattle Kraken,MTL,Montreal Canadiens,2022-12-07T03:00:00Z,US/Pacific
+ba0b30de-70f3-438a-8947-a83dd38d3d57,PHI,Philadelphia Flyers,WSH,Washington Capitals,2022-12-08T00:00:00Z,US/Eastern
+5861011a-88b5-4966-80b0-7e0f5116a89d,CBJ,Columbus Blue Jackets,BUF,Buffalo Sabres,2022-12-08T00:30:00Z,US/Eastern
+733c1723-058c-489e-aa4f-d351f7ebf283,CGY,Calgary Flames,MIN,Minnesota Wild,2022-12-08T01:00:00Z,US/Mountain
+2ccc0ed4-ed93-4591-a3cd-6d4fc46902c8,COL,Colorado Avalanche,BOS,Boston Bruins,2022-12-08T02:00:00Z,US/Mountain
+3839d193-d8da-4622-a6b3-e3db5ca7d98b,EDM,Edmonton Oilers,ARI,Arizona Coyotes,2022-12-08T02:30:00Z,US/Mountain
+7ee0cfc5-bead-418f-b151-c9ad655bdcb0,VGK,Vegas Golden Knights,NYR,New York Rangers,2022-12-08T03:00:00Z,US/Pacific
+8d3213c8-bf39-4731-8c37-73ae74f756be,SJ,San Jose Sharks,VAN,Vancouver Canucks,2022-12-08T03:30:00Z,US/Pacific
+66372caa-a09d-437a-9b7b-12e47d849f59,TOR,Toronto Maple Leafs,LA,Los Angeles Kings,2022-12-09T00:00:00Z,US/Eastern
+f5c7eb00-47da-4579-ae2e-10bbfd81140b,TB,Tampa Bay Lightning,NSH,Nashville Predators,2022-12-09T00:00:00Z,US/Eastern
+fe79f7f9-9500-4ea9-9d85-42520538572b,FLA,Florida Panthers,DET,Detroit Red Wings,2022-12-09T00:30:00Z,US/Eastern
+8d8c0b3d-23cf-4f57-9752-53d9c2890325,STL,St. Louis Blues,WPG,Winnipeg Jets,2022-12-09T01:00:00Z,US/Central
+98587169-070d-4ec2-b9bd-edd506a04c02,DAL,Dallas Stars,OTT,Ottawa Senators,2022-12-09T01:30:00Z,US/Central
+3f2e13eb-0e5b-45d1-8436-08eb0ff0fbb3,NJ,New Jersey Devils,NYI,New York Islanders,2022-12-10T00:00:00Z,US/Eastern
+6bb0baaf-9df6-4bb5-b70b-0ef06f11d6c1,BUF,Buffalo Sabres,PIT,Pittsburgh Penguins,2022-12-10T00:00:00Z,US/Eastern
+c02795c4-ae82-46ae-99d7-ed4be1687907,CBJ,Columbus Blue Jackets,CGY,Calgary Flames,2022-12-10T00:00:00Z,US/Eastern
+c499895c-ed8c-477c-ae37-20dc9e39c223,WSH,Washington Capitals,SEA,Seattle Kraken,2022-12-10T00:00:00Z,US/Eastern
+f49c3510-4a0a-4a44-8b85-9b9197ef5213,CHI,Chicago Blackhawks,WPG,Winnipeg Jets,2022-12-10T01:30:00Z,US/Central
+4dd23911-7d37-4ff6-96ef-91cf5889807e,EDM,Edmonton Oilers,MIN,Minnesota Wild,2022-12-10T02:00:00Z,US/Mountain
+8296ca52-9935-4a09-b102-9750389f00b9,COL,Colorado Avalanche,NYR,New York Rangers,2022-12-10T02:00:00Z,US/Mountain
+867636c0-0beb-4c55-92e5-6ac637da6a2c,ARI,Arizona Coyotes,BOS,Boston Bruins,2022-12-10T02:30:00Z,US/Mountain
+1912dbf9-99a9-47fa-8383-9a831f47c085,ANA,Anaheim Ducks,SJ,San Jose Sharks,2022-12-10T03:00:00Z,US/Pacific
+fac63eea-147e-4466-b823-9b25249c3bc8,VGK,Vegas Golden Knights,PHI,Philadelphia Flyers,2022-12-10T03:00:00Z,US/Pacific
+4da4b2e3-5dcf-46db-8b0b-309cf3dea71e,NSH,Nashville Predators,OTT,Ottawa Senators,2022-12-10T18:30:00Z,US/Central
+9effebc7-9d46-4e2f-bab5-98a25fd92240,DAL,Dallas Stars,DET,Detroit Red Wings,2022-12-10T19:00:00Z,US/Central
+14c2ef26-077a-413e-89b5-fcb3d7407858,TB,Tampa Bay Lightning,FLA,Florida Panthers,2022-12-10T21:30:00Z,US/Eastern
+99170f99-fedf-4389-84f9-2e8440a71373,PIT,Pittsburgh Penguins,BUF,Buffalo Sabres,2022-12-11T00:00:00Z,US/Eastern
+9ace4ae4-7f78-4b4f-9e62-945bdccb0f16,TOR,Toronto Maple Leafs,CGY,Calgary Flames,2022-12-11T00:00:00Z,US/Eastern
+e3fa7fb0-bd7a-48ce-a396-60c52e2b6339,MTL,Montreal Canadiens,LA,Los Angeles Kings,2022-12-11T00:00:00Z,US/Eastern
+d4c7afb5-a763-4eb4-a459-f3f089c97dbd,NYI,New York Islanders,CAR,Carolina Hurricanes,2022-12-11T00:30:00Z,US/Eastern
+3526310b-843b-47a8-b4c3-490339b14850,VAN,Vancouver Canucks,MIN,Minnesota Wild,2022-12-11T03:00:00Z,US/Pacific
+aaf652d0-7896-4d72-a927-1f7aec8bf924,STL,St. Louis Blues,COL,Colorado Avalanche,2022-12-11T20:00:00Z,US/Central
+2bd0b5d7-8036-4fb2-876f-3070f1997647,CBJ,Columbus Blue Jackets,LA,Los Angeles Kings,2022-12-11T23:00:00Z,US/Eastern
+e96b4a02-b539-4434-b9ff-ecf8276f72cf,FLA,Florida Panthers,SEA,Seattle Kraken,2022-12-11T23:00:00Z,US/Eastern
+0be68ef7-f9b3-4496-a0f0-cf13e3cba442,ARI,Arizona Coyotes,PHI,Philadelphia Flyers,2022-12-12T00:00:00Z,US/Mountain
+3a6ea84d-85ba-4ccd-a84c-c3444b88dd2e,WPG,Winnipeg Jets,WSH,Washington Capitals,2022-12-12T00:00:00Z,US/Central
+5208aa04-fc5a-47c3-8de0-d129aaf9374f,VGK,Vegas Golden Knights,BOS,Boston Bruins,2022-12-12T01:00:00Z,US/Pacific
+2ae7c464-e1e1-4440-949b-4410d4267fbf,NYR,New York Rangers,NJ,New Jersey Devils,2022-12-13T00:00:00Z,US/Eastern
+3d803a84-6871-4add-836b-b394a3d555b9,MTL,Montreal Canadiens,CGY,Calgary Flames,2022-12-13T00:00:00Z,US/Eastern
+5ad8e1a6-770f-4dcd-b132-0011ec57b217,PIT,Pittsburgh Penguins,DAL,Dallas Stars,2022-12-13T00:00:00Z,US/Eastern
+cd9b964a-c29b-4bf6-9380-151757b489d8,OTT,Ottawa Senators,ANA,Anaheim Ducks,2022-12-13T00:30:00Z,US/Eastern
+06362331-9696-4aa2-8afa-e9aaf6473b29,STL,St. Louis Blues,NSH,Nashville Predators,2022-12-13T01:00:00Z,US/Central
+acabf42d-2f9c-467c-8d88-ec2b506b0b0c,MIN,Minnesota Wild,EDM,Edmonton Oilers,2022-12-13T01:00:00Z,US/Central
+29afa852-6e1c-462a-b526-159fe607e978,TOR,Toronto Maple Leafs,ANA,Anaheim Ducks,2022-12-14T00:00:00Z,US/Eastern
+2de3fad5-a527-4c49-9093-9243d2135352,TB,Tampa Bay Lightning,SEA,Seattle Kraken,2022-12-14T00:00:00Z,US/Eastern
+34a3dafc-1a66-48f0-96bd-93dd007d76f9,NJ,New Jersey Devils,DAL,Dallas Stars,2022-12-14T00:00:00Z,US/Eastern
+36351bae-25d4-4c0b-8645-b468e4245a56,BUF,Buffalo Sabres,LA,Los Angeles Kings,2022-12-14T00:00:00Z,US/Eastern
+7938670a-f192-4314-8443-d858c215d56e,FLA,Florida Panthers,CBJ,Columbus Blue Jackets,2022-12-14T00:00:00Z,US/Eastern
+cf026da7-6666-4240-bb8f-776b8bdcd187,DET,Detroit Red Wings,CAR,Carolina Hurricanes,2022-12-14T00:00:00Z,US/Eastern
+e69bac22-c3ee-4edd-ad57-36b52aedfc4a,BOS,Boston Bruins,NYI,New York Islanders,2022-12-14T00:00:00Z,US/Eastern
+0f5c4332-f8c6-4d2c-b59e-fbd4cf224b7d,WPG,Winnipeg Jets,VGK,Vegas Golden Knights,2022-12-14T01:00:00Z,US/Central
+a1938d72-4983-49ed-b27d-d968e23e317b,NSH,Nashville Predators,EDM,Edmonton Oilers,2022-12-14T01:00:00Z,US/Central
+1dbc098c-2201-4c1f-9e65-a9e2abcabe06,CHI,Chicago Blackhawks,WSH,Washington Capitals,2022-12-14T01:30:00Z,US/Central
+042a9294-ddc5-4b9a-85ef-2eb82c7758c1,COL,Colorado Avalanche,PHI,Philadelphia Flyers,2022-12-14T02:30:00Z,US/Mountain
+60907ea0-8270-49b1-bbc8-d0e0cbd9803e,SJ,San Jose Sharks,ARI,Arizona Coyotes,2022-12-14T03:30:00Z,US/Pacific
+4c0b73ed-5163-424a-be15-0b3305c9f16f,OTT,Ottawa Senators,MTL,Montreal Canadiens,2022-12-15T00:00:00Z,US/Eastern
+e3897b1d-1a2d-45a5-a1b8-4bda92262962,MIN,Minnesota Wild,DET,Detroit Red Wings,2022-12-15T00:30:00Z,US/Central
+c1ea3306-4d7d-4982-a0fd-b88c9ca6b528,CGY,Calgary Flames,VAN,Vancouver Canucks,2022-12-15T03:00:00Z,US/Mountain
+02cf432b-d84e-4583-929b-afafb74e6fac,MTL,Montreal Canadiens,ANA,Anaheim Ducks,2022-12-16T00:00:00Z,US/Eastern
+1f2dc77e-f230-438f-a5d6-3cc328379158,CAR,Carolina Hurricanes,SEA,Seattle Kraken,2022-12-16T00:00:00Z,US/Eastern
+39b23042-fdc4-40fc-ac71-989b2964a21f,WSH,Washington Capitals,DAL,Dallas Stars,2022-12-16T00:00:00Z,US/Eastern
+52247b18-e91d-4cc2-b00b-5fd43ad8361f,NYR,New York Rangers,TOR,Toronto Maple Leafs,2022-12-16T00:00:00Z,US/Eastern
+c566725e-b6d6-4695-9995-d190b1058a25,BOS,Boston Bruins,LA,Los Angeles Kings,2022-12-16T00:00:00Z,US/Eastern
+e2a19abf-1287-4777-b88f-d35818db817b,NJ,New Jersey Devils,PHI,Philadelphia Flyers,2022-12-16T00:00:00Z,US/Eastern
+ed84f3d8-84fa-4704-ae1f-f5e90ed8aa72,FLA,Florida Panthers,PIT,Pittsburgh Penguins,2022-12-16T00:00:00Z,US/Eastern
+f18c5378-7ac9-4345-8f43-0f546c20ade0,TB,Tampa Bay Lightning,CBJ,Columbus Blue Jackets,2022-12-16T00:00:00Z,US/Eastern
+f5faf73f-3d28-4c5c-869e-fa445cc04860,WPG,Winnipeg Jets,NSH,Nashville Predators,2022-12-16T01:00:00Z,US/Central
+bd7dc395-bdb2-4fa6-91f2-031b250d66dd,CHI,Chicago Blackhawks,VGK,Vegas Golden Knights,2022-12-16T01:30:00Z,US/Central
+25b0fade-7db0-4c7a-b2fe-2359758b9e47,EDM,Edmonton Oilers,STL,St. Louis Blues,2022-12-16T02:00:00Z,US/Mountain
+9300f652-f146-4549-8a4b-97a0fda1705c,COL,Colorado Avalanche,BUF,Buffalo Sabres,2022-12-16T02:00:00Z,US/Mountain
+55e3d21c-75ba-4b85-a89a-c8858df5d916,MIN,Minnesota Wild,CHI,Chicago Blackhawks,2022-12-17T01:00:00Z,US/Central
+6ac2b301-c10d-4baa-921a-d2bffe42032e,CGY,Calgary Flames,STL,St. Louis Blues,2022-12-17T02:00:00Z,US/Mountain
+373b14aa-4625-439a-8920-eb18df9b18a3,ARI,Arizona Coyotes,NYI,New York Islanders,2022-12-17T02:30:00Z,US/Mountain
+118a4100-296e-43e8-ad6b-91799947f0eb,BOS,Boston Bruins,CBJ,Columbus Blue Jackets,2022-12-17T18:00:00Z,US/Eastern
+3e688c01-0cb9-462a-9c35-4d1a30d4316f,DET,Detroit Red Wings,OTT,Ottawa Senators,2022-12-17T18:00:00Z,US/Eastern
+a9bf9300-88e1-4701-a176-99d47358f379,EDM,Edmonton Oilers,ANA,Anaheim Ducks,2022-12-17T21:00:00Z,US/Mountain
+00a030be-f229-404c-bad1-a182ec738927,CAR,Carolina Hurricanes,DAL,Dallas Stars,2022-12-18T00:00:00Z,US/Eastern
+56710834-47a9-4b96-aba2-1772c064d8da,PHI,Philadelphia Flyers,NYR,New York Rangers,2022-12-18T00:00:00Z,US/Eastern
+d5c094d1-c8ca-415d-87a6-b8144a71a0f9,MTL,Montreal Canadiens,TB,Tampa Bay Lightning,2022-12-18T00:00:00Z,US/Eastern
+e06102db-b9c0-4b3d-ae42-7a03dab04fba,WSH,Washington Capitals,TOR,Toronto Maple Leafs,2022-12-18T00:00:00Z,US/Eastern
+9dae6e0c-2974-41a1-a785-4eada46fafdb,NJ,New Jersey Devils,FLA,Florida Panthers,2022-12-18T00:30:00Z,US/Eastern
+8f754b48-71fc-46f8-9c85-ed48e82473c5,ARI,Arizona Coyotes,BUF,Buffalo Sabres,2022-12-18T02:00:00Z,US/Mountain
+cf8f73c8-b191-49b9-a7c2-1fda98f3339b,COL,Colorado Avalanche,NSH,Nashville Predators,2022-12-18T02:00:00Z,US/Mountain
+853f0b98-e0cb-4264-9857-1ba457e506df,VAN,Vancouver Canucks,WPG,Winnipeg Jets,2022-12-18T03:00:00Z,US/Pacific
+b449a27e-792b-409b-9a2f-be97e4b78df7,VGK,Vegas Golden Knights,NYI,New York Islanders,2022-12-18T03:00:00Z,US/Pacific
+b919feb3-66ae-4145-8fad-014347513aed,LA,Los Angeles Kings,SJ,San Jose Sharks,2022-12-18T03:30:00Z,US/Pacific
+f7b3d55b-6fb0-4acd-b8b0-589f73648d37,MIN,Minnesota Wild,OTT,Ottawa Senators,2022-12-18T19:00:00Z,US/Central
+dbdb820a-b93d-4ed4-82b8-e86f7ea38252,CAR,Carolina Hurricanes,PIT,Pittsburgh Penguins,2022-12-18T22:00:00Z,US/Eastern
+cc7dfcc6-a486-4e67-b276-efc82be8400f,CHI,Chicago Blackhawks,NYR,New York Rangers,2022-12-19T00:30:00Z,US/Central
+b0d07ca6-0614-4988-86e7-37274d9e6e81,SEA,Seattle Kraken,WPG,Winnipeg Jets,2022-12-19T01:00:00Z,US/Pacific
+5e68a4b0-c81f-4c8c-bb94-58179d6f20cb,SJ,San Jose Sharks,CGY,Calgary Flames,2022-12-19T03:00:00Z,US/Pacific
+952359e8-0666-4334-b01c-f7721926bbf6,CBJ,Columbus Blue Jackets,DAL,Dallas Stars,2022-12-20T00:00:00Z,US/Eastern
+db0a34f6-2b84-44e1-921a-64e08dd1557c,WSH,Washington Capitals,DET,Detroit Red Wings,2022-12-20T00:00:00Z,US/Eastern
+df39e890-1fc3-4e5c-baf0-3ef59b3722d6,BOS,Boston Bruins,FLA,Florida Panthers,2022-12-20T00:00:00Z,US/Eastern
+fae25e38-c210-4910-9a88-33be96766e6b,NSH,Nashville Predators,EDM,Edmonton Oilers,2022-12-20T01:00:00Z,US/Central
+04653f3b-e348-443a-a738-89698e5078a2,COL,Colorado Avalanche,NYI,New York Islanders,2022-12-20T02:00:00Z,US/Mountain
+775d136a-d34c-41c3-a906-53561f257443,VGK,Vegas Golden Knights,BUF,Buffalo Sabres,2022-12-20T03:00:00Z,US/Pacific
+e30615d2-0d68-4b89-863a-7bd3fa5f5439,ARI,Arizona Coyotes,MTL,Montreal Canadiens,2022-12-20T03:00:00Z,US/Mountain
+fd3d3843-06a9-418c-b508-861f0b2eb6ae,VAN,Vancouver Canucks,STL,St. Louis Blues,2022-12-20T03:30:00Z,US/Pacific
+258210c3-49ab-48ef-820a-c749fcf59605,PIT,Pittsburgh Penguins,NYR,New York Rangers,2022-12-21T00:00:00Z,US/Eastern
+307657f9-f319-4b60-a842-b4ec7357da3c,PHI,Philadelphia Flyers,CBJ,Columbus Blue Jackets,2022-12-21T00:00:00Z,US/Eastern
+53348eda-cf36-4e2e-95df-3c6f3e01c7aa,TOR,Toronto Maple Leafs,TB,Tampa Bay Lightning,2022-12-21T00:00:00Z,US/Eastern
+ed8b5e39-9b58-4309-bf26-ee1b3128d092,CAR,Carolina Hurricanes,NJ,New Jersey Devils,2022-12-21T00:00:00Z,US/Eastern
+9100829c-fc06-4ffd-b28d-61eaf4ee03b4,WPG,Winnipeg Jets,OTT,Ottawa Senators,2022-12-21T01:00:00Z,US/Central
+54a91ed2-9baa-47a3-b15a-b3c3bd54e842,SEA,Seattle Kraken,STL,St. Louis Blues,2022-12-21T03:00:00Z,US/Pacific
+484be428-abf0-4a17-85df-b5159eed24c5,LA,Los Angeles Kings,ANA,Anaheim Ducks,2022-12-21T03:30:00Z,US/Pacific
+e3ee50e4-f658-407b-9e53-86ccf4f1bd88,SJ,San Jose Sharks,CGY,Calgary Flames,2022-12-21T03:30:00Z,US/Pacific
+a0455db6-a880-4a79-824b-231134c73348,FLA,Florida Panthers,NJ,New Jersey Devils,2022-12-22T00:00:00Z,US/Eastern
+c5f6c1f9-bddb-4319-acb7-5e3ac06d5238,DET,Detroit Red Wings,TB,Tampa Bay Lightning,2022-12-22T00:00:00Z,US/Eastern
+31f02219-07f3-41e9-8dd9-0097ea504b70,COL,Colorado Avalanche,MTL,Montreal Canadiens,2022-12-22T01:00:00Z,US/Mountain
+e521ed0d-da39-4299-8a41-b076149e866f,CHI,Chicago Blackhawks,NSH,Nashville Predators,2022-12-22T01:30:00Z,US/Central
+3c3bf46d-132d-48df-99c3-281f01ccf909,DAL,Dallas Stars,EDM,Edmonton Oilers,2022-12-22T02:30:00Z,US/Central
+8b918a6c-a34b-4e86-be4c-6d6de32ad458,VGK,Vegas Golden Knights,ARI,Arizona Coyotes,2022-12-22T03:00:00Z,US/Pacific
+d9e375ae-a30e-45da-b4fb-83778ed90948,ANA,Anaheim Ducks,MIN,Minnesota Wild,2022-12-22T03:00:00Z,US/Pacific
+e90dbe5a-f5bf-4b63-b4ff-c26f2a4f056b,TOR,Toronto Maple Leafs,PHI,Philadelphia Flyers,2022-12-22T19:00:00Z,US/Eastern
+30e24778-debb-46f6-9447-4ea7e924e8a4,NYR,New York Rangers,NYI,New York Islanders,2022-12-23T00:00:00Z,US/Eastern
+5435ef99-ff62-446d-a371-f97dfcedd9ba,PIT,Pittsburgh Penguins,CAR,Carolina Hurricanes,2022-12-23T00:00:00Z,US/Eastern
+5994175a-6b7c-4618-a9c0-e16ad1f2be2d,BOS,Boston Bruins,WPG,Winnipeg Jets,2022-12-23T00:00:00Z,US/Eastern
+77aa05b8-dde1-4f9e-91fa-fe73336f9ee6,OTT,Ottawa Senators,WSH,Washington Capitals,2022-12-23T00:00:00Z,US/Eastern
+22acad5b-98cf-45ae-846f-7084ceacc3bc,VAN,Vancouver Canucks,SEA,Seattle Kraken,2022-12-23T03:00:00Z,US/Pacific
+7198bfc9-1953-4b49-8f38-7ee32eb5bf1c,SJ,San Jose Sharks,MIN,Minnesota Wild,2022-12-23T03:30:00Z,US/Pacific
+9d52e070-8fb2-4434-978c-7d15c247fc85,LA,Los Angeles Kings,CGY,Calgary Flames,2022-12-23T03:30:00Z,US/Pacific
+90a453f9-c055-4832-a5d5-556cab68024c,OTT,Ottawa Senators,DET,Detroit Red Wings,2022-12-24T00:00:00Z,US/Eastern
+b4c398ea-91ec-4bfd-bd3c-5e557cab5f08,CAR,Carolina Hurricanes,PHI,Philadelphia Flyers,2022-12-24T00:00:00Z,US/Eastern
+c30d909c-1a30-4432-a21b-d155b0a1da1a,BUF,Buffalo Sabres,TB,Tampa Bay Lightning,2022-12-24T00:00:00Z,US/Eastern
+c7ed57b1-484b-421d-8cb6-037f4be3546d,WSH,Washington Capitals,WPG,Winnipeg Jets,2022-12-24T00:00:00Z,US/Eastern
+dd430a79-6c01-4bf0-b886-debb82875c20,NJ,New Jersey Devils,BOS,Boston Bruins,2022-12-24T00:00:00Z,US/Eastern
+04ec1aee-63c8-4bc5-bdcd-655d0dc4b0b4,NYI,New York Islanders,FLA,Florida Panthers,2022-12-24T00:30:00Z,US/Eastern
+84f23f58-bd79-4985-993f-e21ec6e18d4a,NSH,Nashville Predators,COL,Colorado Avalanche,2022-12-24T01:00:00Z,US/Central
+713db8a1-6700-4816-93ed-9240f09ae487,DAL,Dallas Stars,MTL,Montreal Canadiens,2022-12-24T01:30:00Z,US/Central
+943b19b8-ed25-4f85-92ef-9c1d7aa7b8c1,CHI,Chicago Blackhawks,CBJ,Columbus Blue Jackets,2022-12-24T01:30:00Z,US/Central
+2672c4c6-10c7-4fc9-9f0a-d0b29efbab64,EDM,Edmonton Oilers,VAN,Vancouver Canucks,2022-12-24T02:00:00Z,US/Mountain
+41d08705-f75b-47bf-8a3a-b0e19444075b,ARI,Arizona Coyotes,LA,Los Angeles Kings,2022-12-24T02:30:00Z,US/Mountain
+a0fc8c69-9288-4ec4-bd49-79f0d603d2ba,VGK,Vegas Golden Knights,STL,St. Louis Blues,2022-12-24T03:00:00Z,US/Pacific
+93dc16e0-ee05-431a-ab20-cd8b55d98cd5,ANA,Anaheim Ducks,CGY,Calgary Flames,2022-12-24T03:30:00Z,US/Pacific
+20707439-1a62-4664-b7ea-f0741a249c74,CAR,Carolina Hurricanes,CHI,Chicago Blackhawks,2022-12-28T00:00:00Z,US/Eastern
+35af0bee-7084-4808-96fb-f0f51360ee96,NYR,New York Rangers,WSH,Washington Capitals,2022-12-28T00:00:00Z,US/Eastern
+3ff72d90-377a-4466-864d-59c93d916191,OTT,Ottawa Senators,BOS,Boston Bruins,2022-12-28T00:00:00Z,US/Eastern
+8555d085-30bb-4bd1-95a7-b913520aa242,NYI,New York Islanders,PIT,Pittsburgh Penguins,2022-12-28T00:30:00Z,US/Eastern
+9a25d875-3775-4026-a180-2089ecdd118f,CBJ,Columbus Blue Jackets,BUF,Buffalo Sabres,2022-12-28T00:30:00Z,US/Eastern
+094343de-89e7-4108-83d7-c92aa134e602,STL,St. Louis Blues,TOR,Toronto Maple Leafs,2022-12-28T01:00:00Z,US/Central
+c67e894f-f22c-4682-9662-c5a24722d9d7,NSH,Nashville Predators,DAL,Dallas Stars,2022-12-28T01:00:00Z,US/Central
+f645fb6a-8d86-4909-a23f-ecb051624fe1,WPG,Winnipeg Jets,MIN,Minnesota Wild,2022-12-28T01:00:00Z,US/Central
+8828664f-e7d7-4857-a363-aa99f766c6fe,ARI,Arizona Coyotes,COL,Colorado Avalanche,2022-12-28T02:00:00Z,US/Mountain
+d32ba9db-daa3-4fa8-a54f-0bf1b2c9ba0f,CGY,Calgary Flames,EDM,Edmonton Oilers,2022-12-28T02:00:00Z,US/Mountain
+4b403713-235e-44ab-94bd-508856cb8ba7,VAN,Vancouver Canucks,SJ,San Jose Sharks,2022-12-28T03:00:00Z,US/Pacific
+f18303e6-8474-443e-b63d-079ba8141be9,LA,Los Angeles Kings,VGK,Vegas Golden Knights,2022-12-28T03:30:00Z,US/Pacific
+b19f1f32-a34c-4349-96ed-502e8476372b,TB,Tampa Bay Lightning,MTL,Montreal Canadiens,2022-12-29T00:00:00Z,US/Eastern
+e9031458-9c90-44ee-ac34-1979f1068f55,NJ,New Jersey Devils,BOS,Boston Bruins,2022-12-29T00:00:00Z,US/Eastern
+cb5324ef-ba7e-45a4-85ca-2b453bf17ce5,PIT,Pittsburgh Penguins,DET,Detroit Red Wings,2022-12-29T00:30:00Z,US/Eastern
+0bc9ad2b-5685-4bbe-8fbb-0fa2b2a7d74e,SEA,Seattle Kraken,CGY,Calgary Flames,2022-12-29T03:00:00Z,US/Pacific
+f7cd26f4-b89f-45ce-b61e-c0fdcfc0856e,ANA,Anaheim Ducks,VGK,Vegas Golden Knights,2022-12-29T03:00:00Z,US/Pacific
+325f96fc-649f-487b-a968-34e06798da72,WSH,Washington Capitals,OTT,Ottawa Senators,2022-12-30T00:00:00Z,US/Eastern
+34455e36-4e66-488a-b59a-42b96a489650,FLA,Florida Panthers,MTL,Montreal Canadiens,2022-12-30T00:00:00Z,US/Eastern
+3936067c-b5d7-4bd5-b148-ebafccc722af,BUF,Buffalo Sabres,DET,Detroit Red Wings,2022-12-30T00:00:00Z,US/Eastern
+ed4cd5cb-eeff-4222-bfc4-6d682f13d13f,TB,Tampa Bay Lightning,NYR,New York Rangers,2022-12-30T00:00:00Z,US/Eastern
+ba35f733-8891-4542-be1d-983db4ba3d7f,NYI,New York Islanders,CBJ,Columbus Blue Jackets,2022-12-30T00:30:00Z,US/Eastern
+16b059c8-2298-4289-8be6-06e029581ce1,STL,St. Louis Blues,CHI,Chicago Blackhawks,2022-12-30T01:00:00Z,US/Central
+44363d50-5202-4d2c-bc0f-ad73000f30ce,MIN,Minnesota Wild,DAL,Dallas Stars,2022-12-30T01:00:00Z,US/Central
+f8154ee9-53ed-4b3f-813e-7af49813ea1c,WPG,Winnipeg Jets,VAN,Vancouver Canucks,2022-12-30T01:00:00Z,US/Central
+3a95eb91-37c1-4adb-88a5-7010606a4d46,COL,Colorado Avalanche,LA,Los Angeles Kings,2022-12-30T02:00:00Z,US/Mountain
+7b0cd57b-b859-4fe6-ad3d-aab40e0cc6fd,ARI,Arizona Coyotes,TOR,Toronto Maple Leafs,2022-12-30T02:00:00Z,US/Mountain
+332d81c2-3619-4632-9f16-ec2e669d03e8,SJ,San Jose Sharks,PHI,Philadelphia Flyers,2022-12-30T03:30:00Z,US/Pacific
+683aad83-fe8d-41fd-88ea-fad7056de2e3,ANA,Anaheim Ducks,NSH,Nashville Predators,2022-12-30T22:00:00Z,US/Pacific
+de0008b2-8324-4ec3-85d2-6f6a7b149801,PIT,Pittsburgh Penguins,NJ,New Jersey Devils,2022-12-31T00:00:00Z,US/Eastern
+dcd140e5-7cc0-4a46-9990-0f5940ad12c0,CAR,Carolina Hurricanes,FLA,Florida Panthers,2022-12-31T00:30:00Z,US/Eastern
+d004f566-77cb-4f1f-a3d9-18dced7c4297,SEA,Seattle Kraken,EDM,Edmonton Oilers,2022-12-31T03:00:00Z,US/Pacific
+5d2a64e3-6ec4-4020-9499-e2ea5e1717a2,BOS,Boston Bruins,BUF,Buffalo Sabres,2022-12-31T18:00:00Z,US/Eastern
+496b0706-0036-42c3-aaf0-612993d7a08e,VGK,Vegas Golden Knights,NSH,Nashville Predators,2022-12-31T20:00:00Z,US/Pacific
+749cd92d-4721-456a-ba40-6da2ba2b14c4,LA,Los Angeles Kings,PHI,Philadelphia Flyers,2022-12-31T21:00:00Z,US/Pacific
+fd2274f4-2c0f-43ae-b7c0-78ff651d6744,WSH,Washington Capitals,MTL,Montreal Canadiens,2022-12-31T21:00:00Z,US/Eastern
+c928f383-b462-486c-87ba-2218b0d2acc9,TB,Tampa Bay Lightning,ARI,Arizona Coyotes,2022-12-31T22:00:00Z,US/Eastern
+5b979ba8-9ba0-4463-a74d-f5104d1cbe21,STL,St. Louis Blues,MIN,Minnesota Wild,2022-12-31T23:00:00Z,US/Central
+01c26628-0f7e-4655-b59d-1c77660e72ae,COL,Colorado Avalanche,TOR,Toronto Maple Leafs,2023-01-01T00:00:00Z,US/Mountain
+3fb757df-9fc1-4eb2-923b-6862c4889cd7,CBJ,Columbus Blue Jackets,CHI,Chicago Blackhawks,2023-01-01T00:00:00Z,US/Eastern
+60cbe735-e592-489f-adf0-4bbe9bc251e4,DET,Detroit Red Wings,OTT,Ottawa Senators,2023-01-01T00:00:00Z,US/Eastern
+db1fda5c-a2c8-4052-9126-c29d2146cf47,DAL,Dallas Stars,SJ,San Jose Sharks,2023-01-01T01:00:00Z,US/Central
+675a4d3f-886f-4f0c-aeb4-2712482e9b66,CGY,Calgary Flames,VAN,Vancouver Canucks,2023-01-01T03:00:00Z,US/Mountain
+96bfed87-eac4-40b7-9cb1-001ba7094144,EDM,Edmonton Oilers,WPG,Winnipeg Jets,2023-01-01T03:00:00Z,US/Mountain
+0d6bbd95-4437-4e28-9361-730e5d9d3457,NJ,New Jersey Devils,CAR,Carolina Hurricanes,2023-01-01T20:00:00Z,US/Eastern
+89009d47-4943-4f2c-aa67-daef1b44416f,FLA,Florida Panthers,NYR,New York Rangers,2023-01-01T22:00:00Z,US/Eastern
+a5d5421a-0bb2-4ba4-bd29-7fdd637e422a,OTT,Ottawa Senators,BUF,Buffalo Sabres,2023-01-02T00:00:00Z,US/Eastern
+fd8e88b2-f764-4c06-a81d-91a5c142e7a2,CHI,Chicago Blackhawks,SJ,San Jose Sharks,2023-01-02T00:00:00Z,US/Central
+437e478c-1e8d-4c22-8398-fe5ac7f5e75e,SEA,Seattle Kraken,NYI,New York Islanders,2023-01-02T01:00:00Z,US/Pacific
+7c7db2d1-6346-4d3d-86a6-1deb5ef65504,BOS,Boston Bruins,PIT,Pittsburgh Penguins,2023-01-02T19:00:00Z,US/Eastern
+1fec4b15-55a8-40e2-bef4-2d3032eb42e1,COL,Colorado Avalanche,VGK,Vegas Golden Knights,2023-01-03T02:00:00Z,US/Mountain
+357d7863-585b-46c2-8af9-a7ac8cc17b8c,ANA,Anaheim Ducks,PHI,Philadelphia Flyers,2023-01-03T03:00:00Z,US/Pacific
+a718dc03-7902-4021-865e-c2ae50da8747,FLA,Florida Panthers,ARI,Arizona Coyotes,2023-01-04T00:00:00Z,US/Eastern
+b6b12991-1b29-4bba-81fe-2e1318b43d6a,WSH,Washington Capitals,BUF,Buffalo Sabres,2023-01-04T00:00:00Z,US/Eastern
+bcff5afa-d2e2-4d75-a6fd-c3f71cb08c65,NYR,New York Rangers,CAR,Carolina Hurricanes,2023-01-04T00:00:00Z,US/Eastern
+c3299d19-524b-4230-b3ef-dc14dba6e467,TOR,Toronto Maple Leafs,STL,St. Louis Blues,2023-01-04T00:00:00Z,US/Eastern
+ca5e062d-8db0-4c03-897c-f0b1579fecc0,OTT,Ottawa Senators,CBJ,Columbus Blue Jackets,2023-01-04T00:00:00Z,US/Eastern
+85687cb3-b7d5-4404-8cbc-15065e45570f,NSH,Nashville Predators,MTL,Montreal Canadiens,2023-01-04T01:00:00Z,US/Central
+9360f5ca-eb1a-4650-9e4b-1a8ab7a80d00,WPG,Winnipeg Jets,CGY,Calgary Flames,2023-01-04T01:00:00Z,US/Central
+4c5b58f3-150d-4738-8065-b7b1fff5392c,CHI,Chicago Blackhawks,TB,Tampa Bay Lightning,2023-01-04T01:30:00Z,US/Central
+988647a9-1289-419d-a56a-685f1c53c794,EDM,Edmonton Oilers,SEA,Seattle Kraken,2023-01-04T02:00:00Z,US/Mountain
+d3c39014-e07f-4349-b02c-d3446a856291,VAN,Vancouver Canucks,NYI,New York Islanders,2023-01-04T03:00:00Z,US/Pacific
+0633f8b4-5057-4a78-873b-1965a4c72e36,LA,Los Angeles Kings,DAL,Dallas Stars,2023-01-04T03:30:00Z,US/Pacific
+1f69241e-af54-46ae-88e8-d21e4b52852f,DET,Detroit Red Wings,NJ,New Jersey Devils,2023-01-05T00:00:00Z,US/Eastern
+9eb7aded-8859-496d-b372-90ca6c7edc91,MIN,Minnesota Wild,TB,Tampa Bay Lightning,2023-01-05T02:30:00Z,US/Central
+caa90a01-9162-40bc-8269-a34749245229,ANA,Anaheim Ducks,DAL,Dallas Stars,2023-01-05T03:00:00Z,US/Pacific
+1292fb31-e698-49cb-b487-69039eb9d7a6,CBJ,Columbus Blue Jackets,WSH,Washington Capitals,2023-01-06T00:00:00Z,US/Eastern
+2b3892b1-9ade-45fd-a173-84e739a6ff3f,PHI,Philadelphia Flyers,ARI,Arizona Coyotes,2023-01-06T00:00:00Z,US/Eastern
+32ac5ba3-6493-4a66-af0d-9dc372a318a1,CAR,Carolina Hurricanes,NSH,Nashville Predators,2023-01-06T00:00:00Z,US/Eastern
+77e3c466-5973-4603-bdb7-5886ba484687,TOR,Toronto Maple Leafs,SEA,Seattle Kraken,2023-01-06T00:00:00Z,US/Eastern
+c48eb13c-04f9-4c0b-bc5a-bd24fe8b5e35,NJ,New Jersey Devils,STL,St. Louis Blues,2023-01-06T00:00:00Z,US/Eastern
+fce06073-0ad7-44af-bf7a-8a9cddf9acd5,MTL,Montreal Canadiens,NYR,New York Rangers,2023-01-06T00:00:00Z,US/Eastern
+f1918cbe-9bea-4331-9086-451e2e1e86e7,EDM,Edmonton Oilers,NYI,New York Islanders,2023-01-06T02:00:00Z,US/Mountain
+0a69a562-54f7-49d5-9f6c-04ff2ac84e20,VAN,Vancouver Canucks,COL,Colorado Avalanche,2023-01-06T03:00:00Z,US/Pacific
+6c2730c3-a6f6-495d-be79-3003bd29a62e,VGK,Vegas Golden Knights,PIT,Pittsburgh Penguins,2023-01-06T03:00:00Z,US/Pacific
+3a53a831-f618-482b-984e-30ca32995039,LA,Los Angeles Kings,BOS,Boston Bruins,2023-01-06T03:30:00Z,US/Pacific
+1129e01a-d282-4039-828b-c85d4ce1d42b,WSH,Washington Capitals,NSH,Nashville Predators,2023-01-07T00:00:00Z,US/Eastern
+d9b98d3a-e9a2-43c8-86c4-bb3571b1c6e6,DET,Detroit Red Wings,FLA,Florida Panthers,2023-01-07T00:00:00Z,US/Eastern
+16de27aa-424d-4b43-9746-f5f505183394,WPG,Winnipeg Jets,TB,Tampa Bay Lightning,2023-01-07T01:00:00Z,US/Central
+323bf4a7-531a-45a9-89ce-68105d7082c4,CHI,Chicago Blackhawks,ARI,Arizona Coyotes,2023-01-07T01:30:00Z,US/Central
+f62d819a-89c5-41d3-98cc-7873ffae5fe6,CGY,Calgary Flames,NYI,New York Islanders,2023-01-07T02:00:00Z,US/Mountain
+d7c01c31-54d2-4b90-848a-db9b3446b460,ANA,Anaheim Ducks,SJ,San Jose Sharks,2023-01-07T03:00:00Z,US/Pacific
+5c13111d-e103-41da-837e-4ecaaa955606,NJ,New Jersey Devils,NYR,New York Rangers,2023-01-07T18:00:00Z,US/Eastern
+c3b895fc-72e7-44b6-9668-d524ce69d163,CBJ,Columbus Blue Jackets,CAR,Carolina Hurricanes,2023-01-07T21:00:00Z,US/Eastern
+05bd1645-12f4-4d35-adc6-edaee45faa91,OTT,Ottawa Senators,SEA,Seattle Kraken,2023-01-08T00:00:00Z,US/Eastern
+52e26706-4547-4572-937f-5622f0ad0e6f,MTL,Montreal Canadiens,STL,St. Louis Blues,2023-01-08T00:00:00Z,US/Eastern
+d8274149-2acd-4097-a0f7-ed1cd1c60c0b,BUF,Buffalo Sabres,MIN,Minnesota Wild,2023-01-08T00:00:00Z,US/Eastern
+f5c2f0bf-4267-4d23-99ec-dabf4a215309,TOR,Toronto Maple Leafs,DET,Detroit Red Wings,2023-01-08T00:00:00Z,US/Eastern
+12ce246e-0a22-4595-bac4-0ed73ef3b9d3,VGK,Vegas Golden Knights,LA,Los Angeles Kings,2023-01-08T03:00:00Z,US/Pacific
+e356ef5d-d193-4631-981c-701c0be4c1cd,EDM,Edmonton Oilers,COL,Colorado Avalanche,2023-01-08T03:00:00Z,US/Mountain
+06f6f538-c8b5-4aba-8224-17141542eb74,SJ,San Jose Sharks,BOS,Boston Bruins,2023-01-08T03:30:00Z,US/Pacific
+497b3973-527a-4553-9291-9af6ff3c3db0,WPG,Winnipeg Jets,VAN,Vancouver Canucks,2023-01-08T20:00:00Z,US/Central
+16bf0799-2ba5-4ea3-9858-8dfe4a1381f0,DAL,Dallas Stars,FLA,Florida Panthers,2023-01-08T20:30:00Z,US/Central
+a81a161e-d2bd-446f-93a6-646e383ebecb,WSH,Washington Capitals,CBJ,Columbus Blue Jackets,2023-01-08T22:00:00Z,US/Eastern
+473c06ea-869b-4796-beb2-ee690f3efaa5,CHI,Chicago Blackhawks,CGY,Calgary Flames,2023-01-09T00:00:00Z,US/Central
+4c772f32-839c-4721-aa41-1dce8903d1f6,PHI,Philadelphia Flyers,TOR,Toronto Maple Leafs,2023-01-09T00:00:00Z,US/Eastern
+733ebcb7-57fe-4b57-be15-5393dd96c18b,ARI,Arizona Coyotes,PIT,Pittsburgh Penguins,2023-01-09T00:00:00Z,US/Mountain
+c17dc5ad-4adf-40e3-bd25-6bb641c1f095,MIN,Minnesota Wild,STL,St. Louis Blues,2023-01-09T00:00:00Z,US/Central
+e3d2b4af-8305-44c1-9ec7-b7646af8f99e,ANA,Anaheim Ducks,BOS,Boston Bruins,2023-01-09T01:30:00Z,US/Pacific
+7707ff20-b985-4737-b3b1-97477760468d,OTT,Ottawa Senators,NSH,Nashville Predators,2023-01-10T00:30:00Z,US/Eastern
+cdf9ed1b-1e81-4d71-a341-1b2eb13a75da,MTL,Montreal Canadiens,SEA,Seattle Kraken,2023-01-10T00:30:00Z,US/Eastern
+7114843e-5a67-4126-803b-cbab1bbc0356,LA,Los Angeles Kings,EDM,Edmonton Oilers,2023-01-10T03:30:00Z,US/Pacific
+13fad69c-604b-4a46-b6e0-cb981e418f1f,NYR,New York Rangers,MIN,Minnesota Wild,2023-01-11T00:00:00Z,US/Eastern
+16c9bbe5-09be-4ac8-a4c0-5e23188602ca,PIT,Pittsburgh Penguins,VAN,Vancouver Canucks,2023-01-11T00:00:00Z,US/Eastern
+37aa00db-141c-4e3a-b86b-5175f7b28d29,TB,Tampa Bay Lightning,CBJ,Columbus Blue Jackets,2023-01-11T00:00:00Z,US/Eastern
+6dfc10e5-ef21-46a5-ac00-7cbc92c1def0,DET,Detroit Red Wings,WPG,Winnipeg Jets,2023-01-11T00:00:00Z,US/Eastern
+91686332-5239-4c15-af40-2d4940a5b53d,BUF,Buffalo Sabres,SEA,Seattle Kraken,2023-01-11T00:00:00Z,US/Eastern
+f7f85c32-3b5c-45b1-8c7c-4b8254c2be6a,CAR,Carolina Hurricanes,NJ,New Jersey Devils,2023-01-11T00:00:00Z,US/Eastern
+9106e5d4-fd00-4310-aa19-5fe109b1c21b,NYI,New York Islanders,DAL,Dallas Stars,2023-01-11T00:30:00Z,US/Eastern
+5e3cdfb4-aa12-43e7-80c4-5c5ca7eb4d3f,STL,St. Louis Blues,CGY,Calgary Flames,2023-01-11T01:00:00Z,US/Central
+6b3bd992-240d-45ba-8a91-949079b00a35,COL,Colorado Avalanche,FLA,Florida Panthers,2023-01-11T02:00:00Z,US/Mountain
+9828f15c-29e3-48a8-ae1c-efb86e267d73,ARI,Arizona Coyotes,SJ,San Jose Sharks,2023-01-11T02:30:00Z,US/Mountain
+2288533b-d69e-4995-927e-00ebbd9611d7,PHI,Philadelphia Flyers,WSH,Washington Capitals,2023-01-12T00:00:00Z,US/Eastern
+a197a399-1c8e-47f3-b489-2d6f6a2341e5,TOR,Toronto Maple Leafs,NSH,Nashville Predators,2023-01-12T00:30:00Z,US/Eastern
+13b35907-3545-474a-a2ed-7dc21f0516ed,LA,Los Angeles Kings,SJ,San Jose Sharks,2023-01-12T03:00:00Z,US/Pacific
+ee815e76-cab7-43c9-a2fe-77fb5a0f74e7,ANA,Anaheim Ducks,EDM,Edmonton Oilers,2023-01-12T03:00:00Z,US/Pacific
+02530ea1-9800-47ff-a8bf-0234931ffde5,TB,Tampa Bay Lightning,VAN,Vancouver Canucks,2023-01-13T00:00:00Z,US/Eastern
+2323a45c-207e-4f75-a43b-b11547489ba2,BOS,Boston Bruins,SEA,Seattle Kraken,2023-01-13T00:00:00Z,US/Eastern
+7527d09b-409b-4b5a-a4fb-b1f919531d96,CBJ,Columbus Blue Jackets,CAR,Carolina Hurricanes,2023-01-13T00:00:00Z,US/Eastern
+a74fe514-959f-450b-864d-9d88822df041,DET,Detroit Red Wings,TOR,Toronto Maple Leafs,2023-01-13T00:00:00Z,US/Eastern
+ad84e7c4-8b3b-4cfd-8445-0727470747d9,NYR,New York Rangers,DAL,Dallas Stars,2023-01-13T00:00:00Z,US/Eastern
+b1e5cf7c-47e1-472e-8a4d-67d79862e4a7,BUF,Buffalo Sabres,WPG,Winnipeg Jets,2023-01-13T00:00:00Z,US/Eastern
+f16cb34d-0c68-4532-8a34-e5929515d9d4,MTL,Montreal Canadiens,NSH,Nashville Predators,2023-01-13T00:00:00Z,US/Eastern
+c22ec240-4a34-4ec8-87b6-9e664f4ce288,NYI,New York Islanders,MIN,Minnesota Wild,2023-01-13T00:30:00Z,US/Eastern
+ce375d66-1761-49b7-a2e7-c45c9c2504db,STL,St. Louis Blues,CGY,Calgary Flames,2023-01-13T01:00:00Z,US/Central
+296467c7-1b48-4f7d-8600-2c9517b9317b,CHI,Chicago Blackhawks,COL,Colorado Avalanche,2023-01-13T01:30:00Z,US/Central
+09718b9a-6d75-4f77-bf68-74a7814d61bf,ARI,Arizona Coyotes,OTT,Ottawa Senators,2023-01-13T02:00:00Z,US/Mountain
+f26d16f5-bcc6-483b-9580-5a84188be395,VGK,Vegas Golden Knights,FLA,Florida Panthers,2023-01-13T03:00:00Z,US/Pacific
+928293d0-8cb8-4d95-b4d1-73983b183738,PIT,Pittsburgh Penguins,WPG,Winnipeg Jets,2023-01-14T00:00:00Z,US/Eastern
+21c5bc52-92a7-41d5-b3af-e4444475836f,ANA,Anaheim Ducks,NJ,New Jersey Devils,2023-01-14T03:00:00Z,US/Pacific
+736bbdad-f409-4ca5-925f-f85845b33aff,SJ,San Jose Sharks,EDM,Edmonton Oilers,2023-01-14T03:30:00Z,US/Pacific
+0f3aeb19-7fd3-48ce-b7bf-9f0520b92da4,DAL,Dallas Stars,CGY,Calgary Flames,2023-01-14T19:00:00Z,US/Central
+09404fa8-0369-4d65-ae17-b8d0cc1cc80d,CAR,Carolina Hurricanes,PIT,Pittsburgh Penguins,2023-01-15T00:00:00Z,US/Eastern
+26a7ec30-bd22-44a8-a1a6-061abeb4535b,DET,Detroit Red Wings,CBJ,Columbus Blue Jackets,2023-01-15T00:00:00Z,US/Eastern
+882f3ad1-a409-47d2-8096-3a161ab7db20,WSH,Washington Capitals,PHI,Philadelphia Flyers,2023-01-15T00:00:00Z,US/Eastern
+c7433cde-07aa-49a9-bb6b-86954bf791f7,BOS,Boston Bruins,TOR,Toronto Maple Leafs,2023-01-15T00:00:00Z,US/Eastern
+df9a9db7-55c6-4de8-9f48-349b376acc5e,COL,Colorado Avalanche,OTT,Ottawa Senators,2023-01-15T00:00:00Z,US/Mountain
+e455ac00-63dd-4d34-bc5d-731087d56434,FLA,Florida Panthers,VAN,Vancouver Canucks,2023-01-15T00:00:00Z,US/Eastern
+ee4a1783-e0f0-4b9e-94c9-01265fb09f7b,NYI,New York Islanders,MTL,Montreal Canadiens,2023-01-15T00:00:00Z,US/Eastern
+1b04c2f8-268f-4e5e-80e6-212c28ca23ed,STL,St. Louis Blues,TB,Tampa Bay Lightning,2023-01-15T01:00:00Z,US/Central
+5daa5de4-9022-499c-be1d-b55e1e05d021,CHI,Chicago Blackhawks,SEA,Seattle Kraken,2023-01-15T01:00:00Z,US/Central
+64378315-e8e5-43b2-85c0-837241e15822,MIN,Minnesota Wild,ARI,Arizona Coyotes,2023-01-15T01:00:00Z,US/Central
+68be2f24-60d0-461e-9fa8-dabc95f8867e,NSH,Nashville Predators,BUF,Buffalo Sabres,2023-01-15T01:00:00Z,US/Central
+4c77886c-1bc8-4e7b-8ddc-d97d6eb7b40a,VGK,Vegas Golden Knights,EDM,Edmonton Oilers,2023-01-15T03:00:00Z,US/Pacific
+a82ca180-f80f-4166-95d8-73bb6816f5d8,LA,Los Angeles Kings,NJ,New Jersey Devils,2023-01-15T03:30:00Z,US/Pacific
+14b32ca9-d474-4021-bac6-af8f7e1ce1eb,CAR,Carolina Hurricanes,VAN,Vancouver Canucks,2023-01-15T22:00:00Z,US/Eastern
+32e3e37b-af3f-4a6c-9d86-838ae24ed7ec,NYR,New York Rangers,MTL,Montreal Canadiens,2023-01-15T22:00:00Z,US/Eastern
+0b6e4d4b-1cd3-49b0-8d26-5449155fe7a0,WPG,Winnipeg Jets,ARI,Arizona Coyotes,2023-01-16T00:00:00Z,US/Central
+08a29486-053c-4827-a1a7-f4e89a8ee41a,BOS,Boston Bruins,PHI,Philadelphia Flyers,2023-01-16T18:00:00Z,US/Eastern
+60ebfd5c-e13b-42f6-b392-31a80150d209,BUF,Buffalo Sabres,FLA,Florida Panthers,2023-01-16T18:00:00Z,US/Eastern
+d712f364-68b5-4ffe-abfc-6b7d2be94594,COL,Colorado Avalanche,DET,Detroit Red Wings,2023-01-16T20:00:00Z,US/Mountain
+8646fb40-4aa8-4325-99fc-e09514495a7b,SEA,Seattle Kraken,TB,Tampa Bay Lightning,2023-01-16T21:00:00Z,US/Pacific
+ee8a94f4-1633-4431-833a-13522c9cff23,SJ,San Jose Sharks,NJ,New Jersey Devils,2023-01-16T21:00:00Z,US/Pacific
+76a336db-65da-47ef-8a41-ed40ae775202,VGK,Vegas Golden Knights,DAL,Dallas Stars,2023-01-16T23:00:00Z,US/Pacific
+663e5989-7991-4a1a-be6d-d3d8bd63beb7,PIT,Pittsburgh Penguins,ANA,Anaheim Ducks,2023-01-17T00:00:00Z,US/Eastern
+8a74bcfc-2917-478e-b0c1-cb413e983d5b,CBJ,Columbus Blue Jackets,NYR,New York Rangers,2023-01-17T00:00:00Z,US/Eastern
+4114c9ee-02ca-4cb7-b646-65c6359a2bea,NYI,New York Islanders,WSH,Washington Capitals,2023-01-17T00:30:00Z,US/Eastern
+6a1d8ca4-5b02-4bec-ae7f-dbbacfc0d07b,STL,St. Louis Blues,OTT,Ottawa Senators,2023-01-17T01:00:00Z,US/Central
+f23f6bae-6185-4f8a-80ae-292ca55f7ae8,NSH,Nashville Predators,CGY,Calgary Flames,2023-01-17T01:00:00Z,US/Central
+7268df7c-e04b-46a0-97ab-73b9ff087ddc,TOR,Toronto Maple Leafs,FLA,Florida Panthers,2023-01-18T00:00:00Z,US/Eastern
+b92fe078-886f-4b32-a14b-9b222f577357,MTL,Montreal Canadiens,WPG,Winnipeg Jets,2023-01-18T00:00:00Z,US/Eastern
+d5852399-a21c-45cd-84f6-ccd44dc81b5e,WSH,Washington Capitals,MIN,Minnesota Wild,2023-01-18T00:00:00Z,US/Eastern
+e0a3f9e6-7215-4fd1-a68b-b47788688bdd,PHI,Philadelphia Flyers,ANA,Anaheim Ducks,2023-01-18T00:00:00Z,US/Eastern
+e5c2cf32-29a9-4272-ba21-948cac6854e4,CHI,Chicago Blackhawks,BUF,Buffalo Sabres,2023-01-18T01:30:00Z,US/Central
+2409aaeb-f73a-44c8-b569-67d530489db8,ARI,Arizona Coyotes,DET,Detroit Red Wings,2023-01-18T02:00:00Z,US/Mountain
+516755f4-9cc9-442f-826b-0908d22253b0,EDM,Edmonton Oilers,SEA,Seattle Kraken,2023-01-18T02:00:00Z,US/Mountain
+a3218ce0-e4d3-4dbc-a360-e1f170a1372c,OTT,Ottawa Senators,PIT,Pittsburgh Penguins,2023-01-19T00:00:00Z,US/Eastern
+29f344c9-9a98-4cf9-a4df-c90b606effca,NYI,New York Islanders,BOS,Boston Bruins,2023-01-19T00:30:00Z,US/Eastern
+1684e665-aabf-484f-9385-fcf554ee73a1,CGY,Calgary Flames,COL,Colorado Avalanche,2023-01-19T02:30:00Z,US/Mountain
+16e02752-b0fc-47fa-abce-1823c2684d5e,SJ,San Jose Sharks,DAL,Dallas Stars,2023-01-19T03:00:00Z,US/Pacific
+61c0b4d7-c763-4b38-974f-28ad9c91cc53,VAN,Vancouver Canucks,TB,Tampa Bay Lightning,2023-01-19T03:00:00Z,US/Pacific
+06aa0b1d-8ef2-4bd2-a70d-8386280e6017,CAR,Carolina Hurricanes,MIN,Minnesota Wild,2023-01-20T00:00:00Z,US/Eastern
+24ad19c3-0093-4db8-b906-c43692b4d8f7,MTL,Montreal Canadiens,FLA,Florida Panthers,2023-01-20T00:00:00Z,US/Eastern
+261daca5-592d-4f0a-ad94-d4fa68e972d4,PHI,Philadelphia Flyers,CHI,Chicago Blackhawks,2023-01-20T00:00:00Z,US/Eastern
+5fd9aa39-e6a7-41fa-a4c2-2405e9d8a5d5,BUF,Buffalo Sabres,NYI,New York Islanders,2023-01-20T00:00:00Z,US/Eastern
+631aa503-c107-4527-8708-ded4e8b891c2,TOR,Toronto Maple Leafs,WPG,Winnipeg Jets,2023-01-20T00:00:00Z,US/Eastern
+88d8dd82-87a4-4a0a-bc59-70a6ef849710,CBJ,Columbus Blue Jackets,ANA,Anaheim Ducks,2023-01-20T00:00:00Z,US/Eastern
+aed39dce-14fa-4983-ac4f-d0e25703d9d6,NYR,New York Rangers,BOS,Boston Bruins,2023-01-20T00:00:00Z,US/Eastern
+6bceacd4-8b63-470a-be52-652aff235564,EDM,Edmonton Oilers,TB,Tampa Bay Lightning,2023-01-20T02:00:00Z,US/Mountain
+a82577c7-dbf1-431c-baa7-5d65cc43318e,ARI,Arizona Coyotes,WSH,Washington Capitals,2023-01-20T02:00:00Z,US/Mountain
+db019686-6341-4a50-abfd-4ce47aa9d310,STL,St. Louis Blues,NSH,Nashville Predators,2023-01-20T02:00:00Z,US/Central
+0d2dae99-f020-4a35-8dd2-d3703d05cd18,SEA,Seattle Kraken,NJ,New Jersey Devils,2023-01-20T03:00:00Z,US/Pacific
+98d9e561-b16b-4571-9800-639520d7af78,VGK,Vegas Golden Knights,DET,Detroit Red Wings,2023-01-20T03:00:00Z,US/Pacific
+0cd0c252-681a-4623-b3b3-535919584f23,LA,Los Angeles Kings,DAL,Dallas Stars,2023-01-20T03:30:00Z,US/Pacific
+c7842999-9b86-4b78-9ebc-880676514fa7,PIT,Pittsburgh Penguins,OTT,Ottawa Senators,2023-01-21T00:00:00Z,US/Eastern
+dc137a0c-ef4d-4294-8183-8de2522792e5,VAN,Vancouver Canucks,COL,Colorado Avalanche,2023-01-21T03:00:00Z,US/Pacific
+e6d352ae-5f6f-4675-a5d8-94961f34a910,BUF,Buffalo Sabres,ANA,Anaheim Ducks,2023-01-21T17:30:00Z,US/Eastern
+996126a7-b425-4831-a702-9bc5214b6e5f,CGY,Calgary Flames,TB,Tampa Bay Lightning,2023-01-21T20:00:00Z,US/Mountain
+b2a3c2ea-a9eb-4f7d-af30-f50bd5d9dc88,FLA,Florida Panthers,MIN,Minnesota Wild,2023-01-21T23:00:00Z,US/Eastern
+22e762f6-5313-4b4c-8232-c6b37a66c705,OTT,Ottawa Senators,WPG,Winnipeg Jets,2023-01-22T00:00:00Z,US/Eastern
+2b655e26-1e66-475e-9cde-f1f62dc4422b,CBJ,Columbus Blue Jackets,SJ,San Jose Sharks,2023-01-22T00:00:00Z,US/Eastern
+404fa285-aafc-4f28-ad61-3bd54b30945c,DET,Detroit Red Wings,PHI,Philadelphia Flyers,2023-01-22T00:00:00Z,US/Eastern
+b2fc0a61-d27b-4bc2-afc0-634579aeffe5,MTL,Montreal Canadiens,TOR,Toronto Maple Leafs,2023-01-22T00:00:00Z,US/Eastern
+32741778-da59-41a7-aa8a-e5872b8ff95a,NYI,New York Islanders,CAR,Carolina Hurricanes,2023-01-22T00:30:00Z,US/Eastern
+18863337-901f-48e5-9d14-1c5d31bbbd6b,NSH,Nashville Predators,LA,Los Angeles Kings,2023-01-22T01:00:00Z,US/Central
+23dd7570-3ba3-4b48-ad6e-c10c2c8fe1e8,STL,St. Louis Blues,CHI,Chicago Blackhawks,2023-01-22T01:00:00Z,US/Central
+2e9213c0-1897-4ccf-ac84-37c7d4efcd7a,DAL,Dallas Stars,ARI,Arizona Coyotes,2023-01-22T01:00:00Z,US/Central
+473324e6-17e9-4b68-805c-f36471c8982d,VAN,Vancouver Canucks,EDM,Edmonton Oilers,2023-01-22T03:00:00Z,US/Pacific
+999e46f9-1e41-4f5e-8f26-2da6ba8ca963,VGK,Vegas Golden Knights,WSH,Washington Capitals,2023-01-22T03:00:00Z,US/Pacific
+e655c8cc-2d63-41f3-bdc9-48ad6232c33a,SEA,Seattle Kraken,COL,Colorado Avalanche,2023-01-22T03:00:00Z,US/Pacific
+7e4ad5eb-422c-4c50-8e9a-a5fef8940f7d,NJ,New Jersey Devils,PIT,Pittsburgh Penguins,2023-01-22T19:00:00Z,US/Eastern
+305f21e2-a46f-49c7-b220-b597be2d92a6,PHI,Philadelphia Flyers,WPG,Winnipeg Jets,2023-01-23T00:00:00Z,US/Eastern
+9ace033a-f01c-465e-ab16-3bf7422c5dca,CHI,Chicago Blackhawks,LA,Los Angeles Kings,2023-01-23T00:00:00Z,US/Central
+e2d04fe0-5d98-4304-a775-9a933191d4d0,BOS,Boston Bruins,SJ,San Jose Sharks,2023-01-23T00:00:00Z,US/Eastern
+09dbc94a-5525-4f9a-a707-d64d5a81192b,ARI,Arizona Coyotes,VGK,Vegas Golden Knights,2023-01-23T01:00:00Z,US/Mountain
+6d3c209d-6755-44b1-ab97-0d14ac82cad0,TOR,Toronto Maple Leafs,NYI,New York Islanders,2023-01-24T00:00:00Z,US/Eastern
+978ffe47-adb6-40f6-96b3-1e698d4d7088,NYR,New York Rangers,FLA,Florida Panthers,2023-01-24T00:00:00Z,US/Eastern
+1ef840fb-ac5d-4930-9d2a-325734cb7bf2,DAL,Dallas Stars,BUF,Buffalo Sabres,2023-01-24T01:30:00Z,US/Central
+5b46c34f-70fd-4726-9f00-c0fc1ea818df,CGY,Calgary Flames,CBJ,Columbus Blue Jackets,2023-01-24T02:30:00Z,US/Mountain
+0c828fb7-0d33-48bd-9be8-e952c505ff13,MTL,Montreal Canadiens,BOS,Boston Bruins,2023-01-25T00:00:00Z,US/Eastern
+1ef8d9da-caca-44e5-9461-1e4ce7a2c9d9,PHI,Philadelphia Flyers,LA,Los Angeles Kings,2023-01-25T00:00:00Z,US/Eastern
+43991039-2f16-4e1b-addb-32193ea166a3,DET,Detroit Red Wings,SJ,San Jose Sharks,2023-01-25T00:00:00Z,US/Eastern
+54dc0e1a-151d-41a5-9f3f-ef041d8141b4,TB,Tampa Bay Lightning,MIN,Minnesota Wild,2023-01-25T00:00:00Z,US/Eastern
+9be2d81f-1b9c-4d1e-912f-3df57e695a29,PIT,Pittsburgh Penguins,FLA,Florida Panthers,2023-01-25T00:00:00Z,US/Eastern
+c054b756-c1f6-4ec0-8439-524225f2f27c,NJ,New Jersey Devils,VGK,Vegas Golden Knights,2023-01-25T00:00:00Z,US/Eastern
+8fc77c35-af01-4164-b8db-cf70bf0c8ed3,NSH,Nashville Predators,WPG,Winnipeg Jets,2023-01-25T01:00:00Z,US/Central
+f38c9b05-7a8c-4980-a82e-ebe395050339,STL,St. Louis Blues,BUF,Buffalo Sabres,2023-01-25T01:00:00Z,US/Central
+13e8a4f6-eaff-4709-8234-897b9022a012,ARI,Arizona Coyotes,ANA,Anaheim Ducks,2023-01-25T02:00:00Z,US/Mountain
+873d451b-b497-4a7b-ae33-f8dd15e775dd,COL,Colorado Avalanche,WSH,Washington Capitals,2023-01-25T02:00:00Z,US/Mountain
+a56b81e1-b485-4230-a5fa-67de2a504985,VAN,Vancouver Canucks,CHI,Chicago Blackhawks,2023-01-25T03:00:00Z,US/Pacific
+5c9c9090-3631-4882-adf2-17524aed0679,OTT,Ottawa Senators,NYI,New York Islanders,2023-01-26T00:00:00Z,US/Eastern
+ee98fe6d-f6e2-4bae-be65-262d6e4fec9b,TOR,Toronto Maple Leafs,NYR,New York Rangers,2023-01-26T00:00:00Z,US/Eastern
+b2ee3338-d4d1-4b09-8eb8-c85c7b3e21fa,DAL,Dallas Stars,CAR,Carolina Hurricanes,2023-01-26T01:30:00Z,US/Central
+57c8e71e-8e1e-42d2-ac22-c2138ccc32fe,EDM,Edmonton Oilers,CBJ,Columbus Blue Jackets,2023-01-26T02:30:00Z,US/Mountain
+cc2ab8c8-fccf-4284-8fa4-bb8c98acae9d,SEA,Seattle Kraken,VAN,Vancouver Canucks,2023-01-26T03:00:00Z,US/Pacific
+417856a4-3114-45b7-97d0-0161fc3ed6ec,WSH,Washington Capitals,PIT,Pittsburgh Penguins,2023-01-27T00:00:00Z,US/Eastern
+4b1b9644-0567-4be6-a13b-b9ba380a5f46,TB,Tampa Bay Lightning,BOS,Boston Bruins,2023-01-27T00:00:00Z,US/Eastern
+ed3e1061-813e-4de6-9d69-62e0f78e87cf,MTL,Montreal Canadiens,DET,Detroit Red Wings,2023-01-27T00:00:00Z,US/Eastern
+67bc567f-c106-43bb-9a09-53850e893dbe,WPG,Winnipeg Jets,BUF,Buffalo Sabres,2023-01-27T01:00:00Z,US/Central
+7d125a4e-7b73-4d11-89dd-7467543a953a,NSH,Nashville Predators,NJ,New Jersey Devils,2023-01-27T01:00:00Z,US/Central
+b39b067a-02d0-4e6a-b35b-270bb7fb9957,MIN,Minnesota Wild,PHI,Philadelphia Flyers,2023-01-27T01:00:00Z,US/Central
+0c6b9fd9-64be-4c98-9bb8-df806acdce3c,ARI,Arizona Coyotes,STL,St. Louis Blues,2023-01-27T02:00:00Z,US/Mountain
+76ba8563-58e6-41fa-9185-809c2907bded,COL,Colorado Avalanche,ANA,Anaheim Ducks,2023-01-27T02:00:00Z,US/Mountain
+864bd1fb-3db7-438f-892f-634a2553b956,CGY,Calgary Flames,CHI,Chicago Blackhawks,2023-01-27T02:00:00Z,US/Mountain
+42c7b26d-b405-4e6b-a942-535cb6eaab13,TOR,Toronto Maple Leafs,OTT,Ottawa Senators,2023-01-28T00:00:00Z,US/Eastern
+af322c6f-8998-4df6-8c5f-628f4c2e324c,NYI,New York Islanders,DET,Detroit Red Wings,2023-01-28T00:00:00Z,US/Eastern
+c135f669-dc1b-4896-8a76-461ca8c82fc8,NYR,New York Rangers,VGK,Vegas Golden Knights,2023-01-28T00:00:00Z,US/Eastern
+c6332938-910b-40ac-8a11-d2011242c711,CAR,Carolina Hurricanes,SJ,San Jose Sharks,2023-01-28T00:00:00Z,US/Eastern
+dd6774f6-0a26-43bd-9cc1-610933925ef8,FLA,Florida Panthers,LA,Los Angeles Kings,2023-01-28T00:00:00Z,US/Eastern
+9d036819-7ee1-4f20-8f59-fe8d7f4d805c,DAL,Dallas Stars,NJ,New Jersey Devils,2023-01-28T01:30:00Z,US/Central
+c8b72d74-a128-48e8-9045-5edbb0309008,SEA,Seattle Kraken,CGY,Calgary Flames,2023-01-28T03:00:00Z,US/Pacific
+d73a4b69-ce96-468b-891d-889369707141,VAN,Vancouver Canucks,CBJ,Columbus Blue Jackets,2023-01-28T03:00:00Z,US/Pacific
+0176254b-0347-4b12-908f-28397882d5f3,COL,Colorado Avalanche,STL,St. Louis Blues,2023-01-28T20:00:00Z,US/Mountain
+6808c695-2694-4a1d-b1ae-c28644828c05,FLA,Florida Panthers,BOS,Boston Bruins,2023-01-28T23:00:00Z,US/Eastern
+b9b5a125-4e6f-4a3c-9069-4676e42dd2df,OTT,Ottawa Senators,MTL,Montreal Canadiens,2023-01-29T00:00:00Z,US/Eastern
+e50735d8-6641-4851-a658-990fe55e0a99,PIT,Pittsburgh Penguins,SJ,San Jose Sharks,2023-01-29T00:00:00Z,US/Eastern
+fb1d214c-794f-44e1-affd-3e2960800488,WPG,Winnipeg Jets,PHI,Philadelphia Flyers,2023-01-29T00:00:00Z,US/Central
+fff642b1-8968-47ed-b237-1403538b4e87,TB,Tampa Bay Lightning,LA,Los Angeles Kings,2023-01-29T00:00:00Z,US/Eastern
+74bfff12-7db7-4e6b-bf09-fe2d8c3fb0a2,NYI,New York Islanders,VGK,Vegas Golden Knights,2023-01-29T00:30:00Z,US/Eastern
+47c69d96-00ee-45f6-9a0b-0c415b5b7d9b,MIN,Minnesota Wild,BUF,Buffalo Sabres,2023-01-29T02:00:00Z,US/Central
+a2467ec6-7c9b-4f65-bb8c-98a67016da84,EDM,Edmonton Oilers,CHI,Chicago Blackhawks,2023-01-29T03:00:00Z,US/Mountain
+c0ada9c5-1010-4bf1-a0e0-74f38dc0686c,SEA,Seattle Kraken,CBJ,Columbus Blue Jackets,2023-01-29T03:00:00Z,US/Pacific
+2dcde513-62fa-4937-b8cc-18e7531149cf,ANA,Anaheim Ducks,ARI,Arizona Coyotes,2023-01-29T03:30:00Z,US/Pacific
+103b62a3-c888-44f6-8b6b-ea82965c1d8e,CAR,Carolina Hurricanes,BOS,Boston Bruins,2023-01-29T22:00:00Z,US/Eastern
+4fde49bc-85df-4983-a2a2-cde3643309dc,TOR,Toronto Maple Leafs,WSH,Washington Capitals,2023-01-29T22:00:00Z,US/Eastern
+f2648d27-0ba6-4be8-a940-17d821ddece6,WPG,Winnipeg Jets,STL,St. Louis Blues,2023-01-31T01:00:00Z,US/Central
+82bff5a3-1814-439c-9d93-d962c211acde,CBJ,Columbus Blue Jackets,WSH,Washington Capitals,2023-02-01T00:00:00Z,US/Eastern
+df36971b-9015-4f13-aff7-36fd3be5021a,MTL,Montreal Canadiens,OTT,Ottawa Senators,2023-02-01T00:00:00Z,US/Eastern
+f0ba73b3-892f-4be1-87f6-ac3a816660b7,CAR,Carolina Hurricanes,LA,Los Angeles Kings,2023-02-01T00:00:00Z,US/Eastern
+0c9783ff-72b4-4447-acf8-13171d6b5f55,BUF,Buffalo Sabres,CAR,Carolina Hurricanes,2023-02-02T00:30:00Z,US/Eastern
+129969db-5af9-4532-b000-067574d79c0c,TOR,Toronto Maple Leafs,BOS,Boston Bruins,2023-02-02T00:30:00Z,US/Eastern
+9b07d0de-b5f1-49a3-8474-728f77ce6e13,PHI,Philadelphia Flyers,NYI,New York Islanders,2023-02-07T00:00:00Z,US/Eastern
+d9ad4bf2-215b-4bdf-9c1a-f3d50c7e12a6,FLA,Florida Panthers,TB,Tampa Bay Lightning,2023-02-07T00:00:00Z,US/Eastern
+2ba2c571-6a83-4175-81af-e33ed7c8d912,NYR,New York Rangers,CGY,Calgary Flames,2023-02-07T00:30:00Z,US/Eastern
+c74db48b-b6cd-4f5e-badf-96e1dd348c6e,NJ,New Jersey Devils,VAN,Vancouver Canucks,2023-02-07T00:30:00Z,US/Eastern
+3afe2949-e726-40fe-855d-6ed11aec592a,DAL,Dallas Stars,ANA,Anaheim Ducks,2023-02-07T01:30:00Z,US/Central
+ba974159-9a71-4837-bdc9-1e4fed664316,ARI,Arizona Coyotes,MIN,Minnesota Wild,2023-02-07T02:00:00Z,US/Mountain
+3f8d8abd-dc04-4067-8cc0-6ba51f8c3918,PIT,Pittsburgh Penguins,COL,Colorado Avalanche,2023-02-08T00:00:00Z,US/Eastern
+fda85b98-2688-415c-b8bc-9f6e11c8a86a,TB,Tampa Bay Lightning,SJ,San Jose Sharks,2023-02-08T00:00:00Z,US/Eastern
+335986e8-0903-44ce-b675-ac62b7a87d18,NYI,New York Islanders,SEA,Seattle Kraken,2023-02-08T00:30:00Z,US/Eastern
+482c79a1-3dcc-4b6a-b0a8-5acd42ed4841,DET,Detroit Red Wings,EDM,Edmonton Oilers,2023-02-08T00:30:00Z,US/Eastern
+07ed9d90-6087-4fc1-b79e-06ae14d17dcc,NSH,Nashville Predators,VGK,Vegas Golden Knights,2023-02-08T01:00:00Z,US/Central
+71540e9e-f6d7-47fa-9149-c964bbfa5929,CHI,Chicago Blackhawks,ANA,Anaheim Ducks,2023-02-08T01:30:00Z,US/Central
+11c57dd8-010b-4901-809f-4c21d76ffced,NYR,New York Rangers,VAN,Vancouver Canucks,2023-02-09T01:00:00Z,US/Eastern
+e1da29c0-fd1b-4680-8741-a2d8a78c1b26,DAL,Dallas Stars,MIN,Minnesota Wild,2023-02-09T01:30:00Z,US/Central
+1908d6fa-2e88-40b8-bb44-6465387e2007,PHI,Philadelphia Flyers,EDM,Edmonton Oilers,2023-02-10T00:00:00Z,US/Eastern
+2e29394b-db70-4d3c-a320-a751916a48b2,TB,Tampa Bay Lightning,COL,Colorado Avalanche,2023-02-10T00:00:00Z,US/Eastern
+609968dc-6b56-4d16-b97f-5eed14218d49,DET,Detroit Red Wings,CGY,Calgary Flames,2023-02-10T00:00:00Z,US/Eastern
+79517101-5816-46d2-b7e8-55d378bc72a5,NJ,New Jersey Devils,SEA,Seattle Kraken,2023-02-10T00:00:00Z,US/Eastern
+952ddfaf-61e2-44dc-bc73-20221346a5eb,FLA,Florida Panthers,SJ,San Jose Sharks,2023-02-10T00:00:00Z,US/Eastern
+72c36094-6392-46fb-bf99-286633be31a2,NYI,New York Islanders,VAN,Vancouver Canucks,2023-02-10T00:30:00Z,US/Eastern
+2426eba6-bcb1-4c62-a06c-96254f60d658,MIN,Minnesota Wild,VGK,Vegas Golden Knights,2023-02-10T01:00:00Z,US/Central
+21c0677a-db8e-41c2-99ef-019a80e47348,NYR,New York Rangers,SEA,Seattle Kraken,2023-02-11T00:00:00Z,US/Eastern
+efcab947-99ca-4b52-bb61-b52469bdad01,CBJ,Columbus Blue Jackets,TOR,Toronto Maple Leafs,2023-02-11T00:00:00Z,US/Eastern
+e46b9f40-edb4-4681-aae1-b1e95365310f,CHI,Chicago Blackhawks,ARI,Arizona Coyotes,2023-02-11T01:30:00Z,US/Central
+2a2b14ed-590b-4628-bebf-43df9a03870b,ANA,Anaheim Ducks,PIT,Pittsburgh Penguins,2023-02-11T03:00:00Z,US/Pacific
+6126f42c-df56-4720-b474-799c06d9da36,DET,Detroit Red Wings,VAN,Vancouver Canucks,2023-02-11T17:00:00Z,US/Eastern
+0df960b5-fffa-4413-b0e9-bd5cd76670ef,BUF,Buffalo Sabres,CGY,Calgary Flames,2023-02-11T17:30:00Z,US/Eastern
+11a60b50-71bf-474f-a367-18a1caa0f4e2,OTT,Ottawa Senators,EDM,Edmonton Oilers,2023-02-11T17:30:00Z,US/Eastern
+1b5d9dc6-8edd-4834-a788-dcdc2c32252c,PHI,Philadelphia Flyers,NSH,Nashville Predators,2023-02-11T17:30:00Z,US/Eastern
+68d694f2-c10d-4dfd-ad91-6c309504243c,MTL,Montreal Canadiens,NYI,New York Islanders,2023-02-11T17:30:00Z,US/Eastern
+1586e4ea-cf7c-4995-b1df-a9f808d5c9f2,DAL,Dallas Stars,TB,Tampa Bay Lightning,2023-02-11T18:00:00Z,US/Central
+4e428b08-f313-4160-86c8-5010d2615118,BOS,Boston Bruins,WSH,Washington Capitals,2023-02-11T20:30:00Z,US/Eastern
+f108465d-3292-47d9-935b-7316720503fb,FLA,Florida Panthers,COL,Colorado Avalanche,2023-02-11T23:00:00Z,US/Eastern
+56a1a48d-4d2d-4ef2-a8dd-568e13ce80e9,TOR,Toronto Maple Leafs,CBJ,Columbus Blue Jackets,2023-02-12T00:00:00Z,US/Eastern
+e3e445ac-a7df-4116-b237-bf6fc7bc182e,CAR,Carolina Hurricanes,NYR,New York Rangers,2023-02-12T00:00:00Z,US/Eastern
+1c712305-e292-4e5d-9d4b-7258543d922f,MIN,Minnesota Wild,NJ,New Jersey Devils,2023-02-12T01:00:00Z,US/Central
+8c58e750-2c6c-4fca-a264-be80baffb94a,STL,St. Louis Blues,ARI,Arizona Coyotes,2023-02-12T01:00:00Z,US/Central
+742067cf-7065-471b-8012-c7579a5c7c60,WPG,Winnipeg Jets,CHI,Chicago Blackhawks,2023-02-12T03:00:00Z,US/Central
+2b83eade-f342-4f4b-8226-18faf78a74ef,LA,Los Angeles Kings,PIT,Pittsburgh Penguins,2023-02-12T03:30:00Z,US/Pacific
+fb200f21-20b8-4d27-b5db-02c135564f4f,MTL,Montreal Canadiens,EDM,Edmonton Oilers,2023-02-12T17:30:00Z,US/Eastern
+3461fbc2-11f9-4e1a-a2c8-501ae12d46c9,PHI,Philadelphia Flyers,SEA,Seattle Kraken,2023-02-12T18:00:00Z,US/Eastern
+99ed2f88-b91c-46f7-aeab-5527bbb4bb55,WSH,Washington Capitals,SJ,San Jose Sharks,2023-02-12T18:30:00Z,US/Eastern
+208eb8e5-3ccf-405f-abe2-b3e3e3a13c60,VGK,Vegas Golden Knights,ANA,Anaheim Ducks,2023-02-12T20:00:00Z,US/Pacific
+b0a45822-599b-4d6e-a0a0-c70ed2209db2,OTT,Ottawa Senators,CGY,Calgary Flames,2023-02-14T00:30:00Z,US/Eastern
+c0f1aedb-0ae7-4438-8689-b35610222d93,NSH,Nashville Predators,ARI,Arizona Coyotes,2023-02-14T01:00:00Z,US/Central
+e277fbf3-3df4-4a25-9af8-4b84f0c2b074,MIN,Minnesota Wild,FLA,Florida Panthers,2023-02-14T01:00:00Z,US/Central
+e418e978-85b6-44d6-b8c6-10a0224f1f7b,VAN,Vancouver Canucks,DET,Detroit Red Wings,2023-02-14T03:00:00Z,US/Pacific
+698e3dfc-58db-420b-8abb-b9d78d32696e,LA,Los Angeles Kings,BUF,Buffalo Sabres,2023-02-14T03:30:00Z,US/Pacific
+40c33018-dea1-453f-9f8c-2ebe447b7b28,MTL,Montreal Canadiens,CHI,Chicago Blackhawks,2023-02-15T00:00:00Z,US/Eastern
+a7d02529-7c20-4983-850a-626d73a554be,WSH,Washington Capitals,CAR,Carolina Hurricanes,2023-02-15T00:00:00Z,US/Eastern
+dfcc0b71-a431-4b1f-b3f4-1a6ee06b1d04,CBJ,Columbus Blue Jackets,NJ,New Jersey Devils,2023-02-15T00:30:00Z,US/Eastern
+eebed279-ada9-448c-992c-7585202ed90f,NYI,New York Islanders,OTT,Ottawa Senators,2023-02-15T00:30:00Z,US/Eastern
+4bb66dab-7d6a-46e9-9a1c-1d932e5c92c7,STL,St. Louis Blues,FLA,Florida Panthers,2023-02-15T01:00:00Z,US/Central
+55848dbc-a2f0-412d-a3ea-318c99ddc19f,WPG,Winnipeg Jets,SEA,Seattle Kraken,2023-02-15T01:00:00Z,US/Central
+d9797f3a-9b39-4b1f-9f7e-49d822e556e5,DAL,Dallas Stars,BOS,Boston Bruins,2023-02-15T01:30:00Z,US/Central
+c0ec0808-183c-4432-b32b-7627d286fae7,COL,Colorado Avalanche,TB,Tampa Bay Lightning,2023-02-15T02:00:00Z,US/Mountain
+2953a4db-8286-4c2c-b840-a0cfc57c376e,SJ,San Jose Sharks,PIT,Pittsburgh Penguins,2023-02-15T03:30:00Z,US/Pacific
+fc31bf31-63de-4034-81c3-8b190bbf3632,TOR,Toronto Maple Leafs,CHI,Chicago Blackhawks,2023-02-16T00:00:00Z,US/Eastern
+2e9c464d-2e0e-4fa4-ad99-f5e46fe040f7,ARI,Arizona Coyotes,TB,Tampa Bay Lightning,2023-02-16T02:00:00Z,US/Mountain
+6904fad6-8bc7-4841-936c-19977cb5a690,EDM,Edmonton Oilers,DET,Detroit Red Wings,2023-02-16T02:30:00Z,US/Mountain
+a23f20a5-d2ae-4e7e-a045-5d817ba28efe,MIN,Minnesota Wild,COL,Colorado Avalanche,2023-02-16T02:30:00Z,US/Central
+239886eb-d61a-4ae9-abd6-0fc6cdd81018,VAN,Vancouver Canucks,NYR,New York Rangers,2023-02-16T03:00:00Z,US/Pacific
+d3ee6ce4-adf9-4ee2-9d8d-a56093401434,ANA,Anaheim Ducks,BUF,Buffalo Sabres,2023-02-16T03:00:00Z,US/Pacific
+1fab3ac2-9043-4a6c-94c8-66bf22e45dc0,CAR,Carolina Hurricanes,MTL,Montreal Canadiens,2023-02-17T00:00:00Z,US/Eastern
+8cef05aa-123e-4e25-8ee8-72d6d6ef6778,CBJ,Columbus Blue Jackets,WPG,Winnipeg Jets,2023-02-17T00:00:00Z,US/Eastern
+f7ef9299-1d7a-4ffc-ac59-efd3f1ea2491,WSH,Washington Capitals,FLA,Florida Panthers,2023-02-17T00:00:00Z,US/Eastern
+95dacc91-d3f9-40b0-800d-2438eac76add,NSH,Nashville Predators,BOS,Boston Bruins,2023-02-17T01:00:00Z,US/Central
+3b8b4ba3-f22f-4557-b74b-2eb53e3ec1f7,CGY,Calgary Flames,DET,Detroit Red Wings,2023-02-17T02:00:00Z,US/Mountain
+4fcc73d9-a1f4-459d-bd62-029a9338aad1,STL,St. Louis Blues,NJ,New Jersey Devils,2023-02-17T02:00:00Z,US/Central
+1f66b1a6-5bcb-45f5-abe2-edce3513ac40,SEA,Seattle Kraken,PHI,Philadelphia Flyers,2023-02-17T03:00:00Z,US/Pacific
+95d6301c-5efa-4d23-a48c-c2441ada7de2,VGK,Vegas Golden Knights,SJ,San Jose Sharks,2023-02-17T03:00:00Z,US/Pacific
+3e63a3bf-7667-4033-a4bc-3c0156bd04db,NYI,New York Islanders,PIT,Pittsburgh Penguins,2023-02-18T00:00:00Z,US/Eastern
+84bb5c09-9e7d-4476-9d39-7d77839a8ba1,OTT,Ottawa Senators,CHI,Chicago Blackhawks,2023-02-18T00:00:00Z,US/Eastern
+b68e8a30-a2c1-4f11-8398-ac254452a804,MIN,Minnesota Wild,DAL,Dallas Stars,2023-02-18T01:00:00Z,US/Central
+2781c1a1-0edc-4987-938d-c56cc0d224a4,ANA,Anaheim Ducks,LA,Los Angeles Kings,2023-02-18T02:00:00Z,US/Pacific
+a65cdf15-c7f6-4ae7-a197-cadb2a079a74,EDM,Edmonton Oilers,NYR,New York Rangers,2023-02-18T02:00:00Z,US/Mountain
+5f06be01-613c-48dc-a188-ed7f87fa3e15,NSH,Nashville Predators,FLA,Florida Panthers,2023-02-18T19:00:00Z,US/Central
+7edf3408-fcc2-44f7-b69e-629edce159b1,STL,St. Louis Blues,COL,Colorado Avalanche,2023-02-18T19:00:00Z,US/Central
+ceb5e316-e10e-47c8-9d73-d2fbb5da95bb,BOS,Boston Bruins,NYI,New York Islanders,2023-02-18T22:00:00Z,US/Eastern
+765c8f27-3457-4eae-b92e-872dba939b7e,PIT,Pittsburgh Penguins,NJ,New Jersey Devils,2023-02-18T22:30:00Z,US/Eastern
+944d6a6e-d124-4d0a-b600-08056da20741,DAL,Dallas Stars,CBJ,Columbus Blue Jackets,2023-02-18T23:00:00Z,US/Central
+c1f4e79d-69c0-4890-ac58-d13cd3ccd59b,TOR,Toronto Maple Leafs,MTL,Montreal Canadiens,2023-02-19T00:00:00Z,US/Eastern
+297e9dc6-8455-41cb-8c3d-ff6d08641890,CAR,Carolina Hurricanes,WSH,Washington Capitals,2023-02-19T01:00:00Z,US/Eastern
+0996e0df-492a-4e71-b290-df65a558b0b5,CGY,Calgary Flames,NYR,New York Rangers,2023-02-19T03:00:00Z,US/Mountain
+8f0b7221-e7c9-4471-bcbb-a3367d1b272d,VAN,Vancouver Canucks,PHI,Philadelphia Flyers,2023-02-19T03:00:00Z,US/Pacific
+a61dcf00-0eb3-445b-a414-50e34ca04ccb,LA,Los Angeles Kings,ARI,Arizona Coyotes,2023-02-19T03:30:00Z,US/Pacific
+e03f3f6f-10eb-4258-a2fd-398a32da1e96,SEA,Seattle Kraken,DET,Detroit Red Wings,2023-02-19T03:30:00Z,US/Pacific
+e2c24e0c-42fe-4249-a7fe-552c9ded86b9,SJ,San Jose Sharks,BUF,Buffalo Sabres,2023-02-19T03:30:00Z,US/Pacific
+3f56878d-7b32-4e77-967b-f23773755d7e,VGK,Vegas Golden Knights,TB,Tampa Bay Lightning,2023-02-19T04:00:00Z,US/Pacific
+197e08b8-073a-4568-813d-a40b8abb5eff,OTT,Ottawa Senators,STL,St. Louis Blues,2023-02-19T19:00:00Z,US/Eastern
+7c753488-df40-4f1d-9c70-a2093333c751,MIN,Minnesota Wild,NSH,Nashville Predators,2023-02-19T19:00:00Z,US/Central
+041df97e-dbbe-4ea2-995e-2db29c9e9d10,COL,Colorado Avalanche,EDM,Edmonton Oilers,2023-02-19T20:00:00Z,US/Mountain
+00a756d3-3b95-48f8-be91-e3f343c84eab,CHI,Chicago Blackhawks,TOR,Toronto Maple Leafs,2023-02-19T23:00:00Z,US/Central
+0ee5707f-3337-4b31-8132-32831e9d2e0d,NJ,New Jersey Devils,WPG,Winnipeg Jets,2023-02-20T00:00:00Z,US/Eastern
+8364607a-09c3-46ad-8fe8-161b9248f825,ARI,Arizona Coyotes,CBJ,Columbus Blue Jackets,2023-02-20T01:30:00Z,US/Mountain
+dbe2a7d0-b918-4dc4-8893-4763523f2a65,FLA,Florida Panthers,ANA,Anaheim Ducks,2023-02-20T18:00:00Z,US/Eastern
+f9ff5721-7d38-4de1-8c2d-2b352370d6df,BOS,Boston Bruins,OTT,Ottawa Senators,2023-02-20T18:00:00Z,US/Eastern
+7635f6ce-9ac3-4a4f-8cdd-eb9e1551d5aa,SJ,San Jose Sharks,SEA,Seattle Kraken,2023-02-20T21:00:00Z,US/Pacific
+b4794367-dce1-463c-b9af-c2b79ecc5f74,CGY,Calgary Flames,PHI,Philadelphia Flyers,2023-02-20T21:00:00Z,US/Mountain
+75ac2650-d99c-4819-b1a0-95a9d8aca567,NYR,New York Rangers,WPG,Winnipeg Jets,2023-02-21T00:00:00Z,US/Eastern
+eacf452a-cf7c-4212-a819-8cf97fca0cac,PIT,Pittsburgh Penguins,NYI,New York Islanders,2023-02-21T00:00:00Z,US/Eastern
+2725d4de-29b1-4099-8472-f3ad23a88310,NJ,New Jersey Devils,MTL,Montreal Canadiens,2023-02-22T00:00:00Z,US/Eastern
+459e68a3-d304-4e35-9bab-8bbfae8bbb59,WSH,Washington Capitals,DET,Detroit Red Wings,2023-02-22T00:00:00Z,US/Eastern
+aaf4cdbd-93ff-49cb-b90e-de819689f7df,CAR,Carolina Hurricanes,STL,St. Louis Blues,2023-02-22T00:00:00Z,US/Eastern
+d3c12e7b-6fc3-439c-80cb-5b283c5a76ee,TB,Tampa Bay Lightning,ANA,Anaheim Ducks,2023-02-22T00:00:00Z,US/Eastern
+c79888b3-0007-4be8-861c-8c8168516b3a,BUF,Buffalo Sabres,TOR,Toronto Maple Leafs,2023-02-22T00:30:00Z,US/Eastern
+aeff72f8-ec63-4718-b9f4-4a2131417e62,MIN,Minnesota Wild,LA,Los Angeles Kings,2023-02-22T01:00:00Z,US/Central
+d321d9c5-7069-4cd0-ad66-e123ae75f44d,NSH,Nashville Predators,VAN,Vancouver Canucks,2023-02-22T01:00:00Z,US/Central
+2a6794e9-bfa0-4a05-a873-a9d37efaade8,CHI,Chicago Blackhawks,VGK,Vegas Golden Knights,2023-02-22T01:30:00Z,US/Central
+dd061ead-436f-41f1-96f7-924bef5843f4,EDM,Edmonton Oilers,PHI,Philadelphia Flyers,2023-02-22T02:00:00Z,US/Mountain
+ea0b8720-25ee-4c2f-b1aa-cfa2f2350041,NYI,New York Islanders,WPG,Winnipeg Jets,2023-02-23T00:00:00Z,US/Eastern
+3d5741a2-7393-43ec-a58d-68eeed1e3cb9,ARI,Arizona Coyotes,CGY,Calgary Flames,2023-02-23T02:30:00Z,US/Mountain
+b0237633-9c05-42de-b3ef-81487ac9dfce,DAL,Dallas Stars,CHI,Chicago Blackhawks,2023-02-23T02:30:00Z,US/Central
+7b1d44bc-556e-4099-9e9c-21e11c6a29d3,DET,Detroit Red Wings,NYR,New York Rangers,2023-02-24T00:00:00Z,US/Eastern
+909303d3-dd28-43f8-a5f8-dcd0c1817caa,PIT,Pittsburgh Penguins,EDM,Edmonton Oilers,2023-02-24T00:00:00Z,US/Eastern
+93014dc5-9681-427a-a184-551cc88c8d45,WSH,Washington Capitals,ANA,Anaheim Ducks,2023-02-24T00:00:00Z,US/Eastern
+9c79761d-4b34-469e-86d9-46c0bd9d244d,TB,Tampa Bay Lightning,BUF,Buffalo Sabres,2023-02-24T00:00:00Z,US/Eastern
+d3f8db5d-2b0a-47c5-b5c7-0988c367105b,NJ,New Jersey Devils,LA,Los Angeles Kings,2023-02-24T00:00:00Z,US/Eastern
+f5b4ca9b-4b0e-4392-998d-4f5299a11c72,CBJ,Columbus Blue Jackets,MIN,Minnesota Wild,2023-02-24T00:00:00Z,US/Eastern
+089ed549-9343-4bb2-8175-8d582f1077c7,STL,St. Louis Blues,VAN,Vancouver Canucks,2023-02-24T01:00:00Z,US/Central
+65eaed9e-2987-4228-91a4-7aa68204f7f2,SEA,Seattle Kraken,BOS,Boston Bruins,2023-02-24T02:00:00Z,US/Pacific
+425424ef-1f99-444b-a5a1-88778c4146ef,VGK,Vegas Golden Knights,CGY,Calgary Flames,2023-02-24T03:00:00Z,US/Pacific
+d9e741cc-29a4-4536-be9f-b55665b1c743,SJ,San Jose Sharks,NSH,Nashville Predators,2023-02-24T03:30:00Z,US/Pacific
+0a3821e4-2e1f-4c75-8ec9-3ba137e37c97,FLA,Florida Panthers,BUF,Buffalo Sabres,2023-02-25T00:00:00Z,US/Eastern
+10f1dfa5-31f5-4e9a-a9da-6e7d205f1bcc,CAR,Carolina Hurricanes,OTT,Ottawa Senators,2023-02-25T00:00:00Z,US/Eastern
+52de0131-b017-48f3-a441-b0440392fd00,PHI,Philadelphia Flyers,MTL,Montreal Canadiens,2023-02-25T00:00:00Z,US/Eastern
+604d6b28-085e-4923-8cca-fb299de22e62,TOR,Toronto Maple Leafs,MIN,Minnesota Wild,2023-02-25T00:00:00Z,US/Eastern
+cc984d16-b2c8-4606-b0c2-355c83baef08,NYI,New York Islanders,LA,Los Angeles Kings,2023-02-25T00:30:00Z,US/Eastern
+7e25984d-6a72-4d29-bef9-a8b007ee3c66,WPG,Winnipeg Jets,COL,Colorado Avalanche,2023-02-25T01:00:00Z,US/Central
+e2ce80b6-dd2c-4e24-af06-89cb03687098,CBJ,Columbus Blue Jackets,EDM,Edmonton Oilers,2023-02-25T17:30:00Z,US/Eastern
+3ecba408-56a5-48d9-aa5b-13d26515e0ff,WSH,Washington Capitals,NYR,New York Rangers,2023-02-25T18:00:00Z,US/Eastern
+3c8a7001-1633-41a0-9465-5ad7cfcaa99e,STL,St. Louis Blues,PIT,Pittsburgh Penguins,2023-02-25T20:30:00Z,US/Central
+09af6f00-10b6-484e-9896-5d360bb048fe,VAN,Vancouver Canucks,BOS,Boston Bruins,2023-02-26T00:00:00Z,US/Pacific
+536bcd86-05e3-42a5-b9b0-d329960e6137,CAR,Carolina Hurricanes,ANA,Anaheim Ducks,2023-02-26T00:00:00Z,US/Eastern
+60991dc2-06ae-4d0d-995f-dba2c689c7f8,MTL,Montreal Canadiens,OTT,Ottawa Senators,2023-02-26T00:00:00Z,US/Eastern
+a445857f-41aa-486b-bc38-ad38d5a3dcf1,NJ,New Jersey Devils,PHI,Philadelphia Flyers,2023-02-26T00:00:00Z,US/Eastern
+886d68bd-f977-496f-8fa4-f4e5d554372f,DET,Detroit Red Wings,TB,Tampa Bay Lightning,2023-02-26T01:00:00Z,US/Eastern
+44e28d83-232c-47ae-a473-49d6cfa1aa45,VGK,Vegas Golden Knights,DAL,Dallas Stars,2023-02-26T03:00:00Z,US/Pacific
+e3da5668-a4e1-4962-a696-ddc6e8b01702,COL,Colorado Avalanche,CGY,Calgary Flames,2023-02-26T03:00:00Z,US/Mountain
+eb664772-936d-4c3e-88b9-63aab4f3d66c,SJ,San Jose Sharks,CHI,Chicago Blackhawks,2023-02-26T03:30:00Z,US/Pacific
+f760f6e1-ab93-4072-a0de-cae1c7fc1c65,BUF,Buffalo Sabres,WSH,Washington Capitals,2023-02-26T18:00:00Z,US/Eastern
+0cf33989-a580-476b-8f2c-6a81e4d329b5,MIN,Minnesota Wild,CBJ,Columbus Blue Jackets,2023-02-26T19:00:00Z,US/Central
+71e3f943-f2fc-4ab2-9507-1a2a6e945d64,WPG,Winnipeg Jets,NYI,New York Islanders,2023-02-26T20:00:00Z,US/Central
+49fe6508-dbb2-4759-bbba-0465eef2a789,NYR,New York Rangers,LA,Los Angeles Kings,2023-02-26T22:00:00Z,US/Eastern
+0cb7d240-5db6-449c-86b2-37513f9d72aa,PIT,Pittsburgh Penguins,TB,Tampa Bay Lightning,2023-02-26T23:00:00Z,US/Eastern
+8e8625dd-2f34-4acb-99b5-6990230f0e7c,ARI,Arizona Coyotes,NSH,Nashville Predators,2023-02-27T00:00:00Z,US/Mountain
+e565ac6d-535c-47f9-ab22-b02fc3b2bfb5,SEA,Seattle Kraken,TOR,Toronto Maple Leafs,2023-02-27T00:00:00Z,US/Pacific
+2c09b9cb-4a30-4923-a6bb-5c8e52218c48,DAL,Dallas Stars,VAN,Vancouver Canucks,2023-02-28T01:30:00Z,US/Central
+8fae2c9d-94d4-4350-85cf-ab1e58622057,EDM,Edmonton Oilers,BOS,Boston Bruins,2023-02-28T01:30:00Z,US/Mountain
+d9ae676c-3273-4328-a07c-a0c1014fe768,COL,Colorado Avalanche,VGK,Vegas Golden Knights,2023-02-28T02:00:00Z,US/Mountain
+d8dc379c-7922-4382-9031-88449f7a5bf2,ANA,Anaheim Ducks,CHI,Chicago Blackhawks,2023-02-28T03:00:00Z,US/Pacific
+528a5e8b-4e76-4213-b696-d25c6799d3d1,TB,Tampa Bay Lightning,FLA,Florida Panthers,2023-03-01T00:00:00Z,US/Eastern
+715002bd-0196-4ff5-8e66-2740eaa59851,OTT,Ottawa Senators,DET,Detroit Red Wings,2023-03-01T00:00:00Z,US/Eastern
+a95ad973-35a8-48f4-b776-d6102b8d6bda,BUF,Buffalo Sabres,CBJ,Columbus Blue Jackets,2023-03-01T00:30:00Z,US/Eastern
+0accec59-9aa4-4c1f-b9f3-d731030fc136,WPG,Winnipeg Jets,LA,Los Angeles Kings,2023-03-01T01:00:00Z,US/Central
+42672725-f423-451b-ba8e-44dce38ebe06,STL,St. Louis Blues,SEA,Seattle Kraken,2023-03-01T01:00:00Z,US/Central
+f711491c-717a-4764-99cb-8ebb7bc43bb4,NSH,Nashville Predators,PIT,Pittsburgh Penguins,2023-03-01T01:00:00Z,US/Central
+f83ca15d-0998-4fc2-941a-243fa44effad,MIN,Minnesota Wild,NYI,New York Islanders,2023-03-01T01:00:00Z,US/Central
+0f346b54-3beb-478b-8594-2d74e57b01fa,ARI,Arizona Coyotes,CHI,Chicago Blackhawks,2023-03-01T02:00:00Z,US/Mountain
+85b5a96e-778c-4ad7-a82f-cc6b57c64ec1,CGY,Calgary Flames,BOS,Boston Bruins,2023-03-01T02:00:00Z,US/Mountain
+6d319e9f-5d01-40be-85e3-9a03770be135,SJ,San Jose Sharks,MTL,Montreal Canadiens,2023-03-01T03:30:00Z,US/Pacific
+f63d4bac-2ec4-4e74-8e92-e3351224e1cd,PHI,Philadelphia Flyers,NYR,New York Rangers,2023-03-02T00:30:00Z,US/Eastern
+d50babbe-d340-4220-a332-c2696207b5eb,EDM,Edmonton Oilers,TOR,Toronto Maple Leafs,2023-03-02T01:00:00Z,US/Mountain
+9de641ab-2a0b-4e38-affd-8c40b92d6a84,DAL,Dallas Stars,ARI,Arizona Coyotes,2023-03-02T01:30:00Z,US/Central
+d411fa54-b167-4109-a7e4-493af87e59ed,COL,Colorado Avalanche,NJ,New Jersey Devils,2023-03-02T02:00:00Z,US/Mountain
+adf87ab5-b008-43f1-8602-41ea408a4320,ANA,Anaheim Ducks,WSH,Washington Capitals,2023-03-02T03:00:00Z,US/Pacific
+de52e0ee-488b-4923-baf7-c94c76bd757f,VGK,Vegas Golden Knights,CAR,Carolina Hurricanes,2023-03-02T03:00:00Z,US/Pacific
+6023c979-dee7-4cca-ad39-a5c05b53379f,DET,Detroit Red Wings,SEA,Seattle Kraken,2023-03-03T00:00:00Z,US/Eastern
+963a8d9b-8078-415b-9bde-e524e1f90d78,TB,Tampa Bay Lightning,PIT,Pittsburgh Penguins,2023-03-03T00:00:00Z,US/Eastern
+a622b5ce-b189-4d65-97f4-2727ebe1091d,NYR,New York Rangers,OTT,Ottawa Senators,2023-03-03T00:00:00Z,US/Eastern
+d2194ff1-29d1-41c8-96eb-d9027b28b527,FLA,Florida Panthers,NSH,Nashville Predators,2023-03-03T00:00:00Z,US/Eastern
+df91699b-8212-4575-ad55-2a2a1fc741d1,BOS,Boston Bruins,BUF,Buffalo Sabres,2023-03-03T00:30:00Z,US/Eastern
+a89d9b10-8184-4cdd-8210-86fa5d6f6516,CHI,Chicago Blackhawks,DAL,Dallas Stars,2023-03-03T01:30:00Z,US/Central
+9be550bb-08d3-40a0-9452-3446185c9d21,CGY,Calgary Flames,TOR,Toronto Maple Leafs,2023-03-03T02:00:00Z,US/Mountain
+39e3c885-3243-4786-b695-b814d3c66a8c,VAN,Vancouver Canucks,MIN,Minnesota Wild,2023-03-03T03:00:00Z,US/Pacific
+05eb2e70-e23b-47bf-a488-737788733e25,SJ,San Jose Sharks,STL,St. Louis Blues,2023-03-03T03:30:00Z,US/Pacific
+97326bc1-c009-46bb-80ad-961af4743270,LA,Los Angeles Kings,MTL,Montreal Canadiens,2023-03-03T03:30:00Z,US/Pacific
+18594d3b-36b8-4b50-bf2a-90027102339a,CBJ,Columbus Blue Jackets,SEA,Seattle Kraken,2023-03-04T00:00:00Z,US/Eastern
+a2b369cd-5825-41bd-a24f-90bf53faedeb,EDM,Edmonton Oilers,WPG,Winnipeg Jets,2023-03-04T02:00:00Z,US/Mountain
+3311c98f-f927-4470-8bbb-dca6a2987f28,ARI,Arizona Coyotes,CAR,Carolina Hurricanes,2023-03-04T02:30:00Z,US/Mountain
+513a5d13-7038-42dd-93e3-3acd9c49dc3e,ANA,Anaheim Ducks,MTL,Montreal Canadiens,2023-03-04T03:00:00Z,US/Pacific
+71268598-c514-4eeb-9b0f-9f1000345488,VGK,Vegas Golden Knights,NJ,New Jersey Devils,2023-03-04T03:00:00Z,US/Pacific
+a9592132-6f36-4c37-ba13-b5a726379dff,BUF,Buffalo Sabres,PHI,Philadelphia Flyers,2023-03-04T17:30:00Z,US/Eastern
+dc7a42a5-388f-4322-b419-2e6e1f2f178c,NYI,New York Islanders,DET,Detroit Red Wings,2023-03-04T17:30:00Z,US/Eastern
+a487e219-a933-4a9e-9bdc-27c1d81b648b,BOS,Boston Bruins,NYR,New York Rangers,2023-03-04T18:00:00Z,US/Eastern
+835bbd22-9a2f-4802-a215-0b5d73128256,DAL,Dallas Stars,COL,Colorado Avalanche,2023-03-04T20:30:00Z,US/Central
+5173d074-b707-480d-b422-31a48992a0f4,SJ,San Jose Sharks,WSH,Washington Capitals,2023-03-04T23:00:00Z,US/Pacific
+61a0d737-a7d1-4b51-89e6-3d2b0db346b6,FLA,Florida Panthers,PIT,Pittsburgh Penguins,2023-03-04T23:00:00Z,US/Eastern
+4e1191ea-85ea-4fa0-961c-79f1e7a2a2d0,VAN,Vancouver Canucks,TOR,Toronto Maple Leafs,2023-03-05T00:00:00Z,US/Pacific
+5822f610-f9d1-4ecb-9a65-428fd8149721,OTT,Ottawa Senators,CBJ,Columbus Blue Jackets,2023-03-05T00:00:00Z,US/Eastern
+962049f2-fc84-4d56-b097-dbd334c4b150,WPG,Winnipeg Jets,EDM,Edmonton Oilers,2023-03-05T00:00:00Z,US/Central
+c747f36d-8f92-4662-bcb9-87f64fcd7c27,CHI,Chicago Blackhawks,NSH,Nashville Predators,2023-03-05T01:00:00Z,US/Central
+358ce7ed-1725-4c09-88ae-2dbbba2413b6,CGY,Calgary Flames,MIN,Minnesota Wild,2023-03-05T03:00:00Z,US/Mountain
+17fc1b7c-6cc0-4244-bd30-29ee0e043e9c,LA,Los Angeles Kings,STL,St. Louis Blues,2023-03-05T03:30:00Z,US/Pacific
+7cd8a5f4-fe8e-4f39-8744-ba752086f06a,CAR,Carolina Hurricanes,TB,Tampa Bay Lightning,2023-03-05T20:00:00Z,US/Eastern
+3b8c5b64-b2db-4628-b671-26a204c64cd1,PHI,Philadelphia Flyers,DET,Detroit Red Wings,2023-03-05T23:00:00Z,US/Eastern
+c764025e-120c-4e96-8543-3df3a52d1c76,VGK,Vegas Golden Knights,MTL,Montreal Canadiens,2023-03-05T23:00:00Z,US/Pacific
+7676cf34-d500-478a-963f-9badbd74f4c7,ARI,Arizona Coyotes,NJ,New Jersey Devils,2023-03-06T00:00:00Z,US/Mountain
+83a74b5a-55cb-4a63-8e05-289305f6c253,COL,Colorado Avalanche,SEA,Seattle Kraken,2023-03-06T02:00:00Z,US/Mountain
+d6d51c6d-5fe5-4b78-b7fc-fb4230546939,WPG,Winnipeg Jets,SJ,San Jose Sharks,2023-03-07T00:30:00Z,US/Central
+f6b22bca-03ab-4f70-a8f6-259bcdd33438,BUF,Buffalo Sabres,EDM,Edmonton Oilers,2023-03-07T00:30:00Z,US/Eastern
+e603d612-4f09-496e-ad0a-d703219189b5,DAL,Dallas Stars,CGY,Calgary Flames,2023-03-07T01:30:00Z,US/Central
+ca828e4d-27b4-46a1-ae66-bc8051cc4119,CHI,Chicago Blackhawks,OTT,Ottawa Senators,2023-03-07T02:00:00Z,US/Central
+a854d675-2f67-47f8-91fc-1a7e93e354a2,VAN,Vancouver Canucks,NSH,Nashville Predators,2023-03-07T03:30:00Z,US/Pacific
+ca5461fa-29e8-47d9-8c8b-136563c60de7,LA,Los Angeles Kings,WSH,Washington Capitals,2023-03-07T03:30:00Z,US/Pacific
+0728c59c-f4b4-44a8-b792-4437ebb5a4a5,MTL,Montreal Canadiens,CAR,Carolina Hurricanes,2023-03-08T00:00:00Z,US/Eastern
+37543976-ed3f-4939-86d4-a086bb43e208,TB,Tampa Bay Lightning,PHI,Philadelphia Flyers,2023-03-08T00:00:00Z,US/Eastern
+3b49b4ac-06bc-4777-962c-473ab5ee5621,FLA,Florida Panthers,VGK,Vegas Golden Knights,2023-03-08T00:00:00Z,US/Eastern
+5146aa48-dde2-4b40-bd69-821be806bc8f,PIT,Pittsburgh Penguins,CBJ,Columbus Blue Jackets,2023-03-08T00:00:00Z,US/Eastern
+f2419a2a-f0c8-45ef-829e-73c91bfe30f2,NJ,New Jersey Devils,TOR,Toronto Maple Leafs,2023-03-08T00:00:00Z,US/Eastern
+cf01fb19-24fd-4473-b9f3-67705ed72abc,NYI,New York Islanders,BUF,Buffalo Sabres,2023-03-08T00:30:00Z,US/Eastern
+b4710fcd-4038-49de-b975-8a18275c005f,MIN,Minnesota Wild,CGY,Calgary Flames,2023-03-08T01:00:00Z,US/Central
+80ac9c13-9855-4623-acac-172482dbf118,ARI,Arizona Coyotes,STL,St. Louis Blues,2023-03-08T02:00:00Z,US/Mountain
+f1ab8d40-0ac3-41d6-9aae-0317898657fa,COL,Colorado Avalanche,SJ,San Jose Sharks,2023-03-08T02:00:00Z,US/Mountain
+42a5a49e-89fe-4266-928b-a7d27a2a1fb2,SEA,Seattle Kraken,ANA,Anaheim Ducks,2023-03-08T03:00:00Z,US/Pacific
+4603652e-9030-4280-9514-74c34d5133a5,DET,Detroit Red Wings,CHI,Chicago Blackhawks,2023-03-09T00:30:00Z,US/Eastern
+f09d1b39-1c74-47ae-98c4-dbb3af9eaaf8,WPG,Winnipeg Jets,MIN,Minnesota Wild,2023-03-09T00:30:00Z,US/Central
+d69382a6-0832-46a3-8f8b-7a4cd66e8834,VAN,Vancouver Canucks,ANA,Anaheim Ducks,2023-03-09T03:00:00Z,US/Pacific
+0b6fa8ab-1195-4b2a-bdea-eb9e4bf8eb30,PIT,Pittsburgh Penguins,NYI,New York Islanders,2023-03-10T00:00:00Z,US/Eastern
+14fd1cc7-f81f-4439-8dc0-aaf57a5831fe,WSH,Washington Capitals,NJ,New Jersey Devils,2023-03-10T00:00:00Z,US/Eastern
+2f137d09-e7c7-498c-a17e-16d561773265,MTL,Montreal Canadiens,NYR,New York Rangers,2023-03-10T00:00:00Z,US/Eastern
+69ff3cc7-d585-4464-963f-9245c8dfc54e,TB,Tampa Bay Lightning,VGK,Vegas Golden Knights,2023-03-10T00:00:00Z,US/Eastern
+d28dbc48-7f6a-4dbe-bf98-068cd84f7ec3,CAR,Carolina Hurricanes,PHI,Philadelphia Flyers,2023-03-10T00:00:00Z,US/Eastern
+d598dc61-56b0-40a4-9ae7-1347818f2784,BUF,Buffalo Sabres,DAL,Dallas Stars,2023-03-10T00:00:00Z,US/Eastern
+49d0f965-6bd7-42ab-934e-13c01dcd07ca,BOS,Boston Bruins,EDM,Edmonton Oilers,2023-03-10T00:30:00Z,US/Eastern
+ce9cf397-30e9-49c7-a491-50a8d0596a03,STL,St. Louis Blues,SJ,San Jose Sharks,2023-03-10T01:00:00Z,US/Central
+88ab575d-1a78-4132-8d93-6f3fc8583ce5,COL,Colorado Avalanche,LA,Los Angeles Kings,2023-03-10T02:00:00Z,US/Mountain
+f94689be-860b-43d4-90a7-4736774a2412,ARI,Arizona Coyotes,NSH,Nashville Predators,2023-03-10T02:00:00Z,US/Mountain
+b48f10e9-f3f4-41a4-a631-6b08af31edf2,SEA,Seattle Kraken,OTT,Ottawa Senators,2023-03-10T03:00:00Z,US/Pacific
+10760bf2-f4b7-4c0e-857b-b16a24e7297f,FLA,Florida Panthers,CHI,Chicago Blackhawks,2023-03-11T00:00:00Z,US/Eastern
+14b25c9e-98c4-4fb1-824f-848902f54333,CGY,Calgary Flames,ANA,Anaheim Ducks,2023-03-11T02:00:00Z,US/Mountain
+765675df-71ff-4cb0-956f-00d36810653a,BOS,Boston Bruins,DET,Detroit Red Wings,2023-03-11T18:00:00Z,US/Eastern
+021afc51-fa9d-4b80-902f-8689aad75867,PIT,Pittsburgh Penguins,PHI,Philadelphia Flyers,2023-03-11T20:30:00Z,US/Eastern
+7090fa81-d9ac-4741-8166-b51d06627dc0,BUF,Buffalo Sabres,NYR,New York Rangers,2023-03-11T22:00:00Z,US/Eastern
+8f2325b6-5b70-4cba-8eaf-30d17be417db,COL,Colorado Avalanche,ARI,Arizona Coyotes,2023-03-11T23:00:00Z,US/Mountain
+05e070f1-382a-4644-b8dd-e663bea60f45,FLA,Florida Panthers,WPG,Winnipeg Jets,2023-03-12T00:00:00Z,US/Eastern
+18c86124-c861-4b14-b775-3ca056c0df21,CAR,Carolina Hurricanes,VGK,Vegas Golden Knights,2023-03-12T00:00:00Z,US/Eastern
+64cf1591-2b86-46b3-8571-8d2fa751fba3,MTL,Montreal Canadiens,NJ,New Jersey Devils,2023-03-12T00:00:00Z,US/Eastern
+9a2c1f6a-829f-4748-966a-bcba9f8660ad,TOR,Toronto Maple Leafs,EDM,Edmonton Oilers,2023-03-12T00:00:00Z,US/Eastern
+bf5cd677-954f-4d6a-a002-03237df80334,TB,Tampa Bay Lightning,CHI,Chicago Blackhawks,2023-03-12T00:00:00Z,US/Eastern
+f86f23c5-27c0-4df0-b1f7-d33888bb0cbc,CBJ,Columbus Blue Jackets,STL,St. Louis Blues,2023-03-12T00:00:00Z,US/Eastern
+6d76ddbf-abdb-462c-a3ee-d92d3e5f9007,NYI,New York Islanders,WSH,Washington Capitals,2023-03-12T00:30:00Z,US/Eastern
+04d135e3-23d0-4914-97a5-cf20aff85d91,VAN,Vancouver Canucks,OTT,Ottawa Senators,2023-03-12T03:00:00Z,US/Pacific
+7e4486fd-6b91-4650-bcd3-e8e22387b2e8,SEA,Seattle Kraken,DAL,Dallas Stars,2023-03-12T03:00:00Z,US/Pacific
+4d432486-9c17-4209-bcc9-5a9aecd3f145,SJ,San Jose Sharks,MIN,Minnesota Wild,2023-03-12T03:30:00Z,US/Pacific
+beed3b79-b90b-49a2-b702-065cbc595958,LA,Los Angeles Kings,NSH,Nashville Predators,2023-03-12T03:30:00Z,US/Pacific
+3fe3e488-fd9d-4af8-97be-55b3174da187,DET,Detroit Red Wings,BOS,Boston Bruins,2023-03-12T17:30:00Z,US/Eastern
+2c586dac-a0db-44c7-8100-8fb525ac0885,PIT,Pittsburgh Penguins,NYR,New York Rangers,2023-03-12T20:00:00Z,US/Eastern
+3f3602e1-1a12-452f-9db3-2dc9bb5a55c1,NJ,New Jersey Devils,CAR,Carolina Hurricanes,2023-03-12T23:00:00Z,US/Eastern
+96d0dd65-f170-4743-9405-2d6b17ba5d71,TB,Tampa Bay Lightning,WPG,Winnipeg Jets,2023-03-12T23:00:00Z,US/Eastern
+c1f7f454-600e-40bb-b6e8-ca2e79222816,STL,St. Louis Blues,VGK,Vegas Golden Knights,2023-03-12T23:00:00Z,US/Central
+e10bd7fb-6a0c-4bfe-a57b-199acff7872e,CGY,Calgary Flames,OTT,Ottawa Senators,2023-03-13T01:00:00Z,US/Mountain
+86dd2067-5e15-4e0b-94c2-84c98403b8ee,ARI,Arizona Coyotes,MIN,Minnesota Wild,2023-03-13T01:30:00Z,US/Mountain
+a266ae03-c9a6-4b07-833d-3ddb6fe457cb,ANA,Anaheim Ducks,NSH,Nashville Predators,2023-03-13T01:30:00Z,US/Pacific
+7aa6ee86-aa4a-425f-bc3c-f59c46ced98b,MTL,Montreal Canadiens,COL,Colorado Avalanche,2023-03-13T23:30:00Z,US/Eastern
+baf5b302-2728-4a6c-a4be-9e4fd8a8f367,TOR,Toronto Maple Leafs,BUF,Buffalo Sabres,2023-03-13T23:30:00Z,US/Eastern
+feffc714-8a2f-4fd5-817e-460defe1b413,SEA,Seattle Kraken,DAL,Dallas Stars,2023-03-14T02:00:00Z,US/Pacific
+66509e27-c8d5-4ddc-bcb7-71b724230415,NYR,New York Rangers,WSH,Washington Capitals,2023-03-14T23:00:00Z,US/Eastern
+878f19ea-c37a-4df0-9734-ee524cf6eb91,PHI,Philadelphia Flyers,VGK,Vegas Golden Knights,2023-03-14T23:00:00Z,US/Eastern
+a046bc7f-c4eb-4c62-97db-37d128d7c9fe,PIT,Pittsburgh Penguins,MTL,Montreal Canadiens,2023-03-14T23:00:00Z,US/Eastern
+a08d95f5-af32-4a13-a884-92792506e115,NJ,New Jersey Devils,TB,Tampa Bay Lightning,2023-03-14T23:00:00Z,US/Eastern
+c623e4d5-0ba9-49f8-b844-43dcc0f72196,CAR,Carolina Hurricanes,WPG,Winnipeg Jets,2023-03-14T23:00:00Z,US/Eastern
+59628f3a-43a7-416c-a4f3-86a3086c3c34,NSH,Nashville Predators,DET,Detroit Red Wings,2023-03-15T00:00:00Z,US/Central
+b32b97a9-80db-46d4-b96d-07c53825cbfd,CHI,Chicago Blackhawks,BOS,Boston Bruins,2023-03-15T00:30:00Z,US/Central
+0d6e562c-1633-41fa-afd3-afdbd9fa058f,EDM,Edmonton Oilers,OTT,Ottawa Senators,2023-03-15T01:00:00Z,US/Mountain
+648f373c-595a-4129-8102-cdd691e7a96a,ARI,Arizona Coyotes,CGY,Calgary Flames,2023-03-15T02:00:00Z,US/Mountain
+76a902a0-d761-4a53-8d26-bfc9d3d87ef4,VAN,Vancouver Canucks,DAL,Dallas Stars,2023-03-15T02:00:00Z,US/Pacific
+4766bbc6-9903-40ef-b112-1e5019d9113a,SJ,San Jose Sharks,CBJ,Columbus Blue Jackets,2023-03-15T02:30:00Z,US/Pacific
+d62bfd2e-0bf2-4468-9ff0-5e35596a2e89,LA,Los Angeles Kings,NYI,New York Islanders,2023-03-15T02:30:00Z,US/Pacific
+082a4711-0351-43a6-94a1-402d8b668d7c,WSH,Washington Capitals,BUF,Buffalo Sabres,2023-03-15T23:00:00Z,US/Eastern
+820ab362-b7fc-4b10-9fd5-698362cb0d50,TOR,Toronto Maple Leafs,COL,Colorado Avalanche,2023-03-15T23:00:00Z,US/Eastern
+c95507ac-3db4-40ba-8e48-3e8437c4b7e0,STL,St. Louis Blues,MIN,Minnesota Wild,2023-03-16T01:30:00Z,US/Central
+4c0bf494-12be-43b5-a344-1d8edab402fe,ANA,Anaheim Ducks,NYI,New York Islanders,2023-03-16T02:00:00Z,US/Pacific
+06bfb23f-1eee-4da5-878c-de19c1dbfb82,NYR,New York Rangers,PIT,Pittsburgh Penguins,2023-03-16T23:00:00Z,US/Eastern
+7b6e91d9-f98f-487b-aa50-819d92c24e3e,OTT,Ottawa Senators,COL,Colorado Avalanche,2023-03-16T23:00:00Z,US/Eastern
+899e6872-1461-427c-a9e2-68839812969d,NJ,New Jersey Devils,TB,Tampa Bay Lightning,2023-03-16T23:00:00Z,US/Eastern
+e9b947de-a03f-4992-8dd4-a982d55e7ba6,FLA,Florida Panthers,MTL,Montreal Canadiens,2023-03-16T23:00:00Z,US/Eastern
+8eea1a3a-3705-4499-b69c-ca2e96eba8f3,NSH,Nashville Predators,CHI,Chicago Blackhawks,2023-03-17T00:00:00Z,US/Central
+e03fc5fe-767a-4afc-9ed3-398586ca205e,WPG,Winnipeg Jets,BOS,Boston Bruins,2023-03-17T00:00:00Z,US/Central
+511e39a4-6fd2-4156-ab22-0e89e525c543,EDM,Edmonton Oilers,DAL,Dallas Stars,2023-03-17T01:00:00Z,US/Mountain
+21c24de1-5d7e-4209-9474-867f27261bdb,VGK,Vegas Golden Knights,CGY,Calgary Flames,2023-03-17T02:00:00Z,US/Pacific
+66b2b0b7-e16b-43d8-a698-a5250afdc699,ARI,Arizona Coyotes,VAN,Vancouver Canucks,2023-03-17T02:00:00Z,US/Mountain
+bfadfefc-519d-44cb-b82a-2b058305935e,LA,Los Angeles Kings,CBJ,Columbus Blue Jackets,2023-03-17T02:30:00Z,US/Pacific
+fefc482f-c823-49d7-99e7-0c7e24b11c42,SJ,San Jose Sharks,SEA,Seattle Kraken,2023-03-17T02:30:00Z,US/Pacific
+882036a1-2b89-40cc-850e-a422a34cad46,WSH,Washington Capitals,STL,St. Louis Blues,2023-03-17T23:00:00Z,US/Eastern
+be68eba6-f2bc-40df-976e-bb26fe0849b6,TOR,Toronto Maple Leafs,CAR,Carolina Hurricanes,2023-03-17T23:00:00Z,US/Eastern
+f6841e35-630a-4744-97a1-64095d59962a,PHI,Philadelphia Flyers,BUF,Buffalo Sabres,2023-03-17T23:00:00Z,US/Eastern
+f200ecc9-dc06-499b-8ea7-fd220a2a9667,ANA,Anaheim Ducks,CBJ,Columbus Blue Jackets,2023-03-18T02:00:00Z,US/Pacific
+68f53fd9-7c28-4727-8215-c245036695f0,DET,Detroit Red Wings,COL,Colorado Avalanche,2023-03-18T17:00:00Z,US/Eastern
+0bd8f93b-db34-46a3-9240-0620e9f711df,NSH,Nashville Predators,WPG,Winnipeg Jets,2023-03-18T18:00:00Z,US/Central
+70101cd4-7d5e-46e3-b3c4-171233c1a301,MIN,Minnesota Wild,BOS,Boston Bruins,2023-03-18T18:00:00Z,US/Central
+bb92bdc2-c5e8-44bc-8c9b-8d97ddca08f8,SEA,Seattle Kraken,EDM,Edmonton Oilers,2023-03-18T20:00:00Z,US/Pacific
+f37a1dc8-ee1b-4112-b0a3-0609afd57ca7,PHI,Philadelphia Flyers,CAR,Carolina Hurricanes,2023-03-18T21:00:00Z,US/Eastern
+59e11279-4491-4849-a708-392da2c68175,FLA,Florida Panthers,NJ,New Jersey Devils,2023-03-18T22:00:00Z,US/Eastern
+4376478c-dc19-4e1b-a632-8e370e6063c0,OTT,Ottawa Senators,TOR,Toronto Maple Leafs,2023-03-18T23:00:00Z,US/Eastern
+7a83470c-f2f4-4431-84e1-56fca2d971e3,TB,Tampa Bay Lightning,MTL,Montreal Canadiens,2023-03-18T23:00:00Z,US/Eastern
+9de2cb5c-1c15-4b6f-ac79-e920f068ad65,NYR,New York Rangers,PIT,Pittsburgh Penguins,2023-03-19T00:00:00Z,US/Eastern
+8960d63b-ee66-472b-b4a1-751c5e6fe2ea,CGY,Calgary Flames,DAL,Dallas Stars,2023-03-19T02:00:00Z,US/Mountain
+f18a3eca-0680-4126-94d0-d9bb913968e3,LA,Los Angeles Kings,VAN,Vancouver Canucks,2023-03-19T02:00:00Z,US/Pacific
+7e79c4ce-e7d0-43b8-b0d6-22d33e055e4f,SJ,San Jose Sharks,NYI,New York Islanders,2023-03-19T02:30:00Z,US/Pacific
+b4a26e3e-4113-4705-a611-4317bfa23dac,ARI,Arizona Coyotes,CHI,Chicago Blackhawks,2023-03-19T02:30:00Z,US/Mountain
+a9dbdde9-1d6f-4176-95ad-f5fa1ae85068,BUF,Buffalo Sabres,BOS,Boston Bruins,2023-03-19T17:00:00Z,US/Eastern
+bb18ab56-98c8-4da2-b730-fb18bed4cf6a,MIN,Minnesota Wild,WSH,Washington Capitals,2023-03-19T18:00:00Z,US/Central
+95c8cb2b-39b3-4212-be26-ec4f85765a87,VGK,Vegas Golden Knights,CBJ,Columbus Blue Jackets,2023-03-19T20:00:00Z,US/Pacific
+107dce56-8123-4bcb-bb8f-7cfd53ca5a10,TB,Tampa Bay Lightning,NJ,New Jersey Devils,2023-03-19T23:00:00Z,US/Eastern
+432d30fb-8bd1-4aac-ab65-40af2887d308,STL,St. Louis Blues,WPG,Winnipeg Jets,2023-03-19T23:00:00Z,US/Central
+e4d9716a-fcce-44fe-9433-2b48b2cd3e8e,NYR,New York Rangers,NSH,Nashville Predators,2023-03-19T23:00:00Z,US/Eastern
+f8076d64-6f3f-4c61-949d-1625ec87e59e,ANA,Anaheim Ducks,VAN,Vancouver Canucks,2023-03-20T00:00:00Z,US/Pacific
+89054946-d473-4980-8383-0eb8b63a0baa,DET,Detroit Red Wings,FLA,Florida Panthers,2023-03-20T23:00:00Z,US/Eastern
+9b7bac6d-e8df-4b36-a43a-8c8f9099c25d,PIT,Pittsburgh Penguins,OTT,Ottawa Senators,2023-03-20T23:00:00Z,US/Eastern
+57dc42be-be41-4541-a244-4d66e0e37529,COL,Colorado Avalanche,CHI,Chicago Blackhawks,2023-03-21T01:00:00Z,US/Mountain
+2d348540-3704-4217-ba2a-450ff7a7192d,EDM,Edmonton Oilers,SJ,San Jose Sharks,2023-03-21T01:30:00Z,US/Mountain
+b845697c-5230-42c6-9f79-c37098aac67e,LA,Los Angeles Kings,CGY,Calgary Flames,2023-03-21T02:30:00Z,US/Pacific
+04d303c1-e707-4f35-9f35-35113164146a,NJ,New Jersey Devils,MIN,Minnesota Wild,2023-03-21T23:00:00Z,US/Eastern
+1882252d-e0dd-4910-87c9-276d6682e8bf,BOS,Boston Bruins,OTT,Ottawa Senators,2023-03-21T23:00:00Z,US/Eastern
+22b7f1ee-9fa2-4ddd-847c-54d2000b860e,NYR,New York Rangers,CAR,Carolina Hurricanes,2023-03-21T23:00:00Z,US/Eastern
+29b16bd8-daca-4460-aa00-0ee0e857ef7b,MTL,Montreal Canadiens,TB,Tampa Bay Lightning,2023-03-21T23:00:00Z,US/Eastern
+494ae09e-7e39-4956-9e9e-83e2e78db8e2,BUF,Buffalo Sabres,NSH,Nashville Predators,2023-03-21T23:00:00Z,US/Eastern
+5dab15ec-1523-4601-a5af-a789f145a8af,PHI,Philadelphia Flyers,FLA,Florida Panthers,2023-03-21T23:00:00Z,US/Eastern
+ae017d6b-e664-4f57-822a-7a521170d649,WSH,Washington Capitals,CBJ,Columbus Blue Jackets,2023-03-21T23:00:00Z,US/Eastern
+3d374a39-4374-40a2-b028-ec574c25d189,NYI,New York Islanders,TOR,Toronto Maple Leafs,2023-03-21T23:30:00Z,US/Eastern
+de73ba0f-76cb-4dd6-87a7-bc47115dd862,WPG,Winnipeg Jets,ARI,Arizona Coyotes,2023-03-22T00:00:00Z,US/Central
+ec23c404-2bc5-40a9-a2e2-e4686495451b,STL,St. Louis Blues,DET,Detroit Red Wings,2023-03-22T00:00:00Z,US/Central
+75dc0f76-641a-4deb-bef9-8e7b583b3c11,DAL,Dallas Stars,SEA,Seattle Kraken,2023-03-22T00:30:00Z,US/Central
+1506aa3c-966b-4f01-834c-045e4e38b70f,VAN,Vancouver Canucks,VGK,Vegas Golden Knights,2023-03-22T02:00:00Z,US/Pacific
+63ab98f7-4582-4e92-9290-8667f576b1d9,ANA,Anaheim Ducks,CGY,Calgary Flames,2023-03-22T02:00:00Z,US/Pacific
+55cad2d2-1a7d-4943-acd6-825863e12cfa,COL,Colorado Avalanche,PIT,Pittsburgh Penguins,2023-03-23T00:00:00Z,US/Mountain
+a2516426-76f5-4ffd-a5d2-91817371708b,EDM,Edmonton Oilers,ARI,Arizona Coyotes,2023-03-23T02:30:00Z,US/Mountain
+7081a3fe-b0d8-4580-8ccd-dea9943e99de,PHI,Philadelphia Flyers,MIN,Minnesota Wild,2023-03-23T22:30:00Z,US/Eastern
+1e7a58d1-0de3-49b6-9e6c-7fe2c0f2145f,FLA,Florida Panthers,TOR,Toronto Maple Leafs,2023-03-23T23:00:00Z,US/Eastern
+79ece9d1-a99f-4a13-932f-9eb2709181f3,WSH,Washington Capitals,CHI,Chicago Blackhawks,2023-03-23T23:00:00Z,US/Eastern
+a071aeb7-ba75-4ed6-9b27-d63d071555e0,DET,Detroit Red Wings,STL,St. Louis Blues,2023-03-23T23:00:00Z,US/Eastern
+b55e89ce-a62b-45e7-b424-48b21357c5df,CAR,Carolina Hurricanes,NYR,New York Rangers,2023-03-23T23:00:00Z,US/Eastern
+bc11cec2-dd90-43ba-9605-be6457f17d3f,BOS,Boston Bruins,MTL,Montreal Canadiens,2023-03-23T23:00:00Z,US/Eastern
+f709a34a-f01f-4e2c-9ada-8f8fb3e4e4cf,OTT,Ottawa Senators,TB,Tampa Bay Lightning,2023-03-23T23:00:00Z,US/Eastern
+73f258f9-c95c-4ca0-bd2c-3cb87be1a830,NSH,Nashville Predators,SEA,Seattle Kraken,2023-03-24T00:00:00Z,US/Central
+d01e979b-f767-4dd3-badc-a1a5548ec1ff,CGY,Calgary Flames,VGK,Vegas Golden Knights,2023-03-24T01:00:00Z,US/Mountain
+f3528d66-8cce-401b-a33b-e7352734740a,DAL,Dallas Stars,PIT,Pittsburgh Penguins,2023-03-24T01:00:00Z,US/Central
+abf1e5e4-e447-4eff-928c-efcefadde704,VAN,Vancouver Canucks,SJ,San Jose Sharks,2023-03-24T02:00:00Z,US/Pacific
+c5f521e2-edea-47e3-8111-ef83d6216830,ANA,Anaheim Ducks,WPG,Winnipeg Jets,2023-03-24T02:00:00Z,US/Pacific
+82dc9f87-30d4-4a4f-b96e-f0e731d55fb3,BUF,Buffalo Sabres,NJ,New Jersey Devils,2023-03-24T23:00:00Z,US/Eastern
+f1715176-f732-4645-9227-b544246578a2,CBJ,Columbus Blue Jackets,NYI,New York Islanders,2023-03-24T23:00:00Z,US/Eastern
+b949fc44-3e6c-4035-901c-403af454cc91,COL,Colorado Avalanche,ARI,Arizona Coyotes,2023-03-25T01:00:00Z,US/Mountain
+ab767d9a-3775-43de-821c-621b6c26460e,PHI,Philadelphia Flyers,DET,Detroit Red Wings,2023-03-25T17:00:00Z,US/Eastern
+e061ac38-0594-436c-b5e2-0980c1ae7c4a,BOS,Boston Bruins,TB,Tampa Bay Lightning,2023-03-25T17:00:00Z,US/Eastern
+44b8b7e5-5f22-4053-a6f7-85f0198fb299,NSH,Nashville Predators,SEA,Seattle Kraken,2023-03-25T18:00:00Z,US/Central
+32bd73ad-d0d4-4a2b-aaeb-7a966f3b504d,LA,Los Angeles Kings,WPG,Winnipeg Jets,2023-03-25T20:00:00Z,US/Pacific
+3a4d2807-5499-4b53-9438-dcbc5d5b6453,CGY,Calgary Flames,SJ,San Jose Sharks,2023-03-25T20:00:00Z,US/Mountain
+3115853f-3081-4fe6-b729-1e904772aae9,FLA,Florida Panthers,NYR,New York Rangers,2023-03-25T21:00:00Z,US/Eastern
+3386f807-92dc-465e-891c-7490a7fc7122,MIN,Minnesota Wild,CHI,Chicago Blackhawks,2023-03-25T21:00:00Z,US/Central
+816f170d-7bdc-4497-b411-95c84e8cde50,NYI,New York Islanders,BUF,Buffalo Sabres,2023-03-25T21:00:00Z,US/Eastern
+02613bc6-a4f8-4bf2-a959-13901c4c0a00,NJ,New Jersey Devils,OTT,Ottawa Senators,2023-03-25T23:00:00Z,US/Eastern
+0582a04c-6516-4e59-aed4-1134c3639e25,MTL,Montreal Canadiens,CBJ,Columbus Blue Jackets,2023-03-25T23:00:00Z,US/Eastern
+d9f7fc4d-20b7-40b0-a0e5-2ef3868a31cc,CAR,Carolina Hurricanes,TOR,Toronto Maple Leafs,2023-03-25T23:00:00Z,US/Eastern
+db8ca672-2874-4908-b259-7da03c99d5ee,DAL,Dallas Stars,VAN,Vancouver Canucks,2023-03-25T23:00:00Z,US/Central
+bce197f2-f4eb-49b0-b651-a6e8a39c53ef,PIT,Pittsburgh Penguins,WSH,Washington Capitals,2023-03-26T00:00:00Z,US/Eastern
+9d8c0bf1-0842-4bf9-ac15-caca962261da,EDM,Edmonton Oilers,VGK,Vegas Golden Knights,2023-03-26T02:00:00Z,US/Mountain
+fc5db9d8-b32c-4419-8d53-012493f7babf,ANA,Anaheim Ducks,STL,St. Louis Blues,2023-03-26T02:30:00Z,US/Pacific
+23d0501d-a0c7-42ae-a01f-cef0e9c63d3d,ARI,Arizona Coyotes,COL,Colorado Avalanche,2023-03-26T19:00:00Z,US/Mountain
+faaf229d-aa5f-4c40-a736-075b9d9a254f,CAR,Carolina Hurricanes,BOS,Boston Bruins,2023-03-26T21:00:00Z,US/Eastern
+60258998-daa8-4c78-a8c0-316bb9f0d29c,NSH,Nashville Predators,TOR,Toronto Maple Leafs,2023-03-26T22:00:00Z,US/Central
+773dd91c-a231-4c41-b836-6ceb6b975e45,CHI,Chicago Blackhawks,VAN,Vancouver Canucks,2023-03-26T22:00:00Z,US/Central
+38c2d891-5906-41b6-a7d4-6ef3eacd7e34,LA,Los Angeles Kings,STL,St. Louis Blues,2023-03-27T02:30:00Z,US/Pacific
+38d57ab9-1e32-4d30-ae75-6d016e201c7a,OTT,Ottawa Senators,FLA,Florida Panthers,2023-03-27T23:00:00Z,US/Eastern
+d1dc1532-ac5f-484e-b5c2-e1afff484a55,BUF,Buffalo Sabres,MTL,Montreal Canadiens,2023-03-27T23:00:00Z,US/Eastern
+70d38f97-7588-4bed-84cc-3e33ffdd44de,NYI,New York Islanders,NJ,New Jersey Devils,2023-03-27T23:30:00Z,US/Eastern
+de90bb84-0886-4d15-a80a-24976ed1b794,MIN,Minnesota Wild,SEA,Seattle Kraken,2023-03-28T00:00:00Z,US/Central
+6f70f4a7-74c8-4e1f-8987-c1be033bd703,ANA,Anaheim Ducks,COL,Colorado Avalanche,2023-03-28T02:00:00Z,US/Pacific
+ae832ff5-b668-4f99-8cb7-b31bedccea29,ARI,Arizona Coyotes,EDM,Edmonton Oilers,2023-03-28T02:00:00Z,US/Mountain
+0e314e00-6e94-4de2-8b52-212530262416,NYR,New York Rangers,CBJ,Columbus Blue Jackets,2023-03-28T23:00:00Z,US/Eastern
+1804f393-cafd-46ac-8140-13f4c6694786,CAR,Carolina Hurricanes,TB,Tampa Bay Lightning,2023-03-28T23:00:00Z,US/Eastern
+2ab7b86b-ec5b-42fd-b660-ca04c3470b3a,PHI,Philadelphia Flyers,MTL,Montreal Canadiens,2023-03-28T23:00:00Z,US/Eastern
+591bb72b-8160-4ce7-821b-7d3100543e6a,BOS,Boston Bruins,NSH,Nashville Predators,2023-03-28T23:00:00Z,US/Eastern
+5f626151-8adc-483c-b60b-7016d134487f,DET,Detroit Red Wings,PIT,Pittsburgh Penguins,2023-03-28T23:00:00Z,US/Eastern
+6ac85ee6-95bd-4964-8fa8-37f93001d1c5,STL,St. Louis Blues,VAN,Vancouver Canucks,2023-03-29T00:00:00Z,US/Central
+5216a781-658d-4be6-96e6-c472176f7cc1,CHI,Chicago Blackhawks,DAL,Dallas Stars,2023-03-29T00:30:00Z,US/Central
+e18b0d93-97a8-4ec0-93f2-dde93c888799,CGY,Calgary Flames,LA,Los Angeles Kings,2023-03-29T01:00:00Z,US/Mountain
+d68d5b49-bad7-4589-be20-de7c0de0fb48,VGK,Vegas Golden Knights,EDM,Edmonton Oilers,2023-03-29T02:00:00Z,US/Pacific
+a8361b45-a442-482a-9ef2-381afa2eb35b,SJ,San Jose Sharks,WPG,Winnipeg Jets,2023-03-29T02:30:00Z,US/Pacific
+6c2ba35c-852b-41a9-a3cf-9d21a44002f2,WSH,Washington Capitals,NYI,New York Islanders,2023-03-29T23:30:00Z,US/Eastern
+9ce10fc0-421c-4b33-bb34-018ff26f8a6b,TOR,Toronto Maple Leafs,FLA,Florida Panthers,2023-03-29T23:30:00Z,US/Eastern
+403baa4d-bce5-4144-aea5-49cccf25c76f,COL,Colorado Avalanche,MIN,Minnesota Wild,2023-03-30T02:00:00Z,US/Mountain
+0850d0fb-bb13-4aa4-9f97-c47964420998,OTT,Ottawa Senators,PHI,Philadelphia Flyers,2023-03-30T23:00:00Z,US/Eastern
+2e792ea3-8421-4783-8f25-88c39acce326,BOS,Boston Bruins,CBJ,Columbus Blue Jackets,2023-03-30T23:00:00Z,US/Eastern
+4da1af0c-5105-4311-873f-892ab54ade92,NJ,New Jersey Devils,NYR,New York Rangers,2023-03-30T23:00:00Z,US/Eastern
+86a28a30-b5d4-4838-a3c8-62bdf1c8ff3d,MTL,Montreal Canadiens,FLA,Florida Panthers,2023-03-30T23:00:00Z,US/Eastern
+8bacd022-f8ea-4f7b-afd6-1a3fc3a1739f,PIT,Pittsburgh Penguins,NSH,Nashville Predators,2023-03-30T23:00:00Z,US/Eastern
+ecf899ab-3fd5-4e0d-8843-dfd71752d188,TB,Tampa Bay Lightning,WSH,Washington Capitals,2023-03-30T23:00:00Z,US/Eastern
+c1ccd20a-1c68-4bbd-92ff-1839b377148e,DET,Detroit Red Wings,CAR,Carolina Hurricanes,2023-03-30T23:30:00Z,US/Eastern
+57bb149a-749d-45c1-a34a-522d1c5eb638,CHI,Chicago Blackhawks,STL,St. Louis Blues,2023-03-31T00:30:00Z,US/Central
+6e5dc68e-dfab-43e8-96cf-83ab174bf8d5,EDM,Edmonton Oilers,LA,Los Angeles Kings,2023-03-31T01:00:00Z,US/Mountain
+5022e3f3-d42b-49c1-ac7b-94a1b8b99a48,SEA,Seattle Kraken,ANA,Anaheim Ducks,2023-03-31T02:00:00Z,US/Pacific
+5486d64e-6915-487b-842f-ceb82420420b,SJ,San Jose Sharks,VGK,Vegas Golden Knights,2023-03-31T02:30:00Z,US/Pacific
+e7b3818b-7727-472b-a1e8-2d9620b7b065,BUF,Buffalo Sabres,NYR,New York Rangers,2023-03-31T23:00:00Z,US/Eastern
+0a36b8ee-d0b7-4f6a-87d8-cbaa72e5feb1,WPG,Winnipeg Jets,DET,Detroit Red Wings,2023-04-01T00:00:00Z,US/Central
+831c777b-a670-4563-84e7-753119221e3b,VAN,Vancouver Canucks,CGY,Calgary Flames,2023-04-01T02:00:00Z,US/Pacific
+7fd43d21-34d6-4f73-a67b-03ca51be3876,ARI,Arizona Coyotes,DAL,Dallas Stars,2023-04-01T02:30:00Z,US/Mountain
+82858c5b-a77f-45a4-9686-c1b8458f3b6f,NSH,Nashville Predators,STL,St. Louis Blues,2023-04-01T17:00:00Z,US/Central
+ffa63bf3-26b6-4662-8b3b-b89587611046,PIT,Pittsburgh Penguins,BOS,Boston Bruins,2023-04-01T19:00:00Z,US/Eastern
+1745ae63-d926-4fcb-ae4e-a82008bd5149,CBJ,Columbus Blue Jackets,FLA,Florida Panthers,2023-04-01T23:00:00Z,US/Eastern
+355b170c-6c84-4da1-8f68-52d7578c7911,OTT,Ottawa Senators,TOR,Toronto Maple Leafs,2023-04-01T23:00:00Z,US/Eastern
+5e091653-80be-4a1a-aad1-60d0526974dd,PHI,Philadelphia Flyers,BUF,Buffalo Sabres,2023-04-01T23:00:00Z,US/Eastern
+7f6c5a9d-fefb-42f8-bf79-7ac35dc85494,MTL,Montreal Canadiens,CAR,Carolina Hurricanes,2023-04-01T23:00:00Z,US/Eastern
+8e79030a-98bc-4ce3-babf-95a0c1076191,TB,Tampa Bay Lightning,NYI,New York Islanders,2023-04-01T23:00:00Z,US/Eastern
+d528c9b0-e033-4c01-9924-b5f473515c1f,CHI,Chicago Blackhawks,NJ,New Jersey Devils,2023-04-02T00:00:00Z,US/Central
+72ef7488-3e57-4954-ac46-d61080eedc6d,COL,Colorado Avalanche,DAL,Dallas Stars,2023-04-02T01:00:00Z,US/Mountain
+10f4888c-428b-40ab-9a2f-a977c8f3f375,SEA,Seattle Kraken,LA,Los Angeles Kings,2023-04-02T02:00:00Z,US/Pacific
+4f54c73f-07fa-4a0c-8966-eb351039836e,VGK,Vegas Golden Knights,MIN,Minnesota Wild,2023-04-02T02:00:00Z,US/Pacific
+6ad6152c-6ee5-4209-bb4e-9aaa0bfe2caa,EDM,Edmonton Oilers,ANA,Anaheim Ducks,2023-04-02T02:00:00Z,US/Mountain
+fdf1c760-3ddc-452f-9589-074b950cb1e4,ARI,Arizona Coyotes,SJ,San Jose Sharks,2023-04-02T02:00:00Z,US/Mountain
+59810350-c279-4b6d-b38e-248dc07194e7,WSH,Washington Capitals,NYR,New York Rangers,2023-04-02T17:00:00Z,US/Eastern
+a168616d-5116-4419-842b-a03ba37c030e,STL,St. Louis Blues,BOS,Boston Bruins,2023-04-02T19:30:00Z,US/Central
+6ec464d9-df3e-4d03-aad9-e6a1964dc352,PIT,Pittsburgh Penguins,PHI,Philadelphia Flyers,2023-04-02T22:00:00Z,US/Eastern
+8aafa47e-152e-4cfc-9822-e3ab5b296a3e,CBJ,Columbus Blue Jackets,OTT,Ottawa Senators,2023-04-02T22:00:00Z,US/Eastern
+ab66ff96-2efe-42f9-b26f-9f4de4bf0043,CAR,Carolina Hurricanes,NYI,New York Islanders,2023-04-02T22:00:00Z,US/Eastern
+4bd19a88-be52-4843-aa42-30f766d1b0e2,WPG,Winnipeg Jets,NJ,New Jersey Devils,2023-04-02T23:00:00Z,US/Central
+9ac4bcc8-1487-4d93-b760-a560e8dd5557,TOR,Toronto Maple Leafs,DET,Detroit Red Wings,2023-04-02T23:00:00Z,US/Eastern
+6d44d151-f8db-4af2-9e45-ed690e687d73,VAN,Vancouver Canucks,LA,Los Angeles Kings,2023-04-03T00:00:00Z,US/Pacific
+a517330d-d759-4ee0-8612-3a5a0a12cd80,CGY,Calgary Flames,ANA,Anaheim Ducks,2023-04-03T00:00:00Z,US/Mountain
+81c93a79-7793-45dd-aad3-de17e317a55b,MIN,Minnesota Wild,VGK,Vegas Golden Knights,2023-04-04T00:00:00Z,US/Central
+48a7441a-d1d7-4880-8ee7-89f1f860f276,DAL,Dallas Stars,NSH,Nashville Predators,2023-04-04T00:30:00Z,US/Central
+d37b0995-2b97-4a35-b4e9-09a066ad29c8,SEA,Seattle Kraken,ARI,Arizona Coyotes,2023-04-04T02:00:00Z,US/Pacific
+0de25a96-e5bf-4407-8bc1-b2b89efb8c1c,MTL,Montreal Canadiens,DET,Detroit Red Wings,2023-04-04T23:00:00Z,US/Eastern
+2844a3e7-264d-4da5-9590-e93c58f910b3,CAR,Carolina Hurricanes,OTT,Ottawa Senators,2023-04-04T23:00:00Z,US/Eastern
+40436f4e-98a1-4d31-8dbe-5922d21f28a5,FLA,Florida Panthers,BUF,Buffalo Sabres,2023-04-04T23:00:00Z,US/Eastern
+d46a6ca3-f67c-4c7e-abc0-bc49f64c4a33,NJ,New Jersey Devils,PIT,Pittsburgh Penguins,2023-04-04T23:00:00Z,US/Eastern
+e9eb29cf-def1-403e-be88-57395d72ac64,TOR,Toronto Maple Leafs,CBJ,Columbus Blue Jackets,2023-04-04T23:00:00Z,US/Eastern
+73f18517-a9b2-477d-9671-31732feb7be1,NSH,Nashville Predators,VGK,Vegas Golden Knights,2023-04-05T00:00:00Z,US/Central
+f9ffc3b5-c12b-4322-bf6e-e15de4cbf32f,STL,St. Louis Blues,PHI,Philadelphia Flyers,2023-04-05T00:00:00Z,US/Central
+b31c98fe-c9bb-4b42-9237-aa73dd198eeb,CGY,Calgary Flames,CHI,Chicago Blackhawks,2023-04-05T01:00:00Z,US/Mountain
+29710b34-3e3e-494f-9574-c2a6d28474c6,VAN,Vancouver Canucks,SEA,Seattle Kraken,2023-04-05T02:00:00Z,US/Pacific
+0fb7eb3a-3d7f-4c62-b34e-0d5f6b491497,SJ,San Jose Sharks,COL,Colorado Avalanche,2023-04-05T02:30:00Z,US/Pacific
+edb8c4c9-dec7-406c-83bd-de0113546d18,LA,Los Angeles Kings,EDM,Edmonton Oilers,2023-04-05T02:30:00Z,US/Pacific
+e6210499-37e8-499d-8c26-afcfeb086f68,NYR,New York Rangers,TB,Tampa Bay Lightning,2023-04-05T23:30:00Z,US/Eastern
+f2fa9828-b465-4293-bda6-d0fede7db0d5,WPG,Winnipeg Jets,CGY,Calgary Flames,2023-04-05T23:30:00Z,US/Central
+6f3b8ffd-bc66-4e6c-aa1b-8d72e1ce6c17,ANA,Anaheim Ducks,EDM,Edmonton Oilers,2023-04-06T02:00:00Z,US/Pacific
+29d61b4c-dd4b-4d5e-a132-c77365ee8dcb,FLA,Florida Panthers,OTT,Ottawa Senators,2023-04-06T23:00:00Z,US/Eastern
+3dd61280-0460-4566-a9e1-ae3baa03dcce,DET,Detroit Red Wings,BUF,Buffalo Sabres,2023-04-06T23:00:00Z,US/Eastern
+42ba731b-5125-4e11-bf27-56d219d3766d,BOS,Boston Bruins,TOR,Toronto Maple Leafs,2023-04-06T23:00:00Z,US/Eastern
+8280d49c-f546-4b23-8ea0-3898ef76c5d6,MTL,Montreal Canadiens,WSH,Washington Capitals,2023-04-06T23:00:00Z,US/Eastern
+82c1faed-3bed-4d68-84d1-acefe25867bb,PIT,Pittsburgh Penguins,MIN,Minnesota Wild,2023-04-06T23:00:00Z,US/Eastern
+fef7723b-37db-4b79-a045-ac7965f2981d,NJ,New Jersey Devils,CBJ,Columbus Blue Jackets,2023-04-06T23:00:00Z,US/Eastern
+70092986-eddc-451a-8774-f55f523de864,NYI,New York Islanders,TB,Tampa Bay Lightning,2023-04-06T23:30:00Z,US/Eastern
+097792c9-aae5-41a1-9e2f-2732f171b3dd,STL,St. Louis Blues,NYR,New York Rangers,2023-04-07T00:00:00Z,US/Central
+4d7f2404-5433-4e72-9c65-a55ac6f20dcf,NSH,Nashville Predators,CAR,Carolina Hurricanes,2023-04-07T00:00:00Z,US/Central
+8e2091a5-601a-420e-8b04-81f1d5cc4d50,DAL,Dallas Stars,PHI,Philadelphia Flyers,2023-04-07T00:30:00Z,US/Central
+36d6b266-a469-4c3b-9116-e9b1267134df,VGK,Vegas Golden Knights,LA,Los Angeles Kings,2023-04-07T02:00:00Z,US/Pacific
+ad55d095-e27b-41c2-9962-5f1a18bb8df9,VAN,Vancouver Canucks,CHI,Chicago Blackhawks,2023-04-07T02:00:00Z,US/Pacific
+716cd563-13c0-44a9-8ae7-f602702c5041,SJ,San Jose Sharks,COL,Colorado Avalanche,2023-04-07T02:30:00Z,US/Pacific
+94b22ca6-391d-4ba1-b274-21abdf1d3b94,SEA,Seattle Kraken,ARI,Arizona Coyotes,2023-04-07T02:30:00Z,US/Pacific
+ad211b08-b30f-4629-b363-a5151d699c73,BUF,Buffalo Sabres,CAR,Carolina Hurricanes,2023-04-08T16:30:00Z,US/Eastern
+5afc2948-6371-4fb9-bb04-95c7ffd43b95,MIN,Minnesota Wild,STL,St. Louis Blues,2023-04-08T17:00:00Z,US/Central
+33cb6693-facf-46fb-973b-9661d44c30ee,DAL,Dallas Stars,VGK,Vegas Golden Knights,2023-04-08T19:30:00Z,US/Central
+a687f455-2877-4780-b993-e8db78ac6a69,SJ,San Jose Sharks,EDM,Edmonton Oilers,2023-04-08T20:00:00Z,US/Pacific
+c015aea6-c699-4c21-a5bc-ff6c570c0694,ARI,Arizona Coyotes,ANA,Anaheim Ducks,2023-04-08T21:30:00Z,US/Mountain
+53af5578-b809-4637-9b0f-0052f05e9e73,CBJ,Columbus Blue Jackets,NYR,New York Rangers,2023-04-08T23:00:00Z,US/Eastern
+8ba9b831-f421-42f3-9ba7-0d17e8595ff9,WSH,Washington Capitals,FLA,Florida Panthers,2023-04-08T23:00:00Z,US/Eastern
+b89ccccd-89da-4754-8d96-0b0d4ad4a6ac,BOS,Boston Bruins,NJ,New Jersey Devils,2023-04-08T23:00:00Z,US/Eastern
+ba1e914f-d0f7-407c-97bd-92a52d108028,OTT,Ottawa Senators,TB,Tampa Bay Lightning,2023-04-08T23:00:00Z,US/Eastern
+ec4c0a80-bc83-4e7c-afba-528ea89c1bd8,TOR,Toronto Maple Leafs,MTL,Montreal Canadiens,2023-04-08T23:00:00Z,US/Eastern
+f9c4da1c-ba79-4009-8b3e-01c9d597ed37,WPG,Winnipeg Jets,NSH,Nashville Predators,2023-04-08T23:00:00Z,US/Central
+b52e6186-200d-4c2b-8f99-f152f2e1d57c,NYI,New York Islanders,PHI,Philadelphia Flyers,2023-04-08T23:30:00Z,US/Eastern
+bf6c4140-27a5-4445-80f7-07bd5c5f0458,DET,Detroit Red Wings,PIT,Pittsburgh Penguins,2023-04-09T00:00:00Z,US/Eastern
+5e6f0641-51f0-4661-8884-939c64ce4224,SEA,Seattle Kraken,CHI,Chicago Blackhawks,2023-04-09T02:00:00Z,US/Pacific
+dea9dae1-8526-4404-8f04-435c40800886,VAN,Vancouver Canucks,CGY,Calgary Flames,2023-04-09T02:00:00Z,US/Pacific
+293441f3-6d4c-41d7-9779-a026c14744f8,LA,Los Angeles Kings,COL,Colorado Avalanche,2023-04-09T02:30:00Z,US/Pacific
+90f8e1b4-e0e9-49c6-afaf-7ef5c30475a7,PHI,Philadelphia Flyers,BOS,Boston Bruins,2023-04-09T22:00:00Z,US/Eastern
+5e2a000b-1b58-4032-8d10-516867e8749f,ANA,Anaheim Ducks,COL,Colorado Avalanche,2023-04-10T00:30:00Z,US/Pacific
+02e9cc2d-136d-4505-b1ab-d281e70410b6,WPG,Winnipeg Jets,SJ,San Jose Sharks,2023-04-10T23:00:00Z,US/Central
+291430ee-6b9f-4aa1-bf10-a632421fdbb1,FLA,Florida Panthers,TOR,Toronto Maple Leafs,2023-04-10T23:00:00Z,US/Eastern
+3d409b95-bc35-4a48-86a6-e6f69c92112e,NYR,New York Rangers,BUF,Buffalo Sabres,2023-04-10T23:00:00Z,US/Eastern
+3ee06281-ba1f-485d-a3b3-95b6faf4f7da,OTT,Ottawa Senators,CAR,Carolina Hurricanes,2023-04-10T23:00:00Z,US/Eastern
+42cf9c09-3807-49cf-9f64-e6f219d73a2f,WSH,Washington Capitals,NYI,New York Islanders,2023-04-10T23:00:00Z,US/Eastern
+676fd18d-ef42-4c4b-9cb9-1b798baef532,DET,Detroit Red Wings,DAL,Dallas Stars,2023-04-10T23:00:00Z,US/Eastern
+b3bacf59-4cb1-4dcd-a880-ed2e553e10cd,CHI,Chicago Blackhawks,MIN,Minnesota Wild,2023-04-11T01:00:00Z,US/Central
+1370e0e3-ee03-409d-93d6-8f0a80ca7ddf,CGY,Calgary Flames,NSH,Nashville Predators,2023-04-11T01:30:00Z,US/Mountain
+fecd8b41-7750-47be-9410-27f8844c951f,ARI,Arizona Coyotes,SEA,Seattle Kraken,2023-04-11T02:00:00Z,US/Mountain
+d647c21b-21c6-40ff-8165-b6202c88ce64,LA,Los Angeles Kings,VAN,Vancouver Canucks,2023-04-11T02:30:00Z,US/Pacific
+8b1e50fb-f93e-43ee-a0a9-fba5d40990a2,BOS,Boston Bruins,WSH,Washington Capitals,2023-04-11T23:00:00Z,US/Eastern
+a4ab6187-9737-487a-b8c4-f6c1730c7fc0,CAR,Carolina Hurricanes,DET,Detroit Red Wings,2023-04-11T23:00:00Z,US/Eastern
+dd4293bf-c763-45b6-909b-6538d82c96e2,TB,Tampa Bay Lightning,TOR,Toronto Maple Leafs,2023-04-11T23:00:00Z,US/Eastern
+de54d2ed-24ed-41bc-9cbc-644e1c0fe5f3,PHI,Philadelphia Flyers,CBJ,Columbus Blue Jackets,2023-04-11T23:00:00Z,US/Eastern
+f32e6d91-7cc6-40e0-938f-6fa6f61b70ff,NJ,New Jersey Devils,BUF,Buffalo Sabres,2023-04-11T23:00:00Z,US/Eastern
+4d6f6d75-7736-4301-8f28-579da57ce213,PIT,Pittsburgh Penguins,CHI,Chicago Blackhawks,2023-04-11T23:30:00Z,US/Eastern
+f1161001-8327-412b-9a55-f31b4fafe617,MIN,Minnesota Wild,WPG,Winnipeg Jets,2023-04-12T00:00:00Z,US/Central
+2b576b82-2628-4d14-b78b-02ab26a98e5c,COL,Colorado Avalanche,EDM,Edmonton Oilers,2023-04-12T01:30:00Z,US/Mountain
+798991b4-6a1f-4bff-b7d9-f09e3ff80ed1,VGK,Vegas Golden Knights,SEA,Seattle Kraken,2023-04-12T02:00:00Z,US/Pacific
+e6cd3852-90ba-4538-a4b1-b4dd3e2c6568,ANA,Anaheim Ducks,VAN,Vancouver Canucks,2023-04-12T02:00:00Z,US/Pacific
+44e2af23-e55a-4fc0-a3db-5439348290b2,NYI,New York Islanders,MTL,Montreal Canadiens,2023-04-12T23:00:00Z,US/Eastern
+fcec96f3-7990-40b8-a1a0-e1860b6db32f,STL,St. Louis Blues,DAL,Dallas Stars,2023-04-12T23:30:00Z,US/Central
+ad9e5ac3-a85f-46f7-8d00-57fcf3bbf4ff,CGY,Calgary Flames,SJ,San Jose Sharks,2023-04-13T02:00:00Z,US/Mountain
+1663b8ee-bfd2-4221-86ea-d795641d8bf7,CBJ,Columbus Blue Jackets,PIT,Pittsburgh Penguins,2023-04-13T23:00:00Z,US/Eastern
+2a67f067-c3bb-4f74-ba84-fed5cdab2bfb,NYR,New York Rangers,TOR,Toronto Maple Leafs,2023-04-13T23:00:00Z,US/Eastern
+3b56e8c5-9fbf-4b0d-b5f6-fbcdc287288f,BUF,Buffalo Sabres,OTT,Ottawa Senators,2023-04-13T23:00:00Z,US/Eastern
+4788a527-5d2b-44a0-a457-56d6f5de2501,MTL,Montreal Canadiens,BOS,Boston Bruins,2023-04-13T23:00:00Z,US/Eastern
+924303e6-bccf-4328-9686-6dc18ea34b43,FLA,Florida Panthers,CAR,Carolina Hurricanes,2023-04-13T23:00:00Z,US/Eastern
+9e0fb656-9c8b-4812-8895-e6be7190eb62,TB,Tampa Bay Lightning,DET,Detroit Red Wings,2023-04-13T23:00:00Z,US/Eastern
+bbb833f5-54b7-4e6a-9c10-37476572efb6,WSH,Washington Capitals,NJ,New Jersey Devils,2023-04-13T23:00:00Z,US/Eastern
+6f2a6f2e-b073-4b4c-9123-c77a10c5f054,NSH,Nashville Predators,MIN,Minnesota Wild,2023-04-14T00:00:00Z,US/Central
+84b41162-6143-4be7-87e7-3b41455a1c2e,DAL,Dallas Stars,STL,St. Louis Blues,2023-04-14T00:00:00Z,US/Central
+6e607d15-6213-475a-a789-87e5a2c6ddbb,CHI,Chicago Blackhawks,PHI,Philadelphia Flyers,2023-04-14T00:30:00Z,US/Central
+2ccdf1aa-4ff0-41b8-b265-9666f6ab076d,EDM,Edmonton Oilers,SJ,San Jose Sharks,2023-04-14T01:00:00Z,US/Mountain
+863b207c-24b9-403e-ade4-b497db20125c,COL,Colorado Avalanche,WPG,Winnipeg Jets,2023-04-14T01:00:00Z,US/Mountain
+3d18de57-abae-4378-93bf-a4729ef962fd,ANA,Anaheim Ducks,LA,Los Angeles Kings,2023-04-14T02:00:00Z,US/Pacific
+98dd8317-6179-4392-9af0-7f2dcdcdf177,ARI,Arizona Coyotes,VAN,Vancouver Canucks,2023-04-14T02:00:00Z,US/Mountain
+fcf3e999-56b7-4aa3-8f55-2d0db5f47174,SEA,Seattle Kraken,VGK,Vegas Golden Knights,2023-04-14T02:30:00Z,US/Pacific
