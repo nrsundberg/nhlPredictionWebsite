@@ -70,7 +70,6 @@ team_dataframe.to_csv('team.txt', index=False)
 # # Write to csv so anyone can load after inital pull
 # player_dataframe.to_csv('player.txt', index=False)
 
-
 # uncomment two import statements and can run below for decomp of file from above without needing to run above
 # import pandas
 # import csv
@@ -81,14 +80,12 @@ with open("assets/flatFiles/player.txt", 'r') as file:
     for row in csvreader:
         player_list_all.extend(row)
 
-
 # long player dataframe to write out and make into table in SQL
 stat_info_list = ['games_played', 'goals', 'assists', 'penalties', 'penalty_minutes', 'shots', 'blocked_att', 'missed_shots', 'hits', 'giveaways', 'takeaways',
                                                     'blocked_shots', 'faceoffs_won', 'faceoffs_lost', 'faceoff_win_pct']
 player_seasonal_stats = pandas.DataFrame(columns=['id','full_name','status','height','weight','handedness','position','primary_position','jersey_number','year',
                                                      'alias', 'games_played', 'goals', 'assists', 'penalties', 'penalty_minutes', 'shots', 'blocked_att', 'missed_shots', 'hits', 'giveaways', 'takeaways',
                                                     'blocked_shots', 'faceoffs_won', 'faceoffs_lost', 'faceoff_win_pct'])
-
 j = 0
 i = range(10, 8090, 10)
 for val in i:
@@ -102,9 +99,8 @@ for val in i:
             for item in stat_info_list:
                 fill_info.append(dict_play[0][player_season][0]['statistics']['total'][item])
             player_seasonal_stats.loc[len(player_seasonal_stats.index)] = fill_info
-        j += 10
-    except:
         j += 10 
+    except:
+        j += 10
 # write out to csv when all info in dataframe
-player_seasonal_stats.to_csv('player.txt', index=False)
-
+player_seasonal_stats.to_csv('player.csv', index=False)
