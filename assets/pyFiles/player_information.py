@@ -4,7 +4,7 @@ import pandas
 import csv
 import time
 team_id_list = []
-with open("flatFiles/team_id.txt", 'r') as file:
+with open("assets/flatFiles/team_id.txt", 'r') as file:
     csvreader = csv.reader(file)
     header = next(csvreader)
     for row in csvreader:
@@ -72,24 +72,39 @@ team_dataframe.to_csv('team.txt', index=False)
 
 
 # uncomment two import statements and can run below for decomp of file from above without needing to run above
-import pandas
-import csv
+# import pandas
+# import csv
 player_list_all = []
-with open("flatFiles/player.txt", 'r') as file:
+with open("assets/flatFiles/player.txt", 'r') as file:
     csvreader = csv.reader(file)
     header = next(csvreader)
     for row in csvreader:
         player_list_all.extend(row)
-# long player dataframe to write out and make into table in SQL\
-# need to change columns when identified which items are being saved
-full_player_dataframe = pandas.DataFrame(columns=['id','full_name','status','height','weight','handedness','position','primary_position','jersey_number','year'])
-# player elements to repeat for every season are 0:9
-player_list_all[0:9]
-# player element to decompose 9:10
-# make dictionary from string object
-dict_play = eval(player_list_all[9:10][0])
-# for each key
-dict_play[0].keys()
-# need to figure out which element we want for each season
+
+
+# long player dataframe to write out and make into table in SQL
+stat_info_list = ['games_played', 'goals', 'assists', 'penalties', 'penalty_minutes', 'shots', 'blocked_att', 'missed_shots', 'hits', 'giveaways', 'takeaways',
+                                                    'blocked_shots', 'faceoffs_won', 'faceoffs_lost', 'faceoff_win_pct']
+player_seasonal_stats = pandas.DataFrame(columns=['id','full_name','status','height','weight','handedness','position','primary_position','jersey_number','year',
+                                                     'alias', 'games_played', 'goals', 'assists', 'penalties', 'penalty_minutes', 'shots', 'blocked_att', 'missed_shots', 'hits', 'giveaways', 'takeaways',
+                                                    'blocked_shots', 'faceoffs_won', 'faceoffs_lost', 'faceoff_win_pct'])
+
+j = 0
+i = range(10, 8090, 10)
+for val in i:
+    try:
+        dict_play = eval(player_list_all[val - 1 : val][0])
+        fill_info = player_list_all[j : val - 1]
+        for player_season in dict_play[0].keys():
+            fill_info = fill_info[0:9]
+            fill_info.append(player_season)
+            fill_info.append(dict_play[0][player_season][0]['alias'])
+            for item in stat_info_list:
+                fill_info.append(dict_play[0][player_season][0]['statistics']['total'][item])
+            player_seasonal_stats.loc[len(player_seasonal_stats.index)] = fill_info
+        j += 10
+    except:
+        j += 10 
 # write out to csv when all info in dataframe
-full_player_dataframe.to_csv('player.txt', index=False)
+player_seasonal_stats.to_csv('player.txt', index=False)
+
