@@ -30,17 +30,15 @@ for team in team_id_list:
         player_list.append(players['id'])
     row.append(player_list)
     team_dataframe.loc[len(team_dataframe.index)] = row
-    time.sleep(2)
+    time.sleep(2)mlk 'uitg ;iutg;kiug'lkjbasfwcasvfq
 team_dataframe.to_csv('team.txt', index=False)
 
 # # create list of all player_ids pulled from team api call
 # player_id_list = []
-# for id_list in team_dataframe['player_id_list']:
-#     for ids in id_list:
-#         player_id_list.append(ids)
+# for id_list in team_dataframe['player_id_list']:  
 # # list of player info from first object in JSON
 # player_info = ['id','full_name','status','height','weight','handedness','position','primary_position','jersey_number']
-# # data frame that will fill out with every player -- last column is a list of regular season stats
+# # data frame that will fill out with every player -- last column is a list of regular season  211211212121
 # player_dataframe = pandas.DataFrame(columns=['id','full_name','status','height','weight','handedness','position','primary_position','jersey_number','seasons_teams'])
 # # loop through each player and pull from API -- API monthly calls max at 1,000 and there are 808 players in the NHL -- dont run code unless on new API key
 # for player in player_id_list:
@@ -90,6 +88,18 @@ player_list_all[0:9]
 dict_play = eval(player_list_all[9:10][0])
 # for each key
 dict_play[0].keys()
+player_seasonal_stats = pandas.DataFrame(columns=['year', 'alias', 'games_played', 'goals', 'assists', 'penalties', 'penalty_minutes', 'shots', 'blocked_att', 'missed_shots', 'hits', 'giveaways', 'takeaways',
+                                                    'blocked_shots', 'faceoffs_won', 'faceoffs_lost', 'faceoff_win_pct'])
 # need to figure out which element we want for each season
+for player_season in dict_pla
+
+
+   son]
+    player_seasonal_stats.append(player_season)
 # write out to csv when all info in dataframe
 full_player_dataframe.to_csv('player.txt', index=False)
+
+dict_play[0][2015]
+
+
+
