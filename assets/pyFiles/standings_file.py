@@ -1,7 +1,9 @@
-import enviroment_info
+import assets.pyFiles.enviroment_info as private
 import requests
 import pandas
-nhlStandingsRequest = requests.get(f"https://api.sportradar.us/nhl/trial/v7/en/seasons/2022/REG/standings.json?api_key={enviroment_info.api_key}")
+year = '2022'
+season_type = 'REG'
+nhlStandingsRequest = requests.get(f"https://api.sportradar.us/nhl/trial/v7/en/seasons/{year}/{season_type}/standings.json?api_key={private.api_key}")
 nhlStandings = nhlStandingsRequest.json()
 conference = nhlStandings['conferences']
 western_conference_teams = conference[0]['divisions']
@@ -18,6 +20,7 @@ for item in teams:
             home = record_type  
             home_list = [home['wins'],
                         home['losses'],
+                        home['overtime_losses'],
                         home['win_pct'],
                         home['points'],
                         home['goals_for'],
@@ -27,6 +30,7 @@ for item in teams:
             road = record_type  
             road_list = [road['wins'],
                         road['losses'],
+                        road['overtime_losses'],
                         road['win_pct'],
                         road['points'],
                         road['goals_for'],
@@ -36,6 +40,7 @@ for item in teams:
     info_dict.append(item['games_played'])
     info_dict.append(item['wins'])
     info_dict.append(item['losses'])
+    info_dict.append(item['overtime_losses'])
     info_dict.append(item['win_pct'])
     info_dict.append(item['points'])
     info_dict.append(item['goals_for'])
@@ -45,16 +50,15 @@ for item in teams:
     info_dict.append(item['rank']['division'])
     info_dict.append(item['rank']['conference'])
     standings[item['name']] = info_dict
-df = pandas.DataFrame(columns=['team_name','id','games_played','wins','losses','win_pct','points','goals_for','goals_against',
-                                'home_wins','home_losses','home_win_pct','home_points','home_goals_for','home_goals_against',
-                                'road_wins','road_losses','road_win_pct','road_points','road_goals_for','road_goals_against',
+df = pandas.DataFrame(columns=['team_name','id','games_played','wins','losses', 'overtime_losses','win_pct','points','goals_for','goals_against',
+                                'home_wins','home_losses', 'home_overtime_losses','home_win_pct','home_points','home_goals_for','home_goals_against',
+                                'road_wins','road_losses', 'road_overtime_losses','road_win_pct','road_points','road_goals_for','road_goals_against',
                                 'division_rank','conference_rank'])
 for key in standings.keys():
     row = []
     row.append(key)
     row.extend(standings[key])
     df.loc[len(df.index)] = row
-
-df.to_csv('standings.txt', index = False)
+df.to_csv('standings.csv', index = False)
 
 df['id'].to_csv('team_id.txt', index = False)
