@@ -12,14 +12,46 @@ cnx = mysql.connector.connect(user=username,
  port=3306, database=database, 
  ssl_ca=certif)
 print(cnx)
+# Create cursor in db
 cursor = cnx.cursor()
-
+# sql command to execute
 sql_command = "SELECT * FROM player_statistics WHERE full_name = 'Brock Nelson'"
-sql_command = "SELECT * FROM player_statistics"
+# actuall execution
 cursor.execute(sql_command)
+# fetch results of execution
 myresult = cursor.fetchall()
-for x in myresult:
-  print(x)
-
-# Run before closing file
+# print coumns and rows of call
+cursor.column_names
+for rows in myresult:
+  print(rows)
+# close connection
 cnx.close()
+
+# # example query for info users
+# import mysql.connector
+# username = 'info'
+# password = 'Islanders1!'
+# database = 'nhlpredictions'
+# server = 'nhlpredictions.mysql.database.azure.com'
+# certif = 'assets\certFiles\DigiCertGlobalRootCA.crt.pem'
+# # Connecting to mysql database
+# cnx = mysql.connector.connect(user=username,
+#  password=password, 
+#  host=server, 
+#  port=3306, database=database, 
+#  ssl_ca=certif)
+# print(cnx)
+# # Create cursor in db
+# cursor = cnx.cursor()
+# # sql command to execute
+# sql_command = "SELECT * FROM player_statistics WHERE full_name = 'Brock Nelson'"
+# # actuall execution
+# cursor.execute(sql_command)
+# # fetch results of execution
+# myresult = cursor.fetchall()
+# # print coumns and rows of call
+# cursor.column_names
+# for rows in myresult:
+#   print(rows)
+# # close connection
+# cnx.close()

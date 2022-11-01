@@ -104,3 +104,4 @@ for val in i:
         j += 10
 # write out to csv when all info in dataframe
 player_seasonal_stats.to_csv('player.csv', index=False)
+# Cherry wants plus minus -- wait for any more info before pull becuase that is 808 calls

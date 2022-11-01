@@ -14,6 +14,7 @@ metropolitan_eastern_conference_teams = eastern_conference_teams[0]['teams']
 atlantic_eastern_conference_teams = eastern_conference_teams[1]['teams']
 teams = pacific_western_conference_teams + central_western_conference_teams + metropolitan_eastern_conference_teams + atlantic_eastern_conference_teams
 standings = {}
+info_dict_cat = ['id','games_played','wins','losses', 'overtime_losses','win_pct','points','goals_for','goals_against']
 for item in teams:
     for record_type in item['records']:
         if record_type['record_type'] == 'home':
@@ -36,15 +37,8 @@ for item in teams:
                         road['goals_for'],
                         road['goals_against']]
     info_dict = []
-    info_dict.append(item['id'])
-    info_dict.append(item['games_played'])
-    info_dict.append(item['wins'])
-    info_dict.append(item['losses'])
-    info_dict.append(item['overtime_losses'])
-    info_dict.append(item['win_pct'])
-    info_dict.append(item['points'])
-    info_dict.append(item['goals_for'])
-    info_dict.append(item['goals_against'])
+    for info_dict_item in info_dict_cat:
+        info_dict.append(item[info_dict_item])
     info_dict.extend(home_list)
     info_dict.extend(road_list)
     info_dict.append(item['rank']['division'])
@@ -60,5 +54,3 @@ for key in standings.keys():
     row.extend(standings[key])
     df.loc[len(df.index)] = row
 df.to_csv('standings.csv', index = False)
-
-df['id'].to_csv('team_id.txt', index = False)
